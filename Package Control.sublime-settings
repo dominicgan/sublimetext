@@ -1,0 +1,57 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Babel",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitSyntaxes",
+		"Haml",
+		"HTML2Haml",
+		"HTML5",
+		"HTMLBeautify",
+		"INI",
+		"jQuery",
+		"JSON Reindent",
+		"JSONLint",
+		"JSX",
+		"Liquid",
+		"Materialize",
+		"Minify",
+		"Monochrome Color Schemes",
+		"One Dark Material - Theme",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Print to HTML",
+		"ProjectManager",
+		"React Templates",
+		"Sass",
+		"SideBarEnhancements",
+		"Status Bar Time",
+		"Sublime-CSS3",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmllint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-phplint",
+		"TrailingSpaces",
+		"Trimmer"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}

@@ -1,0 +1,26 @@
+[
+{ "keys": ["ctrl+alt+shift+r"], "command": "reindent" },
+{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
+{ "keys": ["ctrl+alt+shift+t"], "command": "translate_spaces_to_tabs" },
+{ "keys": ["ctrl+alt+shift+w"], "command": "translate_tabs_to_spaces" },
+{ "keys": ["ctrl+shift+d"], "command": "file_diff_menu" },
+{ "keys": ["ctrl+shift+e"], "command": "file_diff_menu", "args": {"cmd": ["opendiff", "$file1", "$file2"] } },
+    { "keys": ["super+shift+l"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "console.log(${1:}$SELECTION);${0}"
+      }, "context":
+      [
+        { "key": "selector", "operator": "equal", "operand": "source.js", "match_all": true }
+      ]
+    },
+    { "keys": ["super+shift+l"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "NSLog(@\"${1:}$SELECTION\"$2);\n${0}"
+      }, "context":
+      [
+        { "key": "selector", "operator": "equal", "operand": "source.objc", "match_all": true }
+      ]
+    }
+]

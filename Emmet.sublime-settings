@@ -1,0 +1,19 @@
+{
+    "disable_completions": false,
+
+    // This solution works to override annoying autocompletions from emmet.
+    // I could do without seeing "widows" ever again, but just in case I added it back so that "widows" won't autocorrect to "width"
+
+    "snippets": {
+        "css": {
+            "filters": "css",
+            "profile": "css",
+            "snippets": {
+                "wi": "width:|;",
+                "wid": "width:|;",
+                "widows": "widows:|;"
+            }
+        }
+    }
+}
+
