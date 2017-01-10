@@ -65,7 +65,7 @@
 	[
 		"directwrite"
 	],
-	"font_size": 9.5,
+	"font_size": 9,
 	"highlight_line": true,
 	"ignored_packages":
 	[
