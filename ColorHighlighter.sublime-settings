@@ -1,4 +1,3 @@
 {
-	"ha_style": "outlined",
-    "ha_icons": true,
+    "style": "filled"
 }

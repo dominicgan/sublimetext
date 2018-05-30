@@ -1,3 +1,9 @@
 {
-		"alignment_chars": ["=",":"],
+	"alignment_chars": ["=", ":"],
+	"alignment_space_chars": ["="],
+	// Any additional boilerplate tags which should be added to each block. Should be an array of strings.
+	// Note that this only applies when a docblock is opened directly preceding a function.
+	// Tab points can be added by using snippet syntax, eg: ${1:default text}
+	"jsdocs_extra_tags": ["@function", "@author dominic <dominic.gan@mirumagency.com>"],
+	"jsdocs_autoadd_method_tag": false
 }

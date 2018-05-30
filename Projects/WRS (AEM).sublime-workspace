@@ -1,0 +1,3393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"produc",
+				"productQty"
+			],
+			[
+				"scr",
+				"scrollY"
+			],
+			[
+				"thum",
+				"thumbnail-ticket-item\t(style.css)"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"just",
+				"justify-content\t(style.css)"
+			],
+			[
+				"pageOverlay",
+				"pageOverlayHide"
+			],
+			[
+				"pageOve",
+				"pageOverlayShow"
+			],
+			[
+				"ticekting",
+				"ticketing-error"
+			],
+			[
+				"handleS",
+				"handleSelectFocus"
+			],
+			[
+				"handle",
+				"handleSelectFocus"
+			],
+			[
+				"cont",
+				"controlInput"
+			],
+			[
+				"canvas",
+				"canvasWidth"
+			],
+			[
+				"programe",
+				"programmeType"
+			],
+			[
+				"expPlanner",
+				"expPlannerData"
+			],
+			[
+				"tracked",
+				"trackedFields"
+			],
+			[
+				"ns_ad",
+				"ns_admission_time"
+			],
+			[
+				"ns_",
+				"ns_admission_date"
+			],
+			[
+				"ticketing_select",
+				"ticketing_selected_time"
+			],
+			[
+				"ticketing_s",
+				"ticketing_selected_date"
+			],
+			[
+				"data",
+				"dataAnalytics"
+			],
+			[
+				"sessTicket",
+				"sessTicketQty"
+			],
+			[
+				"email",
+				"emailField"
+			],
+			[
+				"av",
+				"available\t(template-multi-step-4a.pug)"
+			],
+			[
+				"highl",
+				"highlightedDays"
+			],
+			[
+				"def",
+				"defDateObjIndex"
+			],
+			[
+				"hgihl",
+				"highlightedDays"
+			],
+			[
+				"default",
+				"defaultDate"
+			],
+			[
+				"defau",
+				"defaultDate"
+			],
+			[
+				"datetext",
+				"datetext"
+			],
+			[
+				"daet",
+				"dateSelected"
+			],
+			[
+				"tickteA",
+				"ticketAdult"
+			],
+			[
+				"purcah",
+				"purchase"
+			],
+			[
+				"purcahse",
+				"purchase"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"data-config-",
+				"data-config-footer"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"selC",
+				"selCountryRes"
+			],
+			[
+				"tic",
+				"ticketInfo"
+			],
+			[
+				"datalay",
+				"datalayer"
+			],
+			[
+				"numberTic",
+				"numberTicketItem"
+			],
+			[
+				"ticketing",
+				"ticketingTemplate"
+			],
+			[
+				"banne",
+				"bannerBlock"
+			],
+			[
+				"ticketBl",
+				"ticketBlockHeight"
+			],
+			[
+				"scrollT",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"selectP",
+				"selectElParams"
+			],
+			[
+				"selectize",
+				"selectize-input"
+			],
+			[
+				"defa",
+				"default\t(Gruntfile.js)"
+			],
+			[
+				"yout",
+				"youtube-wrapper"
+			],
+			[
+				"poa",
+				"position:absolute"
+			],
+			[
+				"traslat",
+				"translateX"
+			],
+			[
+				"round",
+				"roundUpPrice"
+			],
+			[
+				"wrsD",
+				"wrsDataLayer2"
+			],
+			[
+				"WrsD",
+				"wrsDataLayer2"
+			],
+			[
+				"wrs",
+				"wrsDataLayer"
+			],
+			[
+				"nic",
+				"nicInput"
+			],
+			[
+				"selecte",
+				"selectedPrice"
+			],
+			[
+				"sele",
+				"selectedPrice"
+			],
+			[
+				"ava",
+				"availableDates"
+			],
+			[
+				"items",
+				"itemsList"
+			],
+			[
+				"padd",
+				"paddingTop"
+			],
+			[
+				"paddng",
+				"paddingBottom"
+			],
+			[
+				"arrow-",
+				"arrow-height"
+			],
+			[
+				"d",
+				"disabled"
+			],
+			[
+				"isF",
+				"isfocused"
+			],
+			[
+				"pro",
+				"promoInput"
+			],
+			[
+				"min",
+				"minlength\t(form-contact-detail.pug)"
+			],
+			[
+				"validat",
+				"validationResult"
+			],
+			[
+				"eror",
+				"errorClass"
+			],
+			[
+				"success",
+				"successClass"
+			],
+			[
+				"payment",
+				"payment_processing"
+			],
+			[
+				"processing",
+				"payment_processing"
+			],
+			[
+				"getPaymen",
+				"getPaymentFail"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tTa",
+				"tTakSec"
+			],
+			[
+				"tTk",
+				"tTakMin"
+			],
+			[
+				"$ibeNav",
+				"$ibeNavList"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"$sco",
+				"$scopeMob\tproperty"
+			],
+			[
+				"webkit-font",
+				"webkit-font-smoothing"
+			],
+			[
+				"$country",
+				"$countryselectorMobile"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"accordi",
+				"accordionLink"
+			],
+			[
+				"topfaq",
+				"topfaqid\t(c042-card-accordion.pug)"
+			],
+			[
+				"iamg",
+				"images\t(c008.pug)"
+			],
+			[
+				"showContet",
+				"showContentOnLoadHandler"
+			],
+			[
+				"curVa",
+				"curvalueEl"
+			],
+			[
+				"countr",
+				"countrySelectize"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"new",
+				"newEl"
+			],
+			[
+				"prevC",
+				"prevCountry"
+			],
+			[
+				"callHotlineN",
+				"callHotLineNumber1"
+			],
+			[
+				"ese",
+				"else"
+			],
+			[
+				"scroll",
+				"scrollTop\t(c017.ts)"
+			],
+			[
+				"preve",
+				"preventDefault\t(c005-bookingform.ts)"
+			],
+			[
+				"fromData",
+				"formDataWhichFail"
+			],
+			[
+				"conso",
+				"console.log\t(c005-bookingform.ts)"
+			],
+			[
+				"$pass",
+				"$passengerDetails"
+			],
+			[
+				"initia",
+				"initialize\t(c005-bookingform.ts)"
+			],
+			[
+				"formaA",
+				"formData"
+			],
+			[
+				"iberedem",
+				"iberedemption"
+			],
+			[
+				"ibere",
+				"iberedemption"
+			],
+			[
+				"bacg",
+				"background-size\t(_typography.scss)"
+			],
+			[
+				"cabin",
+				"cabinItem"
+			],
+			[
+				"trip",
+				"tripTypeHandler"
+			],
+			[
+				"$passe",
+				"$passengerDetailsActive"
+			],
+			[
+				"$curDate",
+				"$curDatepickerTitle"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"c005",
+				"c005bookingform"
+			],
+			[
+				"afte",
+				"afterShow"
+			],
+			[
+				"back",
+				"background\t(_C001.scss)"
+			],
+			[
+				"backgroud",
+				"background-color\t(_forms.scss)"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"$mobSear",
+				"$mobSearchOffsetTop"
+			],
+			[
+				"backg",
+				"background-color\t(_forms.scss)"
+			],
+			[
+				"scope",
+				"$scope\tproperty"
+			],
+			[
+				"lastMsg",
+				"lastMsgSize"
+			],
+			[
+				"diemn",
+				"dimensionObj"
+			],
+			[
+				"$alertHeigh",
+				"$alertHeights\tproperty"
+			],
+			[
+				"$alertH",
+				"$alertHeights\tproperty"
+			],
+			[
+				"$getCoun",
+				"$getCountryCode"
+			],
+			[
+				"dat",
+				"datatable"
+			],
+			[
+				"deals",
+				"dealstable"
+			],
+			[
+				"$exp",
+				"$expSecondaryNavOffsetTop"
+			],
+			[
+				"aria-",
+				"aria-hidden\t(c059.pug)"
+			],
+			[
+				"backgr",
+				"background-position\t(_C059.scss)"
+			],
+			[
+				"trnas",
+				"transform\t(_c050.scss)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/header/header.html",
+			"settings":
+			{
+				"buffer_size": 19949,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\nSearching 283 files for \"add-element.js\"\n\n/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/content/form/quantityselectorcomp/quantityselectorcomp.html:\n    7      <li class=\"ticket-row\">\n    8          <div class=\"ticket-decription\" data-sly-test=\"${!properties.hideLabel}\">${properties.elementLabel}</div>\n    9:         <div class=\"ticket-amount ticket-amount-zoo\" data-validate data-load-plugins=\"[&quot;validate.js&quot;, &quot;add-element.js&quot;]\"><span class=\"fa fa-minus\" data-minus></span>\n   10              <input class=\"input-form\" type=\"text\" value=\"${properties.min}\" min=\"${properties.min}\" max=\"${properties.max}\" id=\"${properties.elementName}\" name=\"${properties.elementName}\" data-number-ticket><span class=\"fa fa-plus\" data-plus> </span>\n   11          </div>\n\n/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/addonselection/addonselection.html:\n    8  \n    9          <sly data-sly-test.show = \"${addOn.isChose}\">\n   10:             <div class=\"add-on-selection active\" data-add-element=\"\" data-add-to-cart=\"Add to Cart\" data-update-cart=\"Updated to cart\" data-load-plugins=\"[&quot;add-element.js&quot;]\">\n   11                  <div class=\"inner\" data-click>\n   12                      <div class=\"wrapp-img\"><img src=\"${addOn.image}\" alt=\"${addOn.name}\">\n   ..\n   99  \n  100          <sly data-sly-test=\"${!show}\">\n  101:             <div class=\"add-on-selection\" data-add-element=\"\" data-add-to-cart=\"Add to Cart\" data-update-cart=\"Updated to cart\" data-load-plugins=\"[&quot;add-element.js&quot;]\">\n  102                  <div class=\"inner\" data-click>\n  103                      <div class=\"wrapp-img\"><img src=\"${addOn.image}\" alt=\"${addOn.name}\">\n\n/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/detailstep/detailstep.html:\n   10  \t\tclass=\"ticketing-page\"\n   11  \t\tdata-ticketing data-step=\"6\"\n   12: \t\tdata-load-plugins=\"[&quot;ticketing.js&quot;, &quot;validate.js&quot;, &quot;add-element.js&quot;]\"\n   13  \t\taction=\"/bin/wrs/contact-detail\">\n   14  <div class=\"overlay\" data-page-overlay>\n\n/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/singleparkitem/singleparkitem.html:\n    7  \n    8  <sly data-sly-test.isAddons=\"${item.typeTicketing == 'addOn'}\" >      \n    9: \t<label class=\"thumbnail-ticket-item style-2 ${item.isSelected? 'active': ''}\" for=\"thumn-bird-1\" title=\"${item.productName}\" data-eq-height=\"thumnail-ticket-multi\" data-add-element data-load-plugins=\"[&quot;add-element.js&quot;]\">\n   10  \t\t<input class=\"hidden\" id=\"thumn-zoo-2\" type=\"checkbox\" name=\"addon\" value=\"${item.pathProduct}\" data-sly-attribute.checked =\"${item.isSelected}\" >\n   11  \t\t<sly data-sly-use.singleItemParkAddOns=\"/apps/wrs/components/ticketing/singlepark/singleparkitem/singleparkitemaddons.html\" \n\n/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/ticketstep/membershiptemplate.html:\n    3  \n    4  <form method=\"GET\" class=\"ticketing-page\" data-ticketing data-step=\"11\"\n    5: \tdata-load-plugins=\"[&quot;ticketing.js&quot;, &quot;validate.js&quot;, &quot;add-element.js&quot;]\"\n    6  \taction=\"/bin/wrs/membership-ticket\">\n    7  \t<input type =\"hidden\" name = \"current-pagePath\" value = \"${ticketStep.currentPageUrl}\"/>\n\n/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/ticketstep/ticketsteptemplate.html:\n    4  \n    5  \t<form method=\"POST\" class=\"ticketing-page\" data-ticketing data-step=\"${isMultiPark ? '9' : '2'}\"\n    6: \t\tdata-load-plugins=\"[&quot;ticketing.js&quot;, &quot;validate.js&quot;, &quot;add-element.js&quot;]\"\n    7  \t\taction=\"${isMultiPark ? '/bin/wrs/multipark/ticket-selection.servlet' : '/bin/wrs/ticket-selection'}\">\n    8  \t    <input type =\"hidden\" name = \"type-ticketing\" value = \"ticket\"/>\n\n7 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 4111,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/addonselection/addonselection.html",
+			"settings":
+			{
+				"buffer_size": 15193,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/parklandinghero/parklandinghero.html",
+			"settings":
+			{
+				"buffer_size": 3514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/topparkadvisory/topparkadvisory.html",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/reviewstep/reviewstep.html",
+			"settings":
+			{
+				"buffer_size": 12739,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"last_filter": "setjsp",
+		"selected_items":
+		[
+			[
+				"setjsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"trtai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"rename",
+				"Project Manager: Rename Project"
+			],
+			[
+				"newpro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setmarkdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"htmlprett",
+				"HTMLPrettify"
+			],
+			[
+				"minify",
+				"HTML Minfier: Minify File (modify existing)"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"better",
+				"Set Syntax: Better Less"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syntaxless",
+				"Set Syntax: LESS"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"set synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"formatjson",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"prettjson",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"syntax",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"preferences",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"remove pro",
+				"Project Manager: Remove Project"
+			],
+			[
+				"ren",
+				"Project Manager: Rename Project"
+			],
+			[
+				"set snyax pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"typescr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"prettiy",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"typescriptfor",
+				"TypeScript: Format Block"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"project ",
+				"Project Manager"
+			],
+			[
+				"rename project",
+				"Project Manager: Rename Project"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"togglelint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacak",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/workspace/WRS/WRS-website-tech",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/clientlib-site",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/clientlib-site/images"
+	],
+	"file_history":
+	[
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/clientlib-site/images/bg-bird-table.svg",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/reviewstep/reviewstep.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/detailstep/detailstep.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/plugins/ticketing.js",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/plugins/modal-timeout.js",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/site.js",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/header/header.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/page/partials/footlibs.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/topparkadvisory/topparkadvisory.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/conservationcountries/conservationcountries.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/conservationbanner/conservationbanner.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/content/form/formstandardcomp/formstandardcomp.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/wrsmasthead/wrsmasthead.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/clientlib-site/fonts/MerriweatherSans-ExtraBold.svg",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/parklandinghero/parklandinghero.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/animalandzone/animalandzone.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/templates/sidebar-download.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/plugins/form-effect.js",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/datestep/datestep.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/ticketing/page-ticketing-landing/page-ticketing-landing.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/ticketing/page-ticketing-content-landing/page-ticketing-content-landing.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/ticketing/page-ticketing-content/page-ticketing-content.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/ticketing/membership-content/membership-content.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/page/page.html",
+		"/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/headerwithsearch/headerwithsearch.html",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/style/style.css",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/style/libs.css",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/social-grid.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/top-park-advisory.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/form.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/interleaved-menu.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/landing.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/show-notice.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/top-park-advisory.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/select-payment.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/variable.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/total-detail.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/modals/modal-terms.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/modals/modal-responsive.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/thumbnails.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/modals/modal-common.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/site.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/thumbnail-ticket.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/multi-park-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/membership-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/column-image-headlineText.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/search-with-header.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/search-news.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/search.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/faq-categories.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-component-library-2a.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/component-library-bird.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/static-search-component.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/search.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/header.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-2.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/mega-menu.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-thank-you.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/header.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/layout-landing.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/ticketing.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/tracking-data.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/calendar.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/button.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/CONTRIBUTING.md",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/.editorconfig",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/README.md",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/single-slider-landing.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/tab.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/calendar.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/loading.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-5b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-5.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-4b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-4a.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-4.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-3.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/ticketing-dropdown.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/loading.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/Gruntfile.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/mixin.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/css3-mixins.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/page.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/membership-portal/membership-form.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/common.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/park-addmission.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/social-grid.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/promo-banner.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/quick-facts.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/mega-menu.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/list-experience.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/libs/selectize.default.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/template-wrs.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-wrs.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-maintenance.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/server.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/package.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-3.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-4a.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-4b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-5.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-5b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-6b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-6.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-7.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-7.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-6b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-6.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/form-contact-detail.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/libs/selectize.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/search-component.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/single-park-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/selection-page.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/footer.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/add-on-selection.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/map.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/node_modules/collections/map.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/anchor-tag.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/faq-categories.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/data/search-news.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/search.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/node_modules/colors/ReadMe.md",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/header-basic.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/layout-maintenance.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/tmp/site.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/node_modules/autolinker/bower.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/node_modules/gulp-spawn/node_modules/minimist/test/default_bool.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			"<project>, *.html, *.jsp",
+			"<project>, -*.css, -*.map",
+			"<project>, -*.css",
+			"<project>",
+			"<project>, *.html, *.jsp",
+			"<project>, *.html",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.ts",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, ",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.json",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -*/libs/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -*/libs/*, -font*.less, -variable*.less, -*mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -*/libs/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -variable*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, *.pug",
+			"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/, *.js",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug",
+			"<project>, -*/node_modules/*, -font*.less, -mixin*.less, *.less",
+			"<project>, *.pug"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"desc\"",
+			"\"desc",
+			"div1",
+			"<p class=\"desc\">",
+			"p class=\"desc",
+			"p class",
+			"add-element.js",
+			"add-element",
+			"<iframe",
+			"iframe",
+			"video-banner.js",
+			"iframe",
+			"ajax-fail-btn",
+			"btn-ajax",
+			"btn-ajax-",
+			"btn-ajax-fail",
+			"numberofTicketsCost",
+			"<div class=\"header-note\" ",
+			"<div class=\"header-note\" data-header-notice>",
+			"Non-Sticky",
+			"<img src=\"\" alt=\"loading\">",
+			"class=\"loading\"",
+			"etc/designs",
+			"class=\"loading\"",
+			"https://www.youtube.com/iframe_api",
+			"top-park-adv",
+			"top-parl",
+			"top-park-advisory",
+			"conservation-countries",
+			"tracking-data.js",
+			"count-bottom",
+			"conservation-statement-banner",
+			"conservation banner",
+			"email-form",
+			"data-get-email-list",
+			"sidebar-download",
+			"email-form",
+			"youtube",
+			"video-banner.js",
+			"autoplay=1",
+			"yout",
+			"autoplay",
+			"autoplay=1",
+			"failTarget",
+			"failtarget",
+			"ajax-fail-btn",
+			"button.ajax-fail-btn",
+			"failtarget",
+			"data-url",
+			"overlay",
+			"data-url",
+			"failTarget",
+			"          var failTarget = $(e.target).attr('data-url');\nfailTarget",
+			"failTarget",
+			"wasProcessing",
+			"processing",
+			"$.ajax",
+			"initsteprevie",
+			"payment_processing",
+			"to",
+			"todo",
+			"livereload",
+			"watch",
+			"concurrent",
+			"connect",
+			"server",
+			"watch",
+			"nodemon",
+			"concurrent",
+			"buildDev",
+			"that.processingErrorOverlay",
+			"processingErrorOverlay",
+			"servletClearUrl",
+			"processingErrorOverlay",
+			"processing",
+			"payment_processing",
+			"review",
+			"setCookie",
+			"data-number",
+			"count",
+			"count-number",
+			".count-number",
+			"count",
+			"count-number",
+			"min-height",
+			"justify-content: center",
+			"space-between",
+			"nodemon",
+			"concurrent",
+			"browsersync",
+			"3009",
+			"cookie",
+			"last chance",
+			".select-country",
+			"px2rem",
+			".ticketing-page",
+			".heading-block",
+			"\"), ",
+			"EMP-1455",
+			"$A$194,\"",
+			"label-custom",
+			"m054",
+			"opacity",
+			"search-with-header",
+			"search-component.js",
+			"search",
+			".unordered",
+			".unorded",
+			".symantec",
+			"top: 0",
+			".symantec",
+			"width",
+			".title",
+			".attraction-box",
+			"thumb-8",
+			"#thumb-7",
+			"thumb-7",
+			"#thumb-7",
+			"#thumb-",
+			"thumb-7",
+			"../fonts",
+			"'..",
+			"thumbnail-ticket-item",
+			"group-button",
+			"modal-content",
+			"span",
+			"70%",
+			"width: 70%"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"<!-- outdatedbrowser -->\n<link rel=\"stylesheet\" href=\"/etc/designs/mas/clientlib-site/js/vendor/outdatedbrowser.min.css\">\n<script src=\"/etc/designs/mas/clientlib-site/js/vendor/outdatedbrowser.min.js\" type=\"text/javascript\"></script>\n<script>// event listener form DOM ready\nfunction addLoadEvent(func) {\n  var oldonload = window.onload;\n  if (typeof window.onload != 'function') {\n    window.onload = func;\n  } else {\n    window.onload = function() {\n      oldonload();\n      func();\n    }\n  }\n}\n\n// call function after DOM ready\naddLoadEvent(function(){\n  var curSite = window.location.href.split('/')[4];\n  if (curSite) {\n    var getLanguage = curSite.replace('.html','');\n  }\n\n  // default language to english if path not found\n  outdatedBrowser({\n    bgColor: '#14467b',\n    color: '#ffffff',\n    lowerThan: 'transform',\n    languagePath: curSite ? '/js/plugins/outdated-browser/lang/'+getLanguage+'.html' : '/js/plugins/outdated-browser/lang/en.html'\n  })\n});\n</script>\n\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>",
+			"@font-size-mobile",
+			"@font-size-large",
+			".px2rem(font-size, @font-size-base)",
+			"ANIMALS",
+			"\"",
+			"(max-width: @screen-small-max)",
+			"@screen-design-max",
+			"@media only screen and (min-width: @screen-md-min) and (max-width: @screen-md-max) {",
+			"@yt-color",
+			"@cool-grey",
+			"@black",
+			"color: @cool-grey;",
+			"color: @white;",
+			"color: @black;",
+			"color: @red-4",
+			".px2rem(font-size, 16)",
+			".px2rem(font-size, @font-size-h6)",
+			".px2rem(font-size, @font-size-h5)",
+			".px2rem(font-size, @font-size-h4)",
+			".px2rem(font-size, @font-size-h3)",
+			".px2rem(font-size, @font-size-h2)",
+			".px2rem(font-size, @font-size-h1)",
+			".px2rem(font-size, @font-size-small)",
+			".px2rem(font-size, @font-size-large)",
+			".px2rem(font-size, 18",
+			".px2rem(font-size, @font-size-large);",
+			"color: @white;",
+			"background: @white;",
+			"@white",
+			"background-color: @white;",
+			"@media only screen and (min",
+			"@media only screen and (max",
+			"@media only screen and (max-width: @screen-sm-max)",
+			"@media only screen and (min-width: @screen-tablet-max) and (max-width: @screen-design-min) {",
+			"@media (max-width: @screen-xs-max)",
+			"@media only screen and (min-width: @screen-tablet-landscape) and (max-width: @screen-design-min) {",
+			"max-width: @screen-design-min",
+			"@media only screen (min-width: @screen-tablet-landscape) and (max-width: @screen-design-min)",
+			"@media only screen and ",
+			".change-ff-em(@font-merriweathersans-light",
+			"font-family: @font-merriweathersans-light",
+			"font-family: @font-avenir-demibold;",
+			"font-family: @font-nunito-",
+			"font-family: 'FontAwesome';",
+			"'FontAwesome'",
+			"stypeBody",
+			"li.ticket-row(data-ticket-type=\"rAdult\", data-ticket-price=\"12.00\")",
+			"",
+			" min-width: initial",
+			" 0",
+			"if (",
+			"console.log('this guy removes it'); submitBtn.removeClass('disabled');",
+			"sessionStorage.setItem('dataLayer', btoa(JSON.stringify(dataAnalytics)));",
+			"Multi",
+			"// ",
+			"#multi",
+			"S$",
+			"href: 'template-single-step-3.html'",
+			".total-detail-content(data-show, style=\"display: block\")",
+			"'images/logo-wrs.svg'",
+			"lighten($seashell, 5%)",
+			"$.get('/dummy-data/airportlist.json')",
+			"=basedir+'",
+			"=basedir+\"",
+			"href=basedir+\"",
+			", new Date(Date.now()).toUTCString());",
+			"_self.$scopeMob.find('input",
+			"_self.$scopeMob.find('.",
+			"console.table([$data]",
+			"",
+			"closeText: '<i class=\"fa fa-times\" aria-hidden=\"true\"></i>',",
+			"beforeShow: function(ele:any, obj:any)",
+			"/* MABUAT1-2 Fix */",
+			"Kota Bharu",
+			"'cover_image': '/images/enrich/promotions/promo_bg_.png'",
+			"respond-to(767)",
+			"searchresults",
+			"initSearchPageBar",
+			"searchpagebar",
+			"searchresults",
+			"search",
+			"$vb",
+			"fa-",
+			"https://placehold.it/150x150",
+			"topfaq",
+			"${",
+			"@include respond-to(767",
+			"$border-color",
+			"$content-padding",
+			"index",
+			"c056-card-content",
+			"has-error",
+			"else {",
+			"multiCityDepartureDate",
+			"multicityDepartureDate",
+			"multicity-to--location.depLocationEnd",
+			"multicity-from--location.depLocationBegin",
+			"#form-booking--trip",
+			"initMultiCityAddRemoveBtns",
+			"} else",
+			"$errorValidation",
+			") {",
+			":any ",
+			"() {",
+			"if (",
+			"else {",
+			"_self",
+			"multi-city--hide.multi-city--destination-group",
+			"multicityAddFlights",
+			"// not in style-guide",
+			"yrs",
+			"$('.search-container').show();\n$('.search-container').parent().addClass('expanded');",
+			"images/oneworld-logo.svg",
+			"language",
+			".svg",
+			"/images/flags",
+			"required='required')",
+			"aria-required='true'",
+			".onewaytrip #returnTripDepartMobileOneWay",
+			".oneWayTrip #returnTripDepartOneWay",
+			"passDetailsContSelected",
+			"passDetailsCont",
+			", aria-required=\"true\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/header/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1703,
+								1703
+							]
+						],
+						"settings":
+						{
+							"SL.311.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"SL.404.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"SL.451.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"SL.470.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.780.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										2205,
+										2208
+									]
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1716,
+										1717
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1692,
+										1693
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4111,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										490,
+										504
+									],
+									[
+										1238,
+										1252
+									],
+									[
+										1634,
+										1648
+									],
+									[
+										2120,
+										2134
+									],
+									[
+										2697,
+										2711
+									],
+									[
+										3346,
+										3360
+									],
+									[
+										3873,
+										3887
+									],
+									[
+										4111,
+										4111
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								976,
+								976
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/header",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 4,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/addonselection/addonselection.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8298,
+								8304
+							]
+						],
+						"settings":
+						{
+							"SL.517.region_keys":
+							[
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.533.region_keys":
+							[
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8303,
+										8304
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8298,
+										8299
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8303,
+										8304
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8298,
+										8299
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1592.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/parklandinghero/parklandinghero.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1936,
+								1943
+							]
+						],
+						"settings":
+						{
+							"SL.474.region_keys":
+							[
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										1,
+										4
+									]
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2010,
+										2016
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1937,
+										1943
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/topparkadvisory/topparkadvisory.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.452.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.471.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2040,
+										2043
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										701,
+										704
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										487,
+										490
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										4
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/dgan/workspace/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/ticketing/singlepark/reviewstep/reviewstep.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1037,
+								1037
+							]
+						],
+						"settings":
+						{
+							"SL.206.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"SL.450.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1032,
+										1036
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										909,
+										913
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1032,
+										1036
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										909,
+										913
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 296.0
+	},
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "WRS (AEM).sublime-project",
+	"replace":
+	{
+		"height": 1306.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"topparkadvisory",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/commons/topparkadvisory/topparkadvisory.html"
+			],
+			[
+				"/etc/designs/wrs/clientlib-site/images/",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/clientlib-site/images/bg-bird-table.svg"
+			],
+			[
+				"headerhtml",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/apps/wrs/components/structure/header/header.html"
+			],
+			[
+				"sidebard",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/templates/sidebar-download.html"
+			],
+			[
+				"clientlibsite",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/clientlib-site/fonts/MerriweatherSans-ExtraBold.svg"
+			],
+			[
+				"formeffect",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/plugins/form-effect.js"
+			],
+			[
+				"sitejs",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/site.js"
+			],
+			[
+				"modaltimeout",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/plugins/modal-timeout.js"
+			],
+			[
+				"ticketing.js",
+				"wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs/footLibs/js/plugins/ticketing.js"
+			],
+			[
+				"ticketing",
+				"wrs-frontent/app/scripts/plugins/ticketing.js"
+			],
+			[
+				"editorc",
+				"wrs-frontent/.editorconfig"
+			],
+			[
+				"megamenu",
+				"wrs-frontent/app/styles/blocks/mega-menu.less"
+			],
+			[
+				"templatesinglethankyou",
+				"wrs-frontent/app/views/template-single-step-thank-you.pug"
+			],
+			[
+				"map.js",
+				"wrs-frontent/app/scripts/plugins/map.js"
+			],
+			[
+				"gruntfilejs",
+				"wrs-frontent/Gruntfile.js"
+			],
+			[
+				"thankyou",
+				"wrs-frontent/app/views/template-single-step-thank-you.pug"
+			],
+			[
+				"headerpug",
+				"wrs-frontent/app/views/blocks/header.pug"
+			],
+			[
+				"header",
+				"wrs-frontent/app/scripts/plugins/header.js"
+			],
+			[
+				"templatesingle6b",
+				"wrs-frontent/app/views/template-single-step-6b.pug"
+			],
+			[
+				"templatesingle2",
+				"wrs-frontent/app/views/template-single-step-2.pug"
+			],
+			[
+				"singlethan",
+				"wrs-frontent/app/views/template-single-step-thank-you.pug"
+			],
+			[
+				"ticketingjs",
+				"wrs-frontent/app/scripts/plugins/ticketing.js"
+			],
+			[
+				"thumnticketless",
+				"wrs-frontent/app/styles/blocks/thumbnail-ticket.less"
+			],
+			[
+				"thumbnai",
+				"wrs-frontent/app/styles/blocks/thumbnails.less"
+			],
+			[
+				"server.js",
+				"wrs-frontent/app/server.js"
+			],
+			[
+				"gruntfile",
+				"wrs-frontent/Gruntfile.js"
+			],
+			[
+				"template6b",
+				"wrs-frontent/app/views/template-single-step-6b.pug"
+			],
+			[
+				"template6pug",
+				"wrs-frontent/app/views/template-multi-step-6.pug"
+			],
+			[
+				"templatesinglestep6",
+				"wrs-frontent/app/views/template-single-step-6.pug"
+			],
+			[
+				"membershipform",
+				"wrs-frontent/app/styles/blocks/membership-portal/membership-form.less"
+			],
+			[
+				"searchless",
+				"wrs-frontent/app/styles/blocks/search.less"
+			],
+			[
+				"faq-categories",
+				"wrs-frontent/app/views/blocks/faq-categories.pug"
+			],
+			[
+				"search-news",
+				"wrs-frontent/app/views/blocks/search-news.pug"
+			],
+			[
+				"sarchpug",
+				"wrs-frontent/app/views/blocks/search.pug"
+			],
+			[
+				"search-with-header",
+				"wrs-frontent/app/views/blocks/search-with-header.pug"
+			],
+			[
+				"component2a",
+				"wrs-frontent/app/views/template-component-library-2a.pug"
+			],
+			[
+				"searchcomponentpug",
+				"wrs-frontent/app/views/blocks/static-search-component.pug"
+			],
+			[
+				"search-compo",
+				"wrs-frontent/app/scripts/plugins/search-component.js"
+			],
+			[
+				"searchjs",
+				"wrs-frontent/app/scripts/plugins/search.js"
+			],
+			[
+				"ticketingdro",
+				"wrs-frontent/app/scripts/plugins/ticketing-dropdown.js"
+			],
+			[
+				"interlea",
+				"wrs-frontent/app/scripts/plugins/interleaved-menu.js"
+			],
+			[
+				"multi-park-step-1",
+				"wrs-frontent/app/views/blocks/multi-park-step-1.pug"
+			],
+			[
+				"singleparkste",
+				"wrs-frontent/app/views/blocks/single-park-step-1.pug"
+			],
+			[
+				"templatemultistep1",
+				"wrs-frontent/app/views/template-multi-step-1.pug"
+			],
+			[
+				"stylecss",
+				"wrs-frontent/static/style/style.css"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"blocks/mega-menupug",
+				"wrs-frontent/app/views/blocks/mega-menu.pug"
+			],
+			[
+				"blocks/mega-menu",
+				"wrs-frontent/app/styles/blocks/mega-menu.less"
+			],
+			[
+				"layouts/template-wrs",
+				"wrs-frontent/app/views/layouts/template-wrs.pug"
+			],
+			[
+				"templatewrs",
+				"wrs-frontent/app/views/template-wrs.pug"
+			],
+			[
+				"layouttemplatewrs",
+				"wrs-frontent/app/views/layouts/template-wrs.pug"
+			],
+			[
+				"layoutlanding",
+				"wrs-frontent/app/views/layouts/layout-landing.pug"
+			],
+			[
+				"blocksheaderpug",
+				"wrs-frontent/app/views/blocks/header.pug"
+			],
+			[
+				"layoulanding",
+				"wrs-frontent/app/views/layouts/layout-landing.pug"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"contr",
+				"CONTRIBUTING.md"
+			],
+			[
+				"gruntfi",
+				"wrs-frontent/Gruntfile.js"
+			],
+			[
+				"packagejson",
+				"wrs-frontent/package.json"
+			],
+			[
+				"templatesinglestep",
+				"wrs-frontent/app/views/template-single-step-6.pug"
+			],
+			[
+				"tabjs",
+				"app/scripts/plugins/tab.js"
+			],
+			[
+				"site.js",
+				"tmp/site.js"
+			],
+			[
+				"calendars",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"bowerjson",
+				"node_modules/autolinker/bower.json"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"ticketingdropdown",
+				"app/scripts/plugins/ticketing-dropdown.js"
+			],
+			[
+				"blocks/loading",
+				"app/views/blocks/loading.pug"
+			],
+			[
+				"calendar.js",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"calendar",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"trackingjs",
+				"app/scripts/plugins/tracking-data.js"
+			],
+			[
+				"headerjs",
+				"app/scripts/plugins/header.js"
+			],
+			[
+				"gulpdefault",
+				"node_modules/gulp-spawn/node_modules/minimist/test/default_bool.js"
+			],
+			[
+				"selectpayment",
+				"app/styles/blocks/select-payment.less"
+			],
+			[
+				"topadviso",
+				"app/views/blocks/top-park-advisory.pug"
+			],
+			[
+				"pageless",
+				"app/styles/page.less"
+			],
+			[
+				"toppark",
+				"app/styles/blocks/top-park-advisory.less"
+			],
+			[
+				"landing",
+				"app/scripts/plugins/landing.js"
+			],
+			[
+				"shownotice",
+				"app/scripts/plugins/show-notice.js"
+			],
+			[
+				"style",
+				"static/style/style.css"
+			],
+			[
+				"interleaved",
+				"app/scripts/plugins/interleaved-menu.js"
+			],
+			[
+				"header.js",
+				"app/scripts/plugins/header.js"
+			],
+			[
+				"socialcontentjson",
+				"static/data/social-content.json"
+			],
+			[
+				"socialcontentgridjs",
+				"app/scripts/plugins/social-content-grid.js"
+			],
+			[
+				"socialgrid",
+				"app/views/blocks/social-grid.pug"
+			],
+			[
+				"common",
+				"app/styles/common.less"
+			],
+			[
+				"ticketingdropd",
+				"app/scripts/plugins/ticketing-dropdown.js"
+			],
+			[
+				"selectize",
+				"app/styles/libs/selectize.less"
+			],
+			[
+				"printcss",
+				"static/style/print.css"
+			],
+			[
+				"libscs",
+				"static/style/libs.css"
+			],
+			[
+				"mixin",
+				"app/styles/mixin.less"
+			],
+			[
+				"varless",
+				"app/styles/variable.less"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"exp-plannerjs",
+				"app/scripts/plugins/exp-planner.js"
+			],
+			[
+				"blocks/you-selected-block",
+				"app/views/blocks/you-selected-block.pug"
+			],
+			[
+				"templ6",
+				"app/views/template-single-step-6.pug"
+			],
+			[
+				"templatestep6",
+				"app/views/template-multi-step-6.pug"
+			],
+			[
+				"blockcontact",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"ticketinjs",
+				"app/scripts/plugins/ticketing.js"
+			],
+			[
+				"style.css",
+				"static/style/style.css"
+			],
+			[
+				"componentpromo",
+				"app/styles/blocks/component-promo-banner.less"
+			],
+			[
+				"totaldetail",
+				"app/styles/blocks/total-detail.less"
+			],
+			[
+				"selectizeless",
+				"app/styles/libs/selectize.less"
+			],
+			[
+				"cale",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"thumbnailticket",
+				"app/styles/blocks/thumbnail-ticket.less"
+			],
+			[
+				"templatemulti1",
+				"app/views/template-multi-step-1.pug"
+			],
+			[
+				"multipark1",
+				"app/views/blocks/multi-park-step-1.pug"
+			],
+			[
+				"formcontac",
+				"app/styles/blocks/form-contact-detail.less"
+			],
+			[
+				"contact",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"megamn",
+				"app/views/blocks/mega-menu.pug"
+			],
+			[
+				"addele",
+				"app/scripts/plugins/add-element.js"
+			],
+			[
+				"templatemulti5",
+				"app/views/template-multi-step-5.pug"
+			],
+			[
+				"templatesingle5",
+				"app/views/template-single-step-5b.pug"
+			],
+			[
+				"templatestep5",
+				"app/views/template-multi-step-5.pug"
+			],
+			[
+				"blocks/single-slider-landing",
+				"app/views/blocks/single-slider-landing.pug"
+			],
+			[
+				"componentsinglepark",
+				"app/views/template-component-single-park.pug"
+			],
+			[
+				"imagemoi",
+				"app/scripts/plugins/image-mobile.js"
+			],
+			[
+				"templatstep7",
+				"app/views/template-single-step-7.pug"
+			],
+			[
+				"gruntfil",
+				"Gruntfile.js"
+			],
+			[
+				"form-conte",
+				"app/styles/blocks/form-contact-detail.less"
+			],
+			[
+				"blockcontac",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"variab",
+				"app/styles/variable.less"
+			],
+			[
+				"datepicker",
+				"app/scripts/plugins/date-picker.js"
+			],
+			[
+				"single3",
+				"app/views/template-single-step-3.pug"
+			],
+			[
+				"parsleyval",
+				"app/scripts/plugins/parsley-validate.js"
+			],
+			[
+				"blocksloading",
+				"app/views/blocks/loading.pug"
+			],
+			[
+				"single4a",
+				"app/views/template-single-step-4a.pug"
+			],
+			[
+				"formcontactdetailpromo",
+				"app/views/blocks/form-contact-detail-promo.pug"
+			],
+			[
+				"formcontact",
+				"app/views/blocks/form-contact-detail.pug"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

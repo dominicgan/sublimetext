@@ -1,0 +1,3329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"author\tkeyword"
+			],
+			[
+				"auto",
+				"autoprefix"
+			],
+			[
+				"font-fam",
+				"font-family-bold\t(_mixins.scss)"
+			],
+			[
+				"$passe",
+				"$passengerDetailsContainer"
+			],
+			[
+				"$fromLoca",
+				"$fromLocationMobile"
+			],
+			[
+				"trip",
+				"tripdata"
+			],
+			[
+				"toLoca",
+				"toLocationSelectize"
+			],
+			[
+				"OnD",
+				"OnDretrieval"
+			],
+			[
+				"displa",
+				"displayDateValue"
+			],
+			[
+				"checkI",
+				"checkInDateInput"
+			],
+			[
+				"bookRef",
+				"bookRefLink"
+			],
+			[
+				"ibeF",
+				"ibeFlightStatusData\t(interfaces.d.ts)"
+			],
+			[
+				"coup",
+				"couponcode-input-mob\t(_C005-bookflight.scss)"
+			],
+			[
+				"cou",
+				"couponCode"
+			],
+			[
+				"coupon",
+				"couponcode-input\t(_C005-bookflight.scss)"
+			],
+			[
+				"expad",
+				"expandIbe\tmethod"
+			],
+			[
+				"paym",
+				"paymentType"
+			],
+			[
+				"from",
+				"fromLoc\tproperty"
+			],
+			[
+				"ibeTr",
+				"ibeTripData"
+			],
+			[
+				"deskto",
+				"desktopIBEs"
+			],
+			[
+				"tripTy",
+				"tripTypeSet"
+			],
+			[
+				"$date",
+				"$datepickerInst"
+			],
+			[
+				"pass",
+				"passenger"
+			],
+			[
+				"single",
+				"singleSelectizeReady"
+			],
+			[
+				"singel",
+				"singleSelectizeReady"
+			],
+			[
+				"cab",
+				"cabinItem"
+			],
+			[
+				"cug",
+				"cugCondition"
+			],
+			[
+				"mobbok",
+				"mobbookflightIBE\tlocal var"
+			],
+			[
+				"getu",
+				"getUrlVars\tmethod"
+			],
+			[
+				"revert",
+				"revertTicketingUrl"
+			],
+			[
+				"infant",
+				"infantBookingValidation"
+			],
+			[
+				"onL",
+				"onLoad\tmethod"
+			],
+			[
+				"data-mu",
+				"data-multicity-ond"
+			],
+			[
+				"Phone",
+				"Phonecodes"
+			],
+			[
+				"pic",
+				"pictureMutationSrc"
+			],
+			[
+				"setTimeout",
+				"setTimeout\tfunction"
+			],
+			[
+				"systems",
+				"systemjs.config.js"
+			],
+			[
+				"ond",
+				"ondSessDataId\tproperty"
+			],
+			[
+				"recapt",
+				"recaptchaInfo"
+			],
+			[
+				"contact-recapt",
+				"contact-form--grecaptcha"
+			],
+			[
+				"tablet",
+				"tablet-portrait"
+			],
+			[
+				"quers",
+				"querySelectorAll\tmethod"
+			],
+			[
+				"browser",
+				"browsersync:proxy\t(proxy.coffee)"
+			],
+			[
+				"group-booking",
+				"group-booking--tripcontainer\t(_C048.scss)"
+			],
+			[
+				"caeldar",
+				"calendar-container"
+			],
+			[
+				"toString",
+				"toUTCString\t(c003-langSelector.ts)"
+			],
+			[
+				"run",
+				"runSequence"
+			],
+			[
+				"any",
+				"anything\t(c035.ts)"
+			],
+			[
+				"regiser",
+				"registerMsg"
+			],
+			[
+				"bookingorm",
+				"bookingformcommon"
+			],
+			[
+				"booking",
+				"bookingformcommon"
+			],
+			[
+				"log",
+				"logOutUser\tmethod"
+			],
+			[
+				"remember",
+				"remember-my--id\t(all.css)"
+			],
+			[
+				"magnific",
+				"magnificPopup\t(c009.ts)"
+			],
+			[
+				"exp",
+				"express-app.js"
+			],
+			[
+				"err",
+				"errorContainer"
+			],
+			[
+				"bakcgou",
+				"background-color\t(components-all.pug)"
+			],
+			[
+				"c005-mobile",
+				"c005-mobilebooking"
+			],
+			[
+				"data-drpz",
+				"data-dropzone-url\t(c035.pug)"
+			],
+			[
+				"bannerDea",
+				"bannerDealsContainer"
+			],
+			[
+				"default",
+				"defaultCountryObject\tinterface"
+			],
+			[
+				"create",
+				"createRecaptchaField\tmethod"
+			],
+			[
+				"cb",
+				"cbObj"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"scroll",
+				"scrollIntoViewIfNeeded"
+			],
+			[
+				"deals",
+				"dealsalertwidget"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ibeOnd",
+				"ibeOnDList"
+			],
+			[
+				"c005-booking",
+				"c005-bookingform-common\t(c005-bookingform.ts)"
+			],
+			[
+				"bookingFo",
+				"bookingFormCommon"
+			],
+			[
+				"bookingform",
+				"bookingformcommon\t(c005-bookingform.ts)"
+			],
+			[
+				"airportlist",
+				"airportlist\t(c005-bookingform.ts)"
+			],
+			[
+				"data-homepage-deals",
+				"data-homepage-deals-display-item\t(c009.pug)"
+			],
+			[
+				"data-display-dest",
+				"data-display-destcountry\t(c017-banner-deals-mobile.pug)"
+			],
+			[
+				"deals-promo",
+				"deals-promo-001.jpg\t(c017.pug)"
+			],
+			[
+				"data-display-pr",
+				"data-display-promo\t(c017-banner-deals.pug)"
+			],
+			[
+				"data-display-c",
+				"data-display-cabin\t(c017-banner-deals.pug)"
+			],
+			[
+				"data-displ",
+				"data-display-startdate\t(c017-banner-deals.pug)"
+			],
+			[
+				"data-dis",
+				"data-display-enddate\t(c017-banner-deals.pug)"
+			],
+			[
+				"topP",
+				"topPriorityData"
+			],
+			[
+				"selectize",
+				"selectizeInputAria\t(c005-bookingform.ts)"
+			],
+			[
+				"wcag",
+				"wcagOptions"
+			],
+			[
+				"select",
+				"selectize"
+			],
+			[
+				"bundle",
+				"bundle-config"
+			],
+			[
+				"isoto",
+				"isotope.pkgd.js\t(default.pug)"
+			],
+			[
+				"imagesloaded",
+				"imagesloaded.pkgd.min.js\t(home.pug)"
+			],
+			[
+				"bui",
+				"buildconfig"
+			],
+			[
+				"reqDoc",
+				"reqDocString"
+			],
+			[
+				"pac",
+				"packageName"
+			],
+			[
+				"$hidde",
+				"$hiddenItemsCount"
+			],
+			[
+				"imags",
+				"imagesLoaded"
+			],
+			[
+				"recaptch",
+				"recaptchaEl"
+			],
+			[
+				"recap",
+				"recaptchaEl"
+			],
+			[
+				"travelCoor",
+				"travelCoordForm"
+			],
+			[
+				"sidebar-en",
+				"sidebar-menu--level-2"
+			],
+			[
+				"tempNote",
+				"tempNoticePref"
+			],
+			[
+				"setTme",
+				"setTimeout\tfunction"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"bookingformsub",
+				"bookingformsubmit"
+			],
+			[
+				"$tripF",
+				"$tripflow_encryptURL"
+			],
+			[
+				"bo",
+				"bookingFormBackend\tproperty"
+			],
+			[
+				"milesC",
+				"milesCountFromProfile"
+			],
+			[
+				"redempt",
+				"redemptionType"
+			],
+			[
+				"bookFl",
+				"bookFlightIbe"
+			],
+			[
+				"stoP",
+				"stopPropagation\t(member-portal.ts)"
+			],
+			[
+				"langauge",
+				"language"
+			],
+			[
+				"_res",
+				"_resultTableMob"
+			],
+			[
+				"_result",
+				"_resultTable"
+			],
+			[
+				"$scop",
+				"$scopeMob\tproperty"
+			],
+			[
+				"countdown-tim",
+				"countdown-timer--container"
+			],
+			[
+				"$member",
+				"$memberHeader\tproperty"
+			],
+			[
+				"font",
+				"font-family\t(_forms.scss)"
+			],
+			[
+				"$mcityFr",
+				"$mcityFromSelectize"
+			],
+			[
+				"contac",
+				"contactInfo"
+			],
+			[
+				"travelCoord",
+				"travelCoordinatorTable"
+			],
+			[
+				"toLOcal",
+				"toLocaleTimeString\tmethod"
+			],
+			[
+				"Dat",
+				"DataTable"
+			],
+			[
+				"_resultD",
+				"_resultDtMob"
+			],
+			[
+				"flightStat",
+				"flightStatusErrorMessageGenerate"
+			],
+			[
+				"sleect",
+				"selectize"
+			],
+			[
+				"$contr",
+				"$control_input"
+			],
+			[
+				"data-par",
+				"data-parsley-errors-container"
+			],
+			[
+				"data-pars",
+				"data-parsley-errors-container\t(enrich-vouchers--form.pug)"
+			],
+			[
+				"address",
+				"addressTypeInput"
+			],
+			[
+				"ar",
+				"ariaLabel"
+			],
+			[
+				"dis",
+				"display\t(c005-mobileBookingform.ts)"
+			],
+			[
+				"bacg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\nSearching 240 files for \"addInsurer\"\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/1_death_due_to_accident/step3.jsp:\n  209                                <div class=\"row\">\n  210                                  <div class=\"col-xs-12 col-md-6 container-fluid\">\n  211:                                   <button type=\"button\" class=\"blocklink\" onclick=\"addInsurer()\">\n  212                                      <i class=\"icon icon-add\"></i> Add the details of another insurance company\n  213                                    </button>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/2_death_due_to_illness/step3.jsp:\n  208                        <div class=\"row\">\n  209                          <div class=\"col-xs-12 col-md-6 container-fluid\">\n  210:                           <button type=\"button\" class=\"blocklink\" onclick=\"addInsurer()\">\n  211                              <i class=\"icon icon-add\"></i> Add the details of another insurance company\n  212                            </button>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/3_critical_illness/step2.jsp:\n  206                            <div class=\"row\">\n  207                              <div class=\"col-xs-12 col-md-6 container-fluid\">\n  208:                               <button type=\"button\" class=\"blocklink\" onclick=\"addInsurer()\">\n  209                                <i class=\"icon icon-add\"></i> Add the details of another insurance company\n  210                              </button>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/4_terminal_illness/step2.jsp:\n  204                            <div class=\"row\">\n  205                              <div class=\"col-xs-12 col-md-6 container-fluid\">\n  206:                               <button type=\"button\" class=\"blocklink\" onclick=\"addInsurer()\">\n  207                                  <i class=\"icon icon-add\"></i> Add the details of another insurance company\n  208                                </button>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/5_tpd_due_to_illness/step2.jsp:\n  201                            <div class=\"row\">\n  202                              <div class=\"col-xs-12 col-md-6 container-fluid\">\n  203:                               <button type=\"button\" class=\"blocklink\" onclick=\"addInsurer()\">\n  204                                  <i class=\"icon icon-add\"></i> Add the details of another insurance company\n  205                                </button>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/6_tpd_due_to_accident/step2.jsp:\n  207                            <div class=\"row\">\n  208                              <div class=\"col-xs-12 col-md-6 container-fluid\">\n  209:                               <button type=\"button\" class=\"blocklink\" onclick=\"addInsurer()\">\n  210                                  <i class=\"icon icon-add\"></i> Add the details of another insurance company\n  211                                </button>\n\n6 matches across 6 files\n\n\nSearching 20 files for \"addInsurer\"\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/eclaims.js:\n  947  \n  948  var insurerNum = 1;\n  949: function addInsurer(){\n  950      var yes = $('.insurer-container .insurer:nth-last-of-type(1) .admitted_option_yes').prop('checked');\n  951      var no = $('.insurer-container .insurer:nth-last-of-type(1) .admitted_option_no').prop('checked');\n\n1 match in 1 file\n\n\nSearching 240 files for \".form-group__multi--residential_line1\"\n\n0 matches\n\nSearching 240 files for \"form-group__multi--residential_line1\"\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step3a.jsp:\n   46                                      <dt>Residential and mailing address <small>(in Singapore)</small></dt>\n   47                                      <dd class=\"form-group\">\n   48:                                       <div class=\"form-group__multi form-group__multi--residential_line1\">\n   49                                          <span>\n   50                                            <p>Postal code</p>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/ourplans/directvalueterm/step11.jsp:\n   23                                  <div class=\"col-xs-12 col-md-5\"><c:out value=\"${application.getApplicantFirstName()}\"></c:out>, what is your residential and mailing address (in Singapore)</div>\n   24                                  <div class=\"col-xs-12 col-md-6 col-md-offset-1 form-group\">\n   25:                                     <div class=\"form-group__multi form-group__multi--residential_line1\">\n   26                                          <span>\n   27                                              <p><label for=\"form-postcode\">Postal code</label></p>\n   ..\n  144                                      <legend class=\"col-xs-12 col-md-5\">How long have you been living at the residential address that you provided above?</legend>\n  145                                      <div class=\"col-xs-12 col-md-6 col-md-offset-1 form-group <c:out value=\"${(errors.containsKey('applicant_address_period_stay')) ? 'error' : ''}\"></c:out>\" data-field-name=\"applicant_address_period_stay\">\n  146:                                         <div class=\"form-group__multi form-group__multi--residential_line1\">\n  147                                              <span>\n  148                                                <p><label for=\"form-yearsaddress\">Years</label></p>\n\n/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/ourplans/onlineprotector/step11.jsp:\n   20                                  <div class=\"col-xs-12 col-md-5\"><c:out value=\"${application.getApplicantFirstName()}\"></c:out>, what is your residential and mailing address (in Singapore)?</div>\n   21                                  <div class=\"col-xs-12 col-md-6 col-md-offset-1 form-group\">\n   22:                                     <div class=\"form-group__multi form-group__multi--residential_line1\">\n   23                                          <span>\n   24                                              <p><label for=\"form-postcode\">Postal code</label></p>\n   ..\n  128                                      <legend class=\"col-xs-12 col-md-5\">How long have you been living at the residential address that you provided above?</legend>\n  129                                      <div class=\"col-xs-12 col-md-6 col-md-offset-1 form-group <c:out value=\"${(errors.containsKey('applicant_address_period_stay')) ? 'error' : ''}\"></c:out>\" data-field-name=\"applicant_address_period_stay\">\n  130:                                         <div class=\"form-group__multi form-group__multi--residential_line1\">\n  131                                              <span>\n  132                                                <p><label for=\"form-yearsaddress\">Years</label></p>\n\n5 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 6845,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/ourplans/directvalueterm/step11.jsp",
+			"settings":
+			{
+				"buffer_size": 251685,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step3a.jsp",
+			"settings":
+			{
+				"buffer_size": 53639,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/eclaims.js",
+			"settings":
+			{
+				"buffer_size": 58073,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 75362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/your-offers.jsp",
+			"settings":
+			{
+				"buffer_size": 9399,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"GitGutter: Enable for View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"statusbar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setjsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"rename p",
+				"Project Manager: Rename Project"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"showerr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linterse",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"show",
+				"TypeScript: Show Error List"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"goto",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				"setjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"type",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"typ",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"typegoto",
+				"TypeScript: GoTo Type Definition"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"linterr",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"snyhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"LINT",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"sethtl",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"setjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setjaascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rename",
+				"Project Manager: Rename Project"
+			],
+			[
+				"docbloc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"syntaxts",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"isntallp",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"dockb",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"shower",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"prttify",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"typescr",
+				"TypeScript: GoTo Type Definition"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"prettig",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"aller",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"short",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"allerr",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"allerror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"listerro",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"listerror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"\\",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"linterror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"snyyml",
+				"Set Syntax: YAML"
+			],
+			[
+				"csslint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"setscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"snysc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretyt",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"prtys",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"format",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsonsort",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"sydiff",
+				"Set Syntax: Diff"
+			],
+			[
+				"sdiff",
+				"Set Syntax: Diff"
+			],
+			[
+				"synpug",
+				"Set Syntax: Pug"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"rpetty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"gitgut",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"addpac",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"paco",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packares",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packgere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"select",
+				"UI: Select Theme"
+			],
+			[
+				"packresoour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"uioco",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui the",
+				"UI: Select Theme"
+			],
+			[
+				"pacakgeres",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"prettyy",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui theme",
+				"UI: Select Theme"
+			],
+			[
+				"selecthtem",
+				"UI: Select Theme"
+			],
+			[
+				"packresour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"select theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"matera",
+				"Material Theme: Activate theme"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"boxythem",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"select them",
+				"UI: Select Theme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packageresource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"color schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install tem",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"htlm",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 662.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/workspace/HSBC/rmd"
+	],
+	"file_history":
+	[
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/eclaims.js",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/validation.js",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/calculators.js",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/1_death_due_to_accident/index.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/1_death_due_to_accident/includes/bankdetails.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/index.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/includes/header.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/includes/footer.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/includes/policyownerdetails.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/core.js",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/ourplans/directvalueterm/step7.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/index.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/css/main.css",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/jquery.selectBox.js",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/1_death_due_to_accident/includes/deceasedaddress.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/1_death_due_to_accident/step2b.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/ourplans/onlineprotector/step7.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/target/dreamcatcher/assets/css/main.css",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step1a.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step1b.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step1c.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step1d.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step1e.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step3b.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/target/dreamcatcher/assets/js/jquery.selectBox.js",
+		"/Users/dgan/workspace/HSBC/rmd/target/dreamcatcher/assets/js/eclaims.js",
+		"/Users/dgan/workspace/HSBC/rmd/target/dreamcatcher/WEB-INF/eclaims/index.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/target/dreamcatcher/assets/css/jquery.selectBox.css",
+		"/Users/dgan/workspace/HSBC/rmd/target/dreamcatcher/WEB-INF/eclaims/1_death_due_to_accident/step2a.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/includes/deceasedaddress.jsp",
+		"/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/eclaims/2_death_due_to_illness/step2.jsp",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/dummy-data/unsuccessful-login.json",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/site.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/proxy.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/contact-form.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/systemjs.config.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dev.config.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/.scss-lint.yml",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c008.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulpfile.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/nodemon.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/routes/post.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/.netlify-loading",
+		"/Users/dgan/workspace/MAB/2017-RMD/express-app.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/routes/logging.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/protractor.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/bundle/app.bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform-infant.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform-redemption.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-flightstatus.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c060.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/sass.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c012.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c012.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c001.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-mobileBookingform.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c017.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c002-basic.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c002.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/members/molecules/_card-image.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/bower.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/package.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/app/c012.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c008.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c077.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c020.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c005-mobile.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/wcag.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-checkin.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c009.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c014-newsletterWidget.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform-common.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/node_modules/bootstrap-datepicker/js/bootstrap-datepicker.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/bundle/dependencies.bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/configs/systemjs.config.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/js.core/modernizr.detect.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/core/modernizr.detect.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/lint.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/tsconfig.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/node_modules/typescript/lib/typescript.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/templates/index-carousel.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c012.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/.eslintrcignore",
+		"/Users/dgan/workspace/MAB/2017-RMD/.eslintrc",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c077.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c077-2.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c077-2.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/templates/index.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/css/all.css",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/_base.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C006-007-008-content-holder.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/templates/index-video.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/_hover-styles.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c008.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c077.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/members/components/_statement.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/templates/index-image.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/routes/view.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/dummy-data/pugbuild.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/footlibs.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/js.core/members.init.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/china-mobile/css/styles.css",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/mixins/general.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C023.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/js.core/app.init.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C002.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c021.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c023.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c056.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c062.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c063.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c065.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c070.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c081.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/claim-missing-miles.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/layouts/home.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c005-redemption.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/partials/_typography.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C058.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c050.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_gst.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C040.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C008.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/partials/_forms.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c005-flightstatus-page.scss"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, -*.min.js, *.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, -*.min.js, *.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, -*.min.js, *.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, -*.min.js, *.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, -*.min.js, *.js",
+			"<project>, -*/target/*, -*/min/*, *.js",
+			"<project>, -*/target/*, *.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, *.jsp, *.js, -*/jquery.selectBox.js/*, -*.min.js",
+			"<project>,",
+			"<project>, *.jsp",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, *.jsp, *.js, -*/jquery.selectBox.js/*, -*.min.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, *.js, -*/jquery.selectBox.js/*, -*.min.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*, *.js, -*/jquery.selectBox.js/*, -*.min.js",
+			"<project>, -*/target/*, *.jsp, *.js, -*/jquery.selectBox.js/*, -*.min.js",
+			"<project>, -*/target/*, *.jsp, *.js, -*/jquery.selectBox.js/*, -*/min/*",
+			"<project>, -*/target/*, *.jsp, *.js, -*/jquery.selectBox.js/*",
+			"<project>, -*/target/*, *.jsp, *.js, -jquery.selectBox.js",
+			"<project>, -*/target/*, *.jsp, *.js",
+			"<project>, -*/target/*, *.jsp",
+			"<project>, -*/target/*",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form-group__multi--residential_line1",
+			".form-group__multi--residential_line1",
+			"form-group__multi",
+			"1187",
+			"Remove the details of above insurance company",
+			"remove-",
+			"addInsurer",
+			"2 may 2018",
+			"refer today and be rewarded",
+			"and/or",
+			"2 May 2018",
+			"<<<<<",
+			"if($('input[type=\"text\"].optional').length){\n        $('input[type=\"text\"].optional').each(function () {\n",
+			"haserrors = false",
+			"// ",
+			"optional",
+			"id=\"nric",
+			"optional",
+			"required",
+			"nric",
+			"optional",
+			"function validateNRIC",
+			"nric",
+			"id=\"nric\"",
+			"nric",
+			"select.",
+			"change input",
+			"autocomplete",
+			"addNewClaimant",
+			"removeClass(\"optional",
+			"$input.val()",
+			"-798",
+			"addnewclaimant",
+			"removeClass('optional",
+			"$(\"input.form-control\").on('input',function () {",
+			"on('in",
+			"on('input",
+			"type=\"text\"",
+			"claimant_street_1",
+			"form-street",
+			".change(function",
+			".change(",
+			".on(\"change",
+			".on('change'",
+			".change(",
+			"hideErrorMessageOn($(this));",
+			"function showSecondaryErrorMessageOn",
+			"function validatename",
+			"validatename",
+			".closest('.form-group').hasClass('has-error')){",
+			"if($input.closest('.form-group').hasClass('has-error')){",
+			"if($(this).closest('.form-group').hasClass('has-error')){",
+			"help-block\")",
+			"help-block\").show()",
+			"help-block').show()",
+			"help-block",
+			"function showerrormessageon",
+			"function showerrormessageon(",
+			"showerrormessageon",
+			"validation",
+			">>>>>",
+			"====",
+			"<< HEAD",
+			"HEAD",
+			"<<<<<<<",
+			"<i class=\"icon icon-chevron-right",
+			"icon icon-chevron-right",
+			"icon-chevron-right",
+			"console",
+			"addclaimantnewdocument",
+			"addNewclaimantdocument",
+			"class=\"add-document blocklink\" onclick=\"addNewDocument(",
+			"addnewdocument(",
+			"blocklink",
+			"blocklink\" onclick=\"addNewDocument(",
+			"add-document",
+			"Value",
+			"change",
+			"chagne",
+			"promo code applied",
+			">monthly",
+			"monthly",
+			"td",
+			"premium-table",
+			"premium-table-container",
+			"semi-annual",
+			"application.getIncludeRefundRider()",
+			"monthly",
+			"<strong style=\"float:right;\" id=\"payment-method\">Monthly</strong>",
+			"premium",
+			"table",
+			"premium-table-container",
+			"coverage and add-on",
+			"your plan",
+			"table",
+			"Monthly",
+			"monthly",
+			"monthly</strong",
+			"<strong>monthly",
+			"monthly",
+			"<td",
+			"<strong>",
+			"payment-method",
+			"id=\"payment-method\"",
+			"premium-table-container",
+			"<td",
+			"<th",
+			"th",
+			"id=\"payment-method\"",
+			"payment-method",
+			"id=\"payment-method\"",
+			"visible-xs-inline-block",
+			"visible-xs",
+			"visible-xs-inline-block",
+			"substr",
+			"addnewclaimant()",
+			"choosePage()",
+			"13",
+			"msie",
+			"choosePage()",
+			"mtagconfig",
+			"selectbox",
+			"eclaims-type",
+			".bank_country",
+			".bank-country",
+			"$(\".control_employment_select\").change(function() {",
+			".control_employment_select",
+			".control_relationship_select"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"20 June 2018",
+			"$(\"select.control_employment_select\").change(function() {",
+			"$(\"select.control_residency_select\").change(function() {",
+			"$(\"select#control_buy_for_year\").change(function () {",
+			"$('select.control_country_select').on('change', function() {"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6845,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										371,
+										381
+									],
+									[
+										862,
+										872
+									],
+									[
+										1345,
+										1355
+									],
+									[
+										1832,
+										1842
+									],
+									[
+										2325,
+										2335
+									],
+									[
+										2819,
+										2829
+									],
+									[
+										3180,
+										3190
+									],
+									[
+										3927,
+										3963
+									],
+									[
+										4554,
+										4590
+									],
+									[
+										5251,
+										5287
+									],
+									[
+										5920,
+										5956
+									],
+									[
+										6617,
+										6653
+									],
+									[
+										6845,
+										6845
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								5259,
+								5259
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										3192,
+										3193
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"default_dir": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js",
+							"detect_indentation": false,
+							"git_gutter_enable": true,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 10,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/ourplans/directvalueterm/step11.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12455,
+								12455
+							]
+						],
+						"settings":
+						{
+							"SL.973.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										14835,
+										14836
+									]
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										14835,
+										14836
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/jsp/view/plans/application/step3a.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2668,
+								2668
+							]
+						],
+						"settings":
+						{
+							"SL.972.region_keys":
+							[
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2666,
+										2667
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2644,
+										2645
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/js/eclaims.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38123,
+								38123
+							]
+						],
+						"settings":
+						{
+							"SL.968.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										38102,
+										38103
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										37840,
+										37841
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										38174,
+										38175
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										38120,
+										38121
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 35.0,
+						"translation.y": 17837.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22203,
+								22203
+							]
+						],
+						"settings":
+						{
+							"SL.971.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.csslint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.csslint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										22351,
+										22352
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										22250,
+										22251
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										22202,
+										22203
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										22153,
+										22154
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/dgan/workspace/HSBC/rmd/src/main/webapp/WEB-INF/your-offers.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.895.region_keys":
+							[
+							],
+							"SL.963.region_keys":
+							[
+							],
+							"SL.967.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 122.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HSBC (AEM).sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"maincss",
+				"src/main/webapp/assets/css/main.css"
+			],
+			[
+				"step7jsp",
+				"src/main/webapp/WEB-INF/ourplans/directvalueterm/step7.jsp"
+			],
+			[
+				"eclaim",
+				"src/main/webapp/assets/js/eclaims.js"
+			],
+			[
+				"jqueselectbox",
+				"src/main/webapp/assets/js/jquery.selectBox.js"
+			],
+			[
+				"footerjs",
+				"src/main/webapp/WEB-INF/includes/footer.jsp"
+			],
+			[
+				"calculator",
+				"src/main/webapp/assets/js/calculators.js"
+			],
+			[
+				"footer",
+				"src/main/webapp/WEB-INF/includes/footer.jsp"
+			],
+			[
+				"corejs",
+				"src/main/webapp/assets/js/core.js"
+			],
+			[
+				"eclaims",
+				"src/main/webapp/assets/js/eclaims.js"
+			],
+			[
+				"indexjsp",
+				"src/main/webapp/WEB-INF/index.jsp"
+			],
+			[
+				"deceasedaddressjsp",
+				"src/main/webapp/WEB-INF/eclaims/1_death_due_to_accident/includes/deceasedaddress.jsp"
+			],
+			[
+				"ourplans/onlineprotector/step7.jsp",
+				"src/main/webapp/WEB-INF/ourplans/onlineprotector/step7.jsp"
+			],
+			[
+				"onlineprotector/step7",
+				"src/main/webapp/WEB-INF/ourplans/onlineprotector/step7.jsp"
+			],
+			[
+				"footerjsp",
+				"src/main/webapp/WEB-INF/includes/footer.jsp"
+			],
+			[
+				"onlineprotectorstep7",
+				"src/main/webapp/WEB-INF/ourplans/onlineprotector/step7.jsp"
+			],
+			[
+				"ourplansdirect",
+				"src/main/webapp/WEB-INF/ourplans/directvalueterm/step7.jsp"
+			],
+			[
+				"step7",
+				"src/main/webapp/WEB-INF/ourplans/onlineprotector/step7.jsp"
+			],
+			[
+				"main.css",
+				"src/main/webapp/assets/css/main.css"
+			],
+			[
+				"selectboxjs",
+				"src/main/webapp/assets/js/jquery.selectBox.js"
+			],
+			[
+				"eclaims.js",
+				"src/main/webapp/assets/js/eclaims.js"
+			],
+			[
+				"selectbox",
+				"target/dreamcatcher/assets/js/jquery.selectBox.js"
+			],
+			[
+				"eclaimsindex",
+				"target/dreamcatcher/WEB-INF/eclaims/index.jsp"
+			],
+			[
+				"eclaimsjs",
+				"target/dreamcatcher/assets/js/eclaims.js"
+			],
+			[
+				"eclaims/1_death_due_to_accident/2a",
+				"target/dreamcatcher/WEB-INF/eclaims/1_death_due_to_accident/step2a.jsp"
+			],
+			[
+				"retrievestatements.json",
+				"assets/dummy-data/retrievestatements.json"
+			],
+			[
+				"post",
+				"routes/post.js"
+			],
+			[
+				"mixinscss",
+				"assets/sass/_mixins.scss"
+			],
+			[
+				"c095scss",
+				"assets/sass/module/_C095.scss"
+			],
+			[
+				"c005mobloig",
+				"html/molecules/c005-mobile--login.pug"
+			],
+			[
+				"c005-mobile--login-success",
+				"html/molecules/c005-mobile--login-success.pug"
+			],
+			[
+				"c002pug",
+				"html/components/c002.pug"
+			],
+			[
+				"c005-mobile--login",
+				"html/molecules/c005-mobile--login.pug"
+			],
+			[
+				"proxy",
+				"gulp/tasks/proxy.coffee"
+			],
+			[
+				"sitets",
+				"assets/ts/site.ts"
+			],
+			[
+				"nodemoncoffee",
+				"gulp/tasks/nodemon.coffee"
+			],
+			[
+				"app.bun",
+				"dist/js/bundle/app.bundle.js"
+			],
+			[
+				"c008ts",
+				"assets/ts/c008.ts"
+			],
+			[
+				"c005mobts",
+				"assets/ts/c005-mobileBookingform.ts"
+			],
+			[
+				"c005book",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"c005bookts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"checkints",
+				"assets/ts/c005-checkin.ts"
+			],
+			[
+				"cardimage",
+				"assets/sass/module/members/molecules/_card-image.scss"
+			],
+			[
+				"c002",
+				"assets/ts/c002.ts"
+			],
+			[
+				"c017ts",
+				"assets/ts/c017.ts"
+			],
+			[
+				"c005mots",
+				"assets/ts/c005-mobileBookingform.ts"
+			],
+			[
+				"c005mob",
+				"html/components/c005-mobile.pug"
+			],
+			[
+				"c001ts",
+				"assets/ts/c001.ts"
+			],
+			[
+				"wcagts",
+				"assets/ts/wcag.ts"
+			],
+			[
+				"c060",
+				"assets/ts/c060.ts"
+			],
+			[
+				"indexpug",
+				"html/templates/index.pug"
+			],
+			[
+				"c002ts",
+				"assets/ts/c002.ts"
+			],
+			[
+				"declaration",
+				"dts/declaration.d.ts"
+			],
+			[
+				"stylenew",
+				"dist/css/style-new.css"
+			],
+			[
+				"c012scss",
+				"assets/sass/module/_C012.scss"
+			],
+			[
+				"c012pug",
+				"html/molecules/c012.pug"
+			],
+			[
+				"c012ts",
+				"assets/ts/c012.ts"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"systemconfig",
+				"systemjs.config.js"
+			],
+			[
+				"bowerjson",
+				"bower.json"
+			],
+			[
+				"bootstrap-datepicker",
+				"node_modules/bootstrap-datepicker/js/bootstrap-datepicker.js"
+			],
+			[
+				"distconfigjs",
+				"dist/js/configs/systemjs.config.js"
+			],
+			[
+				"depdence",
+				"dist/js/bundle/dependencies.bundle.js"
+			],
+			[
+				"c095ts",
+				"assets/ts/c095.ts"
+			],
+			[
+				"c003ts",
+				"assets/ts/c003-langSelector.ts"
+			],
+			[
+				"003ts",
+				"assets/ts/c003-langSelector.ts"
+			],
+			[
+				"c005commonts",
+				"assets/ts/c005-bookingform-common.ts"
+			],
+			[
+				"distmoder",
+				"dist/js/core/modernizr.detect.js"
+			],
+			[
+				"c005com",
+				"assets/ts/c005-bookingform-common.ts"
+			],
+			[
+				"footlibs",
+				"html/components/footlibs.pug"
+			],
+			[
+				"modernizrdetc",
+				"dist/js/core/modernizr.detect.js"
+			],
+			[
+				"modernizr.detect.js",
+				"assets/js.core/modernizr.detect.js"
+			],
+			[
+				"bookingcommo",
+				"assets/ts/c005-bookingform-common.ts"
+			],
+			[
+				"defaulcoffee",
+				"gulp/tasks/default.coffee"
+			],
+			[
+				"modernizrcoffee",
+				"gulp/tasks/modernizr.coffee"
+			],
+			[
+				"tsconfig.json",
+				"tsconfig.json"
+			],
+			[
+				"typescr",
+				"node_modules/typescript/lib/typescript.js"
+			],
+			[
+				"defaultco",
+				"gulp/tasks/default.coffee"
+			],
+			[
+				"defaultcoffee",
+				"gulp/tasks/default.coffee"
+			],
+			[
+				"bundlercoffee",
+				"gulp/tasks/bundler.coffee"
+			],
+			[
+				"tscoffee",
+				"gulp/tasks/ts.coffee"
+			],
+			[
+				"c012js",
+				"dist/js/app/c012.js"
+			],
+			[
+				"c0772",
+				"html/molecules/c077-2.pug"
+			],
+			[
+				"molc077",
+				"html/molecules/c077.pug"
+			],
+			[
+				"components/c077",
+				"html/components/c077.pug"
+			],
+			[
+				"browsercoffee",
+				"gulp/tasks/browser-sync.coffee"
+			],
+			[
+				"packagejson",
+				"package.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"system",
+				"systemjs.config.js"
+			],
+			[
+				"bookc",
+				"assets/ts/c005-bookingform-common.ts"
+			],
+			[
+				"bookingformts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"wcag",
+				"assets/ts/wcag.ts"
+			],
+			[
+				"molecules/c012-1",
+				"html/molecules/c012-1.pug"
+			],
+			[
+				"index",
+				"html/templates/index.pug"
+			],
+			[
+				"c0121",
+				"html/components/c012-1.pug"
+			],
+			[
+				"c008pug",
+				"html/molecules/c008.pug"
+			],
+			[
+				"c023scss",
+				"assets/sass/module/_C023.scss"
+			],
+			[
+				"c0060",
+				"assets/sass/module/_C006-007-008-content-holder.scss"
+			],
+			[
+				"c077scss",
+				"assets/sass/module/_c077.scss"
+			],
+			[
+				"indexvideo",
+				"html/templates/index-video.pug"
+			],
+			[
+				"indeximage",
+				"html/templates/index-image.pug"
+			],
+			[
+				"c006-007-008-content-holder",
+				"assets/sass/module/_C006-007-008-content-holder.scss"
+			],
+			[
+				"allcss",
+				"dist/css/all.css"
+			],
+			[
+				"style",
+				"china-mobile/css/styles.css"
+			],
+			[
+				"mixin/",
+				"html/mixins/general.pug"
+			],
+			[
+				"index-",
+				"html/templates/index-carousel.pug"
+			],
+			[
+				"c005bookin",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"templateindex",
+				"html/templates/index.pug"
+			],
+			[
+				"templateinxe",
+				"html/templates/index-image.pug"
+			],
+			[
+				"routeview",
+				"routes/view.js"
+			],
+			[
+				"layouthome",
+				"html/layouts/home.pug"
+			],
+			[
+				"devconfig",
+				"dev.config.json"
+			],
+			[
+				"memberin",
+				"assets/js.core/members.init.js"
+			],
+			[
+				"appinit",
+				"assets/js.core/app.init.js"
+			],
+			[
+				"all.css",
+				"dist/css/all.css"
+			],
+			[
+				"sasscoffee",
+				"gulp/tasks/sass.coffee"
+			],
+			[
+				"c005flightstatuspagescss",
+				"assets/sass/module/_c005-flightstatus-page.scss"
+			],
+			[
+				"forms.scss",
+				"assets/sass/partials/_forms.scss"
+			],
+			[
+				"mixinscs",
+				"assets/sass/_mixins.scss"
+			],
+			[
+				"basescss",
+				"assets/sass/_base.scss"
+			],
+			[
+				"c002scss",
+				"assets/sass/module/_C002.scss"
+			],
+			[
+				"bookflightscss",
+				"assets/sass/module/_C005-bookflight.scss"
+			],
+			[
+				"bookingformsubmi",
+				"assets/ts/c005-bookingform-submission.ts"
+			],
+			[
+				"bookingts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"c015scss",
+				"assets/sass/module/_C015.scss"
+			],
+			[
+				"recaptcha",
+				"assets/ts/recaptcha.ts"
+			],
+			[
+				"registerpug",
+				"html/components/members/register--form.pug"
+			],
+			[
+				"registerts",
+				"assets/ts/members/register.ts"
+			],
+			[
+				"viewjs",
+				"routes/view.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

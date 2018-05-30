@@ -1,0 +1,2929 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selectP",
+				"selectElParams"
+			],
+			[
+				"selectize",
+				"selectize-input"
+			],
+			[
+				"defa",
+				"default\t(Gruntfile.js)"
+			],
+			[
+				"yout",
+				"youtube-wrapper"
+			],
+			[
+				"poa",
+				"position:absolute"
+			],
+			[
+				"traslat",
+				"translateX"
+			],
+			[
+				"round",
+				"roundUpPrice"
+			],
+			[
+				"wrsD",
+				"wrsDataLayer2"
+			],
+			[
+				"WrsD",
+				"wrsDataLayer2"
+			],
+			[
+				"wrs",
+				"wrsDataLayer"
+			],
+			[
+				"nic",
+				"nicInput"
+			],
+			[
+				"selecte",
+				"selectedPrice"
+			],
+			[
+				"sele",
+				"selectedPrice"
+			],
+			[
+				"ava",
+				"availableDates"
+			],
+			[
+				"items",
+				"itemsList"
+			],
+			[
+				"padd",
+				"paddingTop"
+			],
+			[
+				"paddng",
+				"paddingBottom"
+			],
+			[
+				"arrow-",
+				"arrow-height"
+			],
+			[
+				"d",
+				"disabled"
+			],
+			[
+				"isF",
+				"isfocused"
+			],
+			[
+				"pro",
+				"promoInput"
+			],
+			[
+				"min",
+				"minlength\t(form-contact-detail.pug)"
+			],
+			[
+				"validat",
+				"validationResult"
+			],
+			[
+				"eror",
+				"errorClass"
+			],
+			[
+				"success",
+				"successClass"
+			],
+			[
+				"payment",
+				"payment_processing"
+			],
+			[
+				"processing",
+				"payment_processing"
+			],
+			[
+				"getPaymen",
+				"getPaymentFail"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tTa",
+				"tTakSec"
+			],
+			[
+				"tTk",
+				"tTakMin"
+			],
+			[
+				"$ibeNav",
+				"$ibeNavList"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"$sco",
+				"$scopeMob\tproperty"
+			],
+			[
+				"webkit-font",
+				"webkit-font-smoothing"
+			],
+			[
+				"$country",
+				"$countryselectorMobile"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"accordi",
+				"accordionLink"
+			],
+			[
+				"topfaq",
+				"topfaqid\t(c042-card-accordion.pug)"
+			],
+			[
+				"iamg",
+				"images\t(c008.pug)"
+			],
+			[
+				"showContet",
+				"showContentOnLoadHandler"
+			],
+			[
+				"curVa",
+				"curvalueEl"
+			],
+			[
+				"countr",
+				"countrySelectize"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"new",
+				"newEl"
+			],
+			[
+				"prevC",
+				"prevCountry"
+			],
+			[
+				"callHotlineN",
+				"callHotLineNumber1"
+			],
+			[
+				"ese",
+				"else"
+			],
+			[
+				"scroll",
+				"scrollTop\t(c017.ts)"
+			],
+			[
+				"preve",
+				"preventDefault\t(c005-bookingform.ts)"
+			],
+			[
+				"fromData",
+				"formDataWhichFail"
+			],
+			[
+				"conso",
+				"console.log\t(c005-bookingform.ts)"
+			],
+			[
+				"$pass",
+				"$passengerDetails"
+			],
+			[
+				"initia",
+				"initialize\t(c005-bookingform.ts)"
+			],
+			[
+				"formaA",
+				"formData"
+			],
+			[
+				"iberedem",
+				"iberedemption"
+			],
+			[
+				"ibere",
+				"iberedemption"
+			],
+			[
+				"bacg",
+				"background-size\t(_typography.scss)"
+			],
+			[
+				"cabin",
+				"cabinItem"
+			],
+			[
+				"trip",
+				"tripTypeHandler"
+			],
+			[
+				"$passe",
+				"$passengerDetailsActive"
+			],
+			[
+				"$curDate",
+				"$curDatepickerTitle"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"c005",
+				"c005bookingform"
+			],
+			[
+				"afte",
+				"afterShow"
+			],
+			[
+				"back",
+				"background\t(_C001.scss)"
+			],
+			[
+				"backgroud",
+				"background-color\t(_forms.scss)"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"$mobSear",
+				"$mobSearchOffsetTop"
+			],
+			[
+				"backg",
+				"background-color\t(_forms.scss)"
+			],
+			[
+				"scope",
+				"$scope\tproperty"
+			],
+			[
+				"lastMsg",
+				"lastMsgSize"
+			],
+			[
+				"diemn",
+				"dimensionObj"
+			],
+			[
+				"$alertHeigh",
+				"$alertHeights\tproperty"
+			],
+			[
+				"$alertH",
+				"$alertHeights\tproperty"
+			],
+			[
+				"$getCoun",
+				"$getCountryCode"
+			],
+			[
+				"dat",
+				"datatable"
+			],
+			[
+				"deals",
+				"dealstable"
+			],
+			[
+				"$exp",
+				"$expSecondaryNavOffsetTop"
+			],
+			[
+				"aria-",
+				"aria-hidden\t(c059.pug)"
+			],
+			[
+				"backgr",
+				"background-position\t(_C059.scss)"
+			],
+			[
+				"trnas",
+				"transform\t(_c050.scss)"
+			],
+			[
+				"border-left",
+				"border-left-radius"
+			],
+			[
+				"bg-inte",
+				"bg-intensity-mob"
+			],
+			[
+				"subit",
+				"submit\t(c041.ts)"
+			],
+			[
+				"hep",
+				"helpsearchbar"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margi-",
+				"margin-bottom\t(_C041.scss)"
+			],
+			[
+				"maw",
+				"max-width"
+			],
+			[
+				"ara-",
+				"aria-hidden\t(c042-card-accordion.pug)"
+			],
+			[
+				"indent",
+				"indent_style"
+			],
+			[
+				"backgourn",
+				"background-color"
+			],
+			[
+				"top",
+				"topicIndex"
+			],
+			[
+				"btn-w",
+				"btn-width"
+			],
+			[
+				"documet",
+				"document\tvar"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs__card"
+			],
+			[
+				"hidden",
+				"hiddenAccordions"
+			],
+			[
+				"accordion",
+				"accordionTarget"
+			],
+			[
+				"jav",
+				"javascript:void(\"login\t(c057.pug)"
+			],
+			[
+				"label",
+				"label__img"
+			],
+			[
+				"enCard",
+				"enCardAccordion"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"Chec",
+				"Check-in"
+			],
+			[
+				"jquery",
+				"jqueryheadroom"
+			],
+			[
+				"jQuery",
+				"jQuery.headroom.min.js\t(copy.coffee)"
+			],
+			[
+				"haedroom",
+				"headroom--top\t(c002.ts)"
+			],
+			[
+				"get",
+				"getofficecode"
+			],
+			[
+				"$mcityTo",
+				"$mcityToSelectize"
+			],
+			[
+				"bookingform",
+				"bookingformcontent"
+			],
+			[
+				"only",
+				"on-the-fly\t(multiple-booking.js)"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"$boo",
+				"$bookingIbeHeight"
+			],
+			[
+				"scrollTo",
+				"scrollTop"
+			],
+			[
+				"$bookingNav",
+				"$bookingNavLinks"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"country-select",
+				"country-selector--container--mobile"
+			],
+			[
+				"input-f",
+				"input-focused\t(c005-groupbookingform.ts)"
+			],
+			[
+				"GOth",
+				"Gotham-Book"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"defaut",
+				"defaultCountry"
+			],
+			[
+				"languge",
+				"languages"
+			],
+			[
+				"currC",
+				"currCountryFlag"
+			],
+			[
+				"default",
+				"defaultCountry"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/WEB-INF/contact.jsp",
+			"settings":
+			{
+				"buffer_size": 62563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/README.md",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/bootstrap.js",
+			"settings":
+			{
+				"buffer_size": 69967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/.gitignore",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/validation.js",
+			"settings":
+			{
+				"buffer_size": 9603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/calculators.js",
+			"settings":
+			{
+				"buffer_size": 30782,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 2566 files for \"primary-btn-slate\"\n\n0 matches\n\nSearching 2566 files for \"data-action\"\n\n/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/calculators.js:\n  919      var optionFields = form.find('.radio input');\n  920      var complaintFields =  form.find('.complaint-related');\n  921:     var submitBtn = form.find('a[data-action=\"submit\"]');\n  922      var lastComplaintBox = form.find('#contact-us-complaint-notes');\n  923      console.log(optionFields, complaintFields, submitBtn, lastComplaintBox);\n  ...\n  925      // create submit button on last complaint box\n  926      lastComplaintBox.append(submitBtn[0].outerHTML);\n  927:     var otherSubmitBtn = lastComplaintBox.find('a[data-action=\"submit\"]');\n  928      submitBtn.addClass('pull-right');\n  929      otherSubmitBtn.addClass('pull-right');\n\n/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/core.js:\n  142          });\n  143  \n  144:         form.find('a[data-action=submit]').click(function() {\n  145              form.submit();\n  146              return false;\n\n/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/core.min.js:\n    1: if(navigator.userAgent.match(/IEMobile\\/10\\.0/)){var msViewportStyle=document.createElement(\"style\");msViewportStyle.appendChild(document.createTextNode(\"@-ms-viewport{width:auto!important}\"));document.querySelector(\"head\").appendChild(msViewportStyle)}$(function(){var a=navigator.userAgent;var b=(a.indexOf(\"Mozilla/5.0\")>-1&&a.indexOf(\"Android \")>-1&&a.indexOf(\"AppleWebKit\")>-1&&a.indexOf(\"Chrome\")===-1);if(b){$(\"select.form-control\").removeClass(\"form-control\").css(\"width\",\"100%\")}});$(document).ready(function(){setupMobileNav();setupDreamsSearch();setupFaqSearch();setupContactUsForm();setupFormInputGroupFocusUI()});function setupMobileNav(){$(\"button.navbar-toggle\").click(function(){$(\".nav-overlay\").show();$(\"body\").css({overflow:\"hidden\"});return false});$(\".overlay-content-panel-header > div:nth-child(2) a\").click(function(){$(\".nav-overlay\").hide();$(\"body\").css({overflow:\"initial\"});$(\".nav-overlay .overlay-content:first\").css({\"margin-left\":\"0\"});return false});$(\".nav-overlay .menu li a:nth-child(2)\").click(function(){$(\".nav-overlay .overlay-content-panel:not(:first)\").hide();$(\".nav-overlay .overlay-content-panel[data-panel-id=\"+$(this).data(\"panel-id\")+\"]\").show();$(\".nav-overlay .overlay-content:first\").animate({\"margin-left\":\"-100vw\"});return false});$(\".nav-overlay .overlay-content-panel:not(:first) .overlay-content-panel-header > div:first-child a\").click(function(){$(\".nav-overlay .overlay-content:first\").animate({\"margin-left\":\"0\"});return false})}function setupDreamsSearch(){$.widget(\"ui.autocomplete\",$.ui.autocomplete,{_resizeMenu:function(){this.menu.element.outerWidth($(\"#dreams-search-keywords\").outerWidth())}});$(\"#dreams-search-keywords\").autocomplete({source:\"/yourdreams/search\",search:function(){$(\".dream-search-result-actions\").removeClass(\"success\");$(\"#dreams-search-keywords\").data(\"selected\",false)},response:function(a,b){if(b.content.length>0){$(\".dream-search-result-actions\").removeClass(\"error\");$(\".dream-search-result-actions\").siblings(\".form-group\").find(\".input-group\").removeClass(\"error\")}else{$(\".dream-search-result-actions\").addClass(\"error\");$(\".dream-search-result-actions\").siblings(\".form-group\").find(\".input-group\").addClass(\"error\")}},focus:function(a,b){var c=b.item.value.split(\",\");$(a.target).data(\"category\",c[0]);$(a.target).data(\"id\",c[1]);$(a.target).data(\"image\",c[2]);$(a.target).val(b.item.label);$(\".header-page, .dream-search, .dream-search-inner\").attr(\"data-dreams-image-id\",c[0]+\"-\"+c[1]);return false},select:function(a,b){$(a.target).val(b.item.label);$(\".dream-search-result-actions\").addClass(\"success\").removeClass(\"error\");$(\".dream-search-result-actions\").siblings(\".form-group\").find(\".input-group\").removeClass(\"error\");$(\"#dreams-search-keywords\").data(\"selected\",true);return false},close:function(){if($(\"#dreams-search-keywords\").data(\"selected\")!=true){$(\".dream-search-result-actions\").addClass(\"error\").removeClass(\"success\");$(\".dream-search-result-actions\").siblings(\".form-group\").find(\".input-group\").addClass(\"error\")}}});$(\".dream-suggestion-label a\").click(function(){$(\"#dreams-search-keywords\").val($(this).data(\"term\")).autocomplete(\"search\");return false})}function setupFaqSearch(){$(\"form#faq-search\").submit(function(){$.ajax({data:$(this).serialize(),url:\"/faq/search\",success:function(a){if(a.trim().length>0){$(\".faq-search-results\").html(a);$(\".question-result\").show();$(\"#faq-search .error-message\").hide();$(\"#faq-search .input-group\").removeClass(\"error\");if(!$(\".question-result div.collapse\").hasClass(\"in\")){$(\".question-result [data-toggle=collapse]\").click()}}else{$(\"#faq-search .error-message\").show();$(\"#faq-search .input-group\").addClass(\"error\")}}});return false});$(\"form#faq-search .input-group .input-group-addon\").click(function(){$(\"form#faq-search\").submit()})}function setupContactUsForm(){if($(\"#contact-us-form\").length){var b=$(\"#contact-us-form\");var a=parseInt(b.find(\"[name=comments]\").data(\"char-limit\"));b.find(\".comments-char-count\").text(a+\" characters remaining\");b.find(\"textarea[name=comments]\").keyup(function(){var c=a-$(this).val().length;b.find(\".comments-char-count\").text(c+(c==1?\" character\":\" characters\")+\" remaining\");b.find(\".comments-char-count\").toggleClass(\"error\",(c<0))});b.find(\"a[data-action=submit]\").click(function(){b.submit();return false})}}function setupFormInputGroupFocusUI(){$(\".form-control\").focus(function(){$(this).siblings(\".input-group-addon\").addClass(\"focus\")});$(\".form-control\").blur(function(){$(this).siblings(\".input-group-addon\").removeClass(\"focus\")});$(\".form-control\").hover(function(){$(this).siblings(\".input-group-addon\").addClass(\"hover\")},function(){$(this).siblings(\".input-group-addon\").removeClass(\"hover\")})};\n\n4 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 5940,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/core.js",
+			"settings":
+			{
+				"buffer_size": 6619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/eclaims.js",
+			"settings":
+			{
+				"buffer_size": 22688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 457,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 53462,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 166.0,
+		"last_filter": "new pro",
+		"selected_items":
+		[
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"preferences",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"rename",
+				"Project Manager: Rename Project"
+			],
+			[
+				"remove pro",
+				"Project Manager: Remove Project"
+			],
+			[
+				"ren",
+				"Project Manager: Rename Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set snyax pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"typescr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"prettiy",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"typescriptfor",
+				"TypeScript: Format Block"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"project ",
+				"Project Manager"
+			],
+			[
+				"rename project",
+				"Project Manager: Rename Project"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"togglelint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacak",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp",
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src",
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main",
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/db",
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp",
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets",
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js"
+	],
+	"file_history":
+	[
+		"/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/calculators.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/config.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/site.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/tours-page.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/mixins/form.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-6.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/layout-single-step.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/ticketing-dropdown.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/modal-term.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/template-component-library.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-component-library-1b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/config-layout.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/header.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/accordion.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/data/header.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/plugins/header.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/have-wild-time.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/form-contact-detail.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/mixin.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/dropdown.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-3.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/libs/plugins/fastselect.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/Gruntfile.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/style/libs.css",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/list-recommended.less",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/total-detail.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/get-address.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/tracking-data.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/form-register.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/newsletter-subscription-banner.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/template-zoo.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/animallanding-page-2a.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/calendar.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-1-pagezoo.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/ticketing.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/layout.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/footer.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/select-park.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/page.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/banner.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/libs/libs.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/variable.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/you-selected-block.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/site.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/requirejs/libs/plugins/fastselect.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/custom-select.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/press-room.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/plugins/custom-select.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/calendar.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/form-contact-detail.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/sidebar-menu.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/structure.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/landing.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/tab.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/video-banner.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/total-detail-addon.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/libs/plugins/parsley.wrs.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/tools/build.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/libs/slick/slick-theme.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/filter.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-4b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/table-expandable.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/step-progress.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/tmp/site.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-2-4park.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-3.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-2.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/form.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/common.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/faq-categories.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/multi-park-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/form-contact-detail-promo.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/global.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/calendar.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/payment.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/template-single-step.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-2.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/data/select-date.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/layouts/layout-single-park.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/tools/r.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-1.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/data/total.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/data/total.json",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-1-riversafari.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-1-bird.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-1-nightsafari.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/park-select-ticket-block.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/js/plugins/ticketing.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/build/require.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/static/404-bird-park.html",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/component-tickets-nav.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-7.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/server.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/number-tickets.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/park-select-ticket-block.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/tooltip.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/cost-summary-block.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/thumbnail-ticket.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/component-slide-step.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/requirejs/libs/plugins/jquery-ui.min.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/modal.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/show-notice.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/libs/reset.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/validate-email.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/content-carousel.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/add-on-selection.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/slide-might-also-like.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/requirejs/require.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/header.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/blocks/multi-ticketing-step-4.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/Find Results",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/styles/myday.less",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-4a.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-single-step-5.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/mixins/link.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/requirejs/libs/plugins/parsley.min.js",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/total-detail-multi.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/cost-summary-block-2.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/total-detail.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/blocks/cost-summary-block-multi.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-4b.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-4a.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-multi-step-4.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/template-membership-step-4.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/views/membership-ns-booking-step2.pug",
+		"/Users/dgan/workspace/WRS/WRS-website-frontend/wrs-frontent/app/scripts/plugins/exp-planner.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			"<project>, *.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"--",
+			"border-lef",
+			"title",
+			"contact-us-complaint-notes",
+			"title",
+			"data-action",
+			"primary-btn-slate",
+			"data-action",
+			"complaint-related\"",
+			"class=\"col-xs-12 complaint-related\"",
+			"complaint-related",
+			"$('.control_country_select')",
+			"control_country_select",
+			"<select",
+			"select",
+			"contact-us-complaint-notes",
+			"name=\"subject\"",
+			"name=\"subject",
+			"id_subject_option1",
+			"\"",
+			"/Users/dgan/.localhost-ssl/",
+			"/Users/dgan/.localhost-ssl",
+			"path-to-custom",
+			"number']'",
+			"range']'",
+			"']'",
+			"'input[data-type='",
+			"\"",
+			"inputFilled",
+			"\"",
+			"select",
+			" == ",
+			"== ",
+			"=== ",
+			"===",
+			"=="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/WEB-INF/contact.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60368,
+								60368
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										61326,
+										61328
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										60365,
+										60367
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"history_list_is_closing": true,
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19458.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								292
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/bootstrap.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/.gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/validation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1797.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/calculators.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29835,
+								29835
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										29868,
+										29869
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										29833,
+										29834
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16752.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5940,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										352,
+										363
+									],
+									[
+										717,
+										728
+									],
+									[
+										977,
+										988
+									],
+									[
+										5449,
+										5460
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								972,
+								972
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"default_dir": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6618,
+								6618
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6617,
+										6618
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6176,
+										6177
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2027.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/js/eclaims.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21426,
+								21426
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										21426,
+										21427
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										21417,
+										21418
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9522.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										404,
+										405
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										125,
+										126
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (Gulpfile).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "/Users/dgan/workspace/HSBC/hsbc-dreamcatcher-jsp/src/main/webapp/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49234,
+								49234
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										49239,
+										49240
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										49211,
+										49212
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 50982.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.565371750765,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.918808281528,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HSBC-dreamcatcher-jsp.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"eclaimsjs",
+				"src/main/webapp/assets/js/eclaims.js"
+			],
+			[
+				"gulpfi",
+				"src/main/webapp/assets/gulpfile.js"
+			],
+			[
+				"main.css",
+				"src/main/webapp/assets/css/main.css"
+			],
+			[
+				"calculators",
+				"src/main/webapp/assets/js/calculators.js"
+			],
+			[
+				"validationjs",
+				"src/main/webapp/assets/js/validation.js"
+			],
+			[
+				"bootstrap",
+				"src/main/webapp/assets/js/bootstrap.js"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"contact",
+				"src/main/webapp/WEB-INF/contact.jsp"
+			],
+			[
+				"bannerless",
+				"app/styles/blocks/banner.less"
+			],
+			[
+				"calendar",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"configlay",
+				"app/scripts/plugins/config-layout.js"
+			],
+			[
+				"config",
+				"app/scripts/config.js"
+			],
+			[
+				"videobanner",
+				"app/scripts/plugins/video-banner.js"
+			],
+			[
+				"layouttemplcom",
+				"app/views/layouts/template-component-library.pug"
+			],
+			[
+				"templatecompo1",
+				"app/views/template-component-library-1b.pug"
+			],
+			[
+				"configla",
+				"app/scripts/plugins/config-layout.js"
+			],
+			[
+				"sitejs",
+				"app/scripts/site.js"
+			],
+			[
+				"header.js",
+				"app/scripts/plugins/header.js"
+			],
+			[
+				"headerjs",
+				"app/scripts/plugins/header.js"
+			],
+			[
+				"formcontc",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"tooltip",
+				"app/scripts/plugins/tooltip.js"
+			],
+			[
+				"formcontact",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"landing.js",
+				"app/scripts/plugins/landing.js"
+			],
+			[
+				"searchcompo",
+				"app/scripts/plugins/search-component.js"
+			],
+			[
+				"templatesinglestepless",
+				"app/styles/blocks/template-single-step.less"
+			],
+			[
+				"blockhavewildtime",
+				"app/views/blocks/have-wild-time.pug"
+			],
+			[
+				"mixinform",
+				"app/views/mixins/form.pug"
+			],
+			[
+				"formcontac",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"blocks/have-wild-time",
+				"app/views/blocks/have-wild-time.pug"
+			],
+			[
+				"layouts/layout-single-step",
+				"app/views/layouts/layout-single-step.pug"
+			],
+			[
+				"formcontactdeta",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"step6",
+				"app/views/template-multi-step-6.pug"
+			],
+			[
+				"configjs",
+				"app/scripts/config.js"
+			],
+			[
+				"formcon",
+				"app/styles/blocks/form-contact-detail.less"
+			],
+			[
+				"checkregexsg",
+				"app/scripts/plugins/check-regex-sg.js"
+			],
+			[
+				"membershipfor",
+				"app/styles/blocks/membership-portal/membership-form.less"
+			],
+			[
+				"drpdow",
+				"app/scripts/plugins/dropdown.js"
+			],
+			[
+				"ticketingdro",
+				"app/scripts/plugins/ticketing-dropdown.js"
+			],
+			[
+				"ticketing.js",
+				"app/scripts/plugins/ticketing.js"
+			],
+			[
+				"calendar.js",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"formless",
+				"app/styles/form.less"
+			],
+			[
+				"gruntfilejs",
+				"Gruntfile.js"
+			],
+			[
+				"variab",
+				"app/styles/variable.less"
+			],
+			[
+				"selectizedefa",
+				"app/styles/libs/selectize.default.less"
+			],
+			[
+				"scriptconfig",
+				"app/scripts/config.js"
+			],
+			[
+				"libless",
+				"app/styles/libs/libs.less"
+			],
+			[
+				"site",
+				"app/scripts/site.js"
+			],
+			[
+				"variabl",
+				"app/styles/variable.less"
+			],
+			[
+				"videoba",
+				"app/scripts/plugins/video-banner.js"
+			],
+			[
+				"banner.",
+				"app/styles/blocks/banner.less"
+			],
+			[
+				"banner-video",
+				"app/views/blocks/banner-video.pug"
+			],
+			[
+				"fastselect",
+				"static/js/libs/plugins/fastselect.js"
+			],
+			[
+				"fastselectjs",
+				"app/requirejs/libs/plugins/fastselect.js"
+			],
+			[
+				"blockcontact",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"dropdown",
+				"app/scripts/plugins/dropdown.js"
+			],
+			[
+				"customsle",
+				"app/scripts/plugins/custom-select.js"
+			],
+			[
+				"customselect",
+				"static/js/plugins/custom-select.js"
+			],
+			[
+				"totaldetailless",
+				"app/styles/blocks/total-detail.less"
+			],
+			[
+				"getaddress",
+				"app/scripts/plugins/get-address.js"
+			],
+			[
+				"ticketing",
+				"app/scripts/plugins/ticketing.js"
+			],
+			[
+				"trackingdata",
+				"app/scripts/plugins/tracking-data.js"
+			],
+			[
+				"gruntfile",
+				"Gruntfile.js"
+			],
+			[
+				"filter.js",
+				"app/scripts/plugins/filter.js"
+			],
+			[
+				"layoutsinglestep",
+				"app/views/layouts/layout-single-step.pug"
+			],
+			[
+				"templatesinglesteppage",
+				"app/views/template-single-step-1-pagezoo.pug"
+			],
+			[
+				"templatesingleste",
+				"app/views/template-single-step-1.pug"
+			],
+			[
+				"ticketingjs",
+				"app/scripts/plugins/ticketing.js"
+			],
+			[
+				"templatesinglestep4",
+				"app/views/template-single-step-4b.pug"
+			],
+			[
+				"layouts/template-zoo",
+				"app/views/layouts/template-zoo.pug"
+			],
+			[
+				"tracking",
+				"app/scripts/plugins/tracking-data.js"
+			],
+			[
+				"formpug",
+				"app/views/mixins/form.pug"
+			],
+			[
+				"stepprog",
+				"app/scripts/plugins/step-progress.js"
+			],
+			[
+				"recommendedless",
+				"app/styles/blocks/list-recommended.less"
+			],
+			[
+				"selectpark",
+				"app/styles/blocks/select-park.less"
+			],
+			[
+				"multistep2",
+				"app/views/template-multi-step-2.pug"
+			],
+			[
+				"selectdatejson",
+				"static/data/select-date.json"
+			],
+			[
+				"blockcalendar",
+				"app/views/blocks/calendar.pug"
+			],
+			[
+				"templatesinglstep3",
+				"app/views/template-single-step-3.pug"
+			],
+			[
+				"blockfooter",
+				"app/views/blocks/footer.pug"
+			],
+			[
+				"templatemu",
+				"app/views/template-multi-step-2.pug"
+			],
+			[
+				"tableexp",
+				"app/styles/blocks/table-expandable.less"
+			],
+			[
+				"totaljson",
+				"static/data/total.json"
+			],
+			[
+				"blockmulti",
+				"app/views/blocks/multi-park-step-1.pug"
+			],
+			[
+				"blocks/multi-park-step-1",
+				"app/views/blocks/multi-park-step-1.pug"
+			],
+			[
+				"templatesingletep1",
+				"app/views/template-single-step-1.pug"
+			],
+			[
+				"blockcontactpro",
+				"app/views/blocks/form-contact-detail-promo.pug"
+			],
+			[
+				"templatesinglestep6",
+				"app/views/template-single-step-6b.pug"
+			],
+			[
+				"blockformcontac",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"blockformcontactde",
+				"app/styles/blocks/form-contact-detail.less"
+			],
+			[
+				"tick",
+				"app/scripts/plugins/ticketing.js"
+			],
+			[
+				"templatemultiste2",
+				"app/views/template-multi-step-2.pug"
+			],
+			[
+				"animallisting",
+				"app/views/blocks/animal-listing.pug"
+			],
+			[
+				"animallistingjs",
+				"app/scripts/plugins/animal-listing.js"
+			],
+			[
+				"calendarjs",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"templatemulti",
+				"app/views/template-multi-step-3.pug"
+			],
+			[
+				"templatemult",
+				"app/views/template-multi-step-2.pug"
+			],
+			[
+				"landing",
+				"app/scripts/plugins/landing.js"
+			],
+			[
+				"varib",
+				"app/styles/variable.less"
+			],
+			[
+				"calendar.less",
+				"app/styles/blocks/calendar.less"
+			],
+			[
+				"paymentpu",
+				"app/views/blocks/payment.pug"
+			],
+			[
+				"r.js",
+				"app/tools/r.js"
+			],
+			[
+				"calendarj",
+				"app/scripts/plugins/calendar.js"
+			],
+			[
+				"templatesinglestep1",
+				"app/views/template-single-step-1-pagezoo.pug"
+			],
+			[
+				"globaljs",
+				"static/js/global.js"
+			],
+			[
+				"datatotal.json",
+				"app/views/data/total.json"
+			],
+			[
+				"datatotaljson",
+				"static/data/total.json"
+			],
+			[
+				"configlayout",
+				"app/scripts/plugins/config-layout.js"
+			],
+			[
+				"selectparkless",
+				"app/styles/blocks/select-park.less"
+			],
+			[
+				"addonselectless",
+				"app/styles/blocks/add-on-selection.less"
+			],
+			[
+				"templatesinglestel",
+				"app/styles/blocks/template-single-step.less"
+			],
+			[
+				"templatestep3",
+				"app/views/template-single-step-3.pug"
+			],
+			[
+				"multi-park-step-1",
+				"app/views/blocks/multi-park-step-1.pug"
+			],
+			[
+				"templatemul",
+				"app/views/template-multi-step-1.pug"
+			],
+			[
+				"contactdeta",
+				"app/views/blocks/form-contact-detail.pug"
+			],
+			[
+				"validateemail.js",
+				"app/scripts/plugins/validate-email.js"
+			],
+			[
+				"layout",
+				"app/views/layouts/layout-single-step.pug"
+			],
+			[
+				"require",
+				"app/requirejs/require.js"
+			],
+			[
+				"apptoolbuid",
+				"app/tools/build.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"mixin",
+				"app/styles/mixin.less"
+			],
+			[
+				"structureless",
+				"app/styles/structure.less"
+			],
+			[
+				"landingjs",
+				"app/scripts/plugins/landing.js"
+			],
+			[
+				"componentticket",
+				"app/styles/blocks/component-tickets-nav.less"
+			],
+			[
+				"toppark",
+				"app/views/blocks/top-park-advisory.pug"
+			],
+			[
+				"headerpug",
+				"app/views/blocks/header.pug"
+			],
+			[
+				"header",
+				"app/scripts/plugins/header.js"
+			],
+			[
+				"vari",
+				"app/styles/variable.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+[
+	{"keys": ["ctrl+alt+up"], 		"command": "run_emmet_action", 	"args": {"action": "increment_number_by_10"} },
+	{"keys": ["ctrl+alt+down"], 	"command": "run_emmet_action", 	"args": {"action": "decrement_number_by_10"} },
+	{"keys": ["home"], 				"command": "move_to", 			"args": {"to": "bol", "extend": false} },
+	{"keys": ["end"], 				"command": "move_to", 			"args": {"to": "eol", "extend": false} },
+	{"keys": ["super+shift+l"], 	"command": "insert_snippet", 	"args": {"contents": "console.log('${1:}$SELECTION');${0}"} },
+	{"keys": ["super+shift+alt+l"], "command": "insert_snippet", 	"args": {"contents": "console.log(${1:}$SELECTION);${0}"} },
+	{"keys": ["super+g"], 			"command": "show_overlay", 		"args": {"overlay": "goto", "text": ":"} },
+	{"keys": ["ctrl+g"], 			"command": "find_next" },
+	{"keys": ["super+alt+shift+r"], "command": "reindent" },
+	{"keys": ["ctrl+super+a"], 		"command": "alignment" }
+]

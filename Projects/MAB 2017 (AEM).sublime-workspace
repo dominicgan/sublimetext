@@ -1,0 +1,4296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ond",
+				"ondSessDataId\tproperty"
+			],
+			[
+				"recapt",
+				"recaptchaInfo"
+			],
+			[
+				"contact-recapt",
+				"contact-form--grecaptcha"
+			],
+			[
+				"tablet",
+				"tablet-portrait"
+			],
+			[
+				"quers",
+				"querySelectorAll\tmethod"
+			],
+			[
+				"browser",
+				"browsersync:proxy\t(proxy.coffee)"
+			],
+			[
+				"group-booking",
+				"group-booking--tripcontainer\t(_C048.scss)"
+			],
+			[
+				"caeldar",
+				"calendar-container"
+			],
+			[
+				"toString",
+				"toUTCString\t(c003-langSelector.ts)"
+			],
+			[
+				"run",
+				"runSequence"
+			],
+			[
+				"any",
+				"anything\t(c035.ts)"
+			],
+			[
+				"regiser",
+				"registerMsg"
+			],
+			[
+				"bookingorm",
+				"bookingformcommon"
+			],
+			[
+				"booking",
+				"bookingformcommon"
+			],
+			[
+				"log",
+				"logOutUser\tmethod"
+			],
+			[
+				"remember",
+				"remember-my--id\t(all.css)"
+			],
+			[
+				"magnific",
+				"magnificPopup\t(c009.ts)"
+			],
+			[
+				"exp",
+				"express-app.js"
+			],
+			[
+				"err",
+				"errorContainer"
+			],
+			[
+				"trip",
+				"tripType"
+			],
+			[
+				"bakcgou",
+				"background-color\t(components-all.pug)"
+			],
+			[
+				"c005-mobile",
+				"c005-mobilebooking"
+			],
+			[
+				"data-drpz",
+				"data-dropzone-url\t(c035.pug)"
+			],
+			[
+				"bannerDea",
+				"bannerDealsContainer"
+			],
+			[
+				"default",
+				"defaultCountryObject\tinterface"
+			],
+			[
+				"create",
+				"createRecaptchaField\tmethod"
+			],
+			[
+				"cb",
+				"cbObj"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"setTimeout",
+				"setTimeout\tfunction"
+			],
+			[
+				"scroll",
+				"scrollIntoViewIfNeeded"
+			],
+			[
+				"deals",
+				"dealsalertwidget"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ibeOnd",
+				"ibeOnDList"
+			],
+			[
+				"c005-booking",
+				"c005-bookingform-common\t(c005-bookingform.ts)"
+			],
+			[
+				"bookingFo",
+				"bookingFormCommon"
+			],
+			[
+				"bookingform",
+				"bookingformcommon\t(c005-bookingform.ts)"
+			],
+			[
+				"airportlist",
+				"airportlist\t(c005-bookingform.ts)"
+			],
+			[
+				"data-homepage-deals",
+				"data-homepage-deals-display-item\t(c009.pug)"
+			],
+			[
+				"data-display-dest",
+				"data-display-destcountry\t(c017-banner-deals-mobile.pug)"
+			],
+			[
+				"deals-promo",
+				"deals-promo-001.jpg\t(c017.pug)"
+			],
+			[
+				"data-display-pr",
+				"data-display-promo\t(c017-banner-deals.pug)"
+			],
+			[
+				"data-display-c",
+				"data-display-cabin\t(c017-banner-deals.pug)"
+			],
+			[
+				"data-displ",
+				"data-display-startdate\t(c017-banner-deals.pug)"
+			],
+			[
+				"data-dis",
+				"data-display-enddate\t(c017-banner-deals.pug)"
+			],
+			[
+				"topP",
+				"topPriorityData"
+			],
+			[
+				"selectize",
+				"selectizeInputAria\t(c005-bookingform.ts)"
+			],
+			[
+				"wcag",
+				"wcagOptions"
+			],
+			[
+				"select",
+				"selectize"
+			],
+			[
+				"bundle",
+				"bundle-config"
+			],
+			[
+				"isoto",
+				"isotope.pkgd.js\t(default.pug)"
+			],
+			[
+				"imagesloaded",
+				"imagesloaded.pkgd.min.js\t(home.pug)"
+			],
+			[
+				"bui",
+				"buildconfig"
+			],
+			[
+				"reqDoc",
+				"reqDocString"
+			],
+			[
+				"auto",
+				"autoprefixer"
+			],
+			[
+				"pac",
+				"packageName"
+			],
+			[
+				"$hidde",
+				"$hiddenItemsCount"
+			],
+			[
+				"imags",
+				"imagesLoaded"
+			],
+			[
+				"recaptch",
+				"recaptchaEl"
+			],
+			[
+				"recap",
+				"recaptchaEl"
+			],
+			[
+				"travelCoor",
+				"travelCoordForm"
+			],
+			[
+				"sidebar-en",
+				"sidebar-menu--level-2"
+			],
+			[
+				"tempNote",
+				"tempNoticePref"
+			],
+			[
+				"setTme",
+				"setTimeout\tfunction"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"bookingformsub",
+				"bookingformsubmit"
+			],
+			[
+				"$tripF",
+				"$tripflow_encryptURL"
+			],
+			[
+				"bo",
+				"bookingFormBackend\tproperty"
+			],
+			[
+				"milesC",
+				"milesCountFromProfile"
+			],
+			[
+				"redempt",
+				"redemptionType"
+			],
+			[
+				"bookFl",
+				"bookFlightIbe"
+			],
+			[
+				"stoP",
+				"stopPropagation\t(member-portal.ts)"
+			],
+			[
+				"langauge",
+				"language"
+			],
+			[
+				"cou",
+				"countries\tparameter"
+			],
+			[
+				"_res",
+				"_resultTableMob"
+			],
+			[
+				"_result",
+				"_resultTable"
+			],
+			[
+				"$scop",
+				"$scopeMob\tproperty"
+			],
+			[
+				"countdown-tim",
+				"countdown-timer--container"
+			],
+			[
+				"$member",
+				"$memberHeader\tproperty"
+			],
+			[
+				"font",
+				"font-family\t(_forms.scss)"
+			],
+			[
+				"$mcityFr",
+				"$mcityFromSelectize"
+			],
+			[
+				"contac",
+				"contactInfo"
+			],
+			[
+				"travelCoord",
+				"travelCoordinatorTable"
+			],
+			[
+				"toLOcal",
+				"toLocaleTimeString\tmethod"
+			],
+			[
+				"Dat",
+				"DataTable"
+			],
+			[
+				"_resultD",
+				"_resultDtMob"
+			],
+			[
+				"flightStat",
+				"flightStatusErrorMessageGenerate"
+			],
+			[
+				"sleect",
+				"selectize"
+			],
+			[
+				"$contr",
+				"$control_input"
+			],
+			[
+				"data-par",
+				"data-parsley-errors-container"
+			],
+			[
+				"data-pars",
+				"data-parsley-errors-container\t(enrich-vouchers--form.pug)"
+			],
+			[
+				"address",
+				"addressTypeInput"
+			],
+			[
+				"ar",
+				"ariaLabel"
+			],
+			[
+				"dis",
+				"display\t(c005-mobileBookingform.ts)"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"destFro",
+				"destFromVal"
+			],
+			[
+				"in",
+				"initDatepickerInputs\tmethod"
+			],
+			[
+				"ini",
+				"initSelectizeInputs\tmethod"
+			],
+			[
+				"init",
+				"initTextInputs\tmethod"
+			],
+			[
+				"tTa",
+				"tTakSec"
+			],
+			[
+				"tTk",
+				"tTakMin"
+			],
+			[
+				"$ibeNav",
+				"$ibeNavList"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"$sco",
+				"$scopeMob\tproperty"
+			],
+			[
+				"webkit-font",
+				"webkit-font-smoothing"
+			],
+			[
+				"$country",
+				"$countryselectorMobile"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"accordi",
+				"accordionLink"
+			],
+			[
+				"topfaq",
+				"topfaqid\t(c042-card-accordion.pug)"
+			],
+			[
+				"iamg",
+				"images\t(c008.pug)"
+			],
+			[
+				"showContet",
+				"showContentOnLoadHandler"
+			],
+			[
+				"curVa",
+				"curvalueEl"
+			],
+			[
+				"countr",
+				"countrySelectize"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"new",
+				"newEl"
+			],
+			[
+				"prevC",
+				"prevCountry"
+			],
+			[
+				"callHotlineN",
+				"callHotLineNumber1"
+			],
+			[
+				"ese",
+				"else"
+			],
+			[
+				"fromData",
+				"formDataWhichFail"
+			],
+			[
+				"conso",
+				"console.log\t(c005-bookingform.ts)"
+			],
+			[
+				"$pass",
+				"$passengerDetails"
+			],
+			[
+				"initia",
+				"initialize\t(c005-bookingform.ts)"
+			],
+			[
+				"formaA",
+				"formData"
+			],
+			[
+				"iberedem",
+				"iberedemption"
+			],
+			[
+				"ibere",
+				"iberedemption"
+			],
+			[
+				"cabin",
+				"cabinItem"
+			],
+			[
+				"$passe",
+				"$passengerDetailsActive"
+			],
+			[
+				"$curDate",
+				"$curDatepickerTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/hpDeals/hpDeals.html",
+			"settings":
+			{
+				"buffer_size": 37019,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 254 files for \"iframe\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/searchIBE/stay.jsp:\n   43  \t\t\t\t<div id=\"b_container\"></div>\n   44  \t\t\t\t<div id=\"carrental_container\">\n   45: \t\t\t\t\t<iframe\n   46  \t\t\t\t\t\tsrc=\"https://www.rentalcars.com/partners/integrations/stand-alone-app/?preflang=en&amp;css=true&amp;affiliateCode=malaysianairlines&amp;fts=true&amp;adplat=searchbox&amp;adcamp=homepage\"\n   47: \t\t\t\t\t\tscrolling=\"no\" frameborder=\"0\" width=\"100%\" height=\"300\"></iframe>\n   48  \t\t\t\t</div>\n   49  \t\t\t</div>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/searchIBE/stayMobile.jsp:\n   38  \t\t<div class=\"row mobile-stay\">\n   39  \t\t\t<div class=\"col-lg-12 col-md-12 col-sm-12\">\n   40: \t\t\t\t<iframe\n   41  \t\t\t\t\tsrc=\"https://www.booking.com/affiliatewidget.html?aid=1146327&amp;label=malaysiaairlines-searchbox-var1&amp;iata_orr=1;lang=en;product=cs;variant=cs2;target_aid=943745\"\n   42: \t\t\t\t\twidth=\"100%\" height=\"250\" frameborder=\"0\"></iframe>\n   43  \t\t\t</div>\n   44  \t\t</div>\n   45  \t\t<div class=\"row mobile-rental\">\n   46  \t\t\t<div class=\"col-lg-12 col-md-12 col-sm-12\">\n   47: \t\t\t\t<iframe\n   48  \t\t\t\t\tsrc=\"https://www.rentalcars.com/partners/integrations/stand-alone-app/?preflang=en&amp;css=true&amp;affiliateCode=malaysianairlines&amp;fts=true&amp;adplat=searchbox&amp;adcamp=homepage\"\n   49: \t\t\t\t\tscrolling=\"no\" frameborder=\"0\" width=\"100%\" height=\"400\"></iframe>\n   50  \t\t\t</div>\n   51  \t\t</div>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/video/video.html:\n   30              </sly>\n   31              <sly data-sly-test=\"${isYouTubeVideoConfigured}\">\n   32: \t            <div class=\"iframe-embed\">\n   33: \t              <iframe width=\"100%\" height=\"480\" src=\"${properties.youTubeURL}\" frameborder=\"0\" allowfullscreen></iframe>\n   34  \t            </div>\n   35              </sly>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/video-repository/video-repository.html:\n   14              <div class=\"col-lg-8 col-md-8 col-sm-8\">\n   15                  <div class=\"video-external--wrapper\">\n   16:                     <iframe class=\"external-video\" src=\"\" width=\"100%\" height=\"480px\" border=\"0\" frameborder=\"0\"></iframe>\n   17                  </div>\n   18                  <div class=\"video-embed--wrapper gradient\">\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/forms/contact-form/contact-form.html:\n   12                <div class=\"row\">\n   13                  <div class=\"col-sm-12 col-md-12 col-lg-12 contact-forms\" id=\"contact-form-lava-product\">\n   14:                     <iframe src=\"${properties.iframe}\" id=\"theIframe\" width=\"100%\" height=\"1100px\" scrolling=\"no\" border=\"0\" frameborder=\"0\"></iframe>\n   15                    <h5>${'security' @ i18n,\n   16  \t\t\t\t\t\t\t\t\tlocale=request.locale}</h5>\n   ..\n   22  \t                </div>\n   23  \t\t\t\t\t</div>\n   24:                     <div class=\"form-group form-actions\"><a class=\"submit btn-member--submit btn btn-primary btn-lg\" id=\"contact-reservation-form-submit-theIframe\" href=\"#\">${'submit' @ i18n,\n   25  \t\t\t\t\t\t\t\t\tlocale=request.locale}</a></div>\n   26                    </h5>\n   27                  </div>\n   28                  <div class=\"form-submission\">\n   29: \t                <div class=\"contact-iframe-booking--success\" style=\"display:none\">\n   30  \t\t\t\t\t    <h1 data-omni=\"adobe_dtm_level1\">Thank You!</h1>\n   31  \t\t\t\t\t    <div class=\"email-details\">\n\n17 matches across 5 files\n\n\nSearching 254 files for \"lookup.js\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/searchIBE/mhupgrade.jsp:\n   29  \t}\n   30  %>\n   31: <div class=\"ibe-form--container hidden-xs\" id=\"mhupgrade-in--container\" data-script-url=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\">\n   32  \t<div class=\"container close-container\">\n   33  \t\t<a class=\"close-booking\" href=\"javascript:void(0);\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-base/partials/footlibs.html:\n   59  <!-- script does not work if triggered after event -->\n   60  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   61: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   62  <!-- MHUpgrade Hotfix: end -->\n   63  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-charter-form/partials/footlibs.html:\n   51  <!-- script does not work if triggered after event -->\n   52  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   53: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   54  <!-- MHUpgrade Hotfix: end -->\n   55  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-chartered-form/partials/footlibs.html:\n   52  <!-- script does not work if triggered after event -->\n   53  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   54: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   55  <!-- MHUpgrade Hotfix: end -->\n   56  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-contact-form/partials/footlibs.html:\n   52  <!-- script does not work if triggered after event -->\n   53  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   54: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   55  <!-- MHUpgrade Hotfix: end -->\n   56  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-corptravel-form/partials/footlibs.html:\n   53  <!-- script does not work if triggered after event -->\n   54  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   55: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   56  <!-- MHUpgrade Hotfix: end -->\n   57  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-login/partials/footlibs.html:\n   55  <!-- script does not work if triggered after event -->\n   56  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   57: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   58  <!-- MHUpgrade Hotfix: end -->\n   59  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-partners/partials/footlibs.html:\n   55  <!-- script does not work if triggered after event -->\n   56  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   57: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   58  <!-- MHUpgrade Hotfix: end -->\n   59  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-deals/partials/footlibs.html:\n   53  <!-- script does not work if triggered after event -->\n   54  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   55: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   56  <!-- MHUpgrade Hotfix: end -->\n   57  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-experience/partials/footlibs.html:\n   60  <!-- script does not work if triggered after event -->\n   61  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   62: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   63  <!-- MHUpgrade Hotfix: end -->\n   64  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-mice-form/partials/footlibs.html:\n   53  <!-- script does not work if triggered after event -->\n   54  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   55: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   56  <!-- MHUpgrade Hotfix: end -->\n   57  \n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-without-footer/partials/footlibs.html:\n   54  <!-- script does not work if triggered after event -->\n   55  <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   56: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   57  <!-- MHUpgrade Hotfix: end -->\n   58  \n\n12 matches across 12 files\n\n\nSearching 254 files for \"\n<!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n<!-- script does not work if triggered after event -->\n<!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n<script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n<!-- MHUpgrade Hotfix: end -->\n\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-base/partials/footlibs.html:\n   55  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   56  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   57: \n   58: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   59: <!-- script does not work if triggered after event -->\n   60: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   61: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   62: <!-- MHUpgrade Hotfix: end -->\n   63: \n   64  <!-- Modernizr -->\n   65  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-charter-form/partials/footlibs.html:\n   47  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   48  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   49: \n   50: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   51: <!-- script does not work if triggered after event -->\n   52: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   53: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   54: <!-- MHUpgrade Hotfix: end -->\n   55: \n   56  <!-- Modernizr -->\n   57  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-chartered-form/partials/footlibs.html:\n   48  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   49  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   50: \n   51: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   52: <!-- script does not work if triggered after event -->\n   53: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   54: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   55: <!-- MHUpgrade Hotfix: end -->\n   56: \n   57  <!-- Modernizr -->\n   58  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-contact-form/partials/footlibs.html:\n   48  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   49  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   50: \n   51: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   52: <!-- script does not work if triggered after event -->\n   53: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   54: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   55: <!-- MHUpgrade Hotfix: end -->\n   56: \n   57  <!-- Modernizr -->\n   58  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-corptravel-form/partials/footlibs.html:\n   49  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   50  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   51: \n   52: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   53: <!-- script does not work if triggered after event -->\n   54: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   55: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   56: <!-- MHUpgrade Hotfix: end -->\n   57: \n   58  <!-- Modernizr -->\n   59  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-login/partials/footlibs.html:\n   51  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   52  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   53: \n   54: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   55: <!-- script does not work if triggered after event -->\n   56: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   57: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   58: <!-- MHUpgrade Hotfix: end -->\n   59: \n   60  <!-- Modernizr -->\n   61  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-partners/partials/footlibs.html:\n   51  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   52  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   53: \n   54: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   55: <!-- script does not work if triggered after event -->\n   56: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   57: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   58: <!-- MHUpgrade Hotfix: end -->\n   59: \n   60  <!-- Modernizr -->\n   61  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-deals/partials/footlibs.html:\n   49  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   50  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   51: \n   52: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   53: <!-- script does not work if triggered after event -->\n   54: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   55: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   56: <!-- MHUpgrade Hotfix: end -->\n   57: \n   58  <!-- Modernizr -->\n   59  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-experience/partials/footlibs.html:\n   56  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   57  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   58: \n   59: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   60: <!-- script does not work if triggered after event -->\n   61: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   62: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   63: <!-- MHUpgrade Hotfix: end -->\n   64: \n   65  <!-- Modernizr -->\n   66  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-mice-form/partials/footlibs.html:\n   49  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   50  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   51: \n   52: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   53: <!-- script does not work if triggered after event -->\n   54: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   55: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   56: <!-- MHUpgrade Hotfix: end -->\n   57: \n   58  <!-- Modernizr -->\n   59  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-without-footer/partials/footlibs.html:\n   50  <input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6Le9-S0UAAAAADrFjhw2E-78t9VSJdybsrbMFxYt\">\n   51  <script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n   52: \n   53: <!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n   54: <!-- script does not work if triggered after event -->\n   55: <!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n   56: <script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n   57: <!-- MHUpgrade Hotfix: end -->\n   58: \n   59  <!-- Modernizr -->\n   60  <script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n11 matches across 11 files\n\n\nSearching 256 files for \"members-redeem-flights-btn\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/enrich/flightredemption/flightredemption.html:\n    7                ${object.model.description @ context ='html'}\n    8              </div>\n    9:             <div class=\"members-content-container\"><a class=\"btn btn-lg btn-primary btn-member--cta\"  id=\"members-redeem-flights-btn\" target=\"${object.model.openNewTab}\" href=\"${object.model.buttonLink}\" aria-label=\"Redeem your flights\">${object.model.buttonLabel}</a></div>\n   10            </div>\n   11          </section>\n\n1 match in 1 file\n\n\nSearching 256 files for \"history\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/search/search.html:\n   14                      <div class=\"error_msg searchpagebar__error\"></div>\n   15                  </div>\n   16:                 <!-- Search history pills-->\n   17                  <div class=\"form-group hidden-xs\">\n   18:                     <div class=\"searchpagebar__history\" id = \"search-history\">\n   19:                         <label class=\"title\">${properties.history}</label>\n   20:                         <ul class=\"history history__list\">\n   21  \n   22                          </ul>\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/forms/mice/mice.html:\n  928  \t\t\t</div>\n  929  \t\t</div>\n  930: \t\t<h5>${'history-business-event' @ i18n,\n  931  \t\t\t\t\t\t\t\t\tlocale=request.locale}</h5>\n  932: \t\t<div class=\"form-group contact--mice-business-history\">\n  933  \t\t\t<div class=\"row\">\n  934  \t\t\t\t<div class=\"col-lg-6 col-md-6 col-sm-6 contact--mice-pastevent\">\n\n8 matches across 2 files\n\n\nSearching 256 files for \"history__list\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/search/search.html:\n   18                      <div class=\"searchpagebar__history\" id = \"search-history\">\n   19                          <label class=\"title\">${properties.history}</label>\n   20:                         <ul class=\"history history__list\">\n   21  \n   22                          </ul>\n\n1 match in 1 file\n\n\nSearching 520 files for \"search-history\"\n\n/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/app/c049-searchform.js:\n   32                      var item = JSON.parse(data[i]);\n   33                      var url = _self.formAction + encodeURI(item.text) + \"?\" + \"language=\" + _self.lang;\n   34:                     $('#search-history ul').append($('<li>').addClass(\"history__item\")\n   35                          .append($('<a>')\n   36                          .attr('href', url)\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 22762,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/app/c049-searchform.js",
+			"settings":
+			{
+				"buffer_size": 3688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/search/search.html",
+			"settings":
+			{
+				"buffer_size": 1589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-base/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-charter-form/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3592,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-chartered-form/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-contact-form/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-corptravel-form/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-login/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-partners/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-deals/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-experience/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-mice-form/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3595,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-without-footer/partials/footlibs.html",
+			"settings":
+			{
+				"buffer_size": 3678,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "rename",
+		"selected_items":
+		[
+			[
+				"rename",
+				"Project Manager: Rename Project"
+			],
+			[
+				"sightly",
+				"Set Syntax: HTML (Sightly)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new porj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"shower",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"prttify",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"typescr",
+				"TypeScript: GoTo Type Definition"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"TypeScript: Show Error List"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"prettig",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"aller",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"short",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"allerr",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"allerror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"listerro",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"listerror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"\\",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"linterror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"snyyml",
+				"Set Syntax: YAML"
+			],
+			[
+				"csslint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"setscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"snysc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretyt",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"prtys",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"format",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsonsort",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"sydiff",
+				"Set Syntax: Diff"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sdiff",
+				"Set Syntax: Diff"
+			],
+			[
+				"synpug",
+				"Set Syntax: Pug"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"rpetty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"gitgut",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"addpac",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"paco",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packares",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packgere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"select",
+				"UI: Select Theme"
+			],
+			[
+				"packresoour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"uioco",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui the",
+				"UI: Select Theme"
+			],
+			[
+				"pacakgeres",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"prettyy",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui theme",
+				"UI: Select Theme"
+			],
+			[
+				"selecthtem",
+				"UI: Select Theme"
+			],
+			[
+				"packresour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"select theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"matera",
+				"Material Theme: Activate theme"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"boxythem",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"select them",
+				"UI: Select Theme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packageresource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"color schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install tem",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"htlm",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"prettf",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"prettiy",
+				"HTMLPrettify"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"typescriptfor",
+				"TypeScript: Format Block"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"project ",
+				"Project Manager"
+			],
+			[
+				"rename project",
+				"Project Manager: Rename Project"
+			],
+			[
+				"isntal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"togglelint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacak",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 662.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/workspace/MAB/2017-TECH",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/plugins",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/plugins/outdated-browser",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/plugins/outdated-browser/lang"
+	],
+	"file_history":
+	[
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-base/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/core/app.init.js",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-charter-form/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-chartered-form/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-contact-form/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-corptravel-form/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-login/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-partners/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-deals/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-experience/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-mice-form/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-without-footer/partials/footlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/searchIBE/stayMobile.jsp",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/searchIBE/stay.jsp",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/app/c049.js",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/carousel/carousel.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/fullPageDeals/fullPageDeals.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/signpost/signpost.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-base/partials/headlibs.html",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/cugLogin/cugLogin.jsp",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/newsletterSignUp/newsletterSignUp.jsp",
+		"/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/gstform/gstform.jsp",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/css/all.css",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/css/all-rtl.css",
+		"/Users/dgan/workspace/MAB/2017-RMD/node_modules/bs-recipes/recipes/webpack.typescript.react/app/dist/bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/node_modules/bootstrap-daterangepicker/example/browserify/bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/register.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/members/register--form.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/member-portal.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/recaptcha.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-checkin.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C005-bookingnav.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/members/molecules/_header.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C002.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/bundler.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C013.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c013.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/members.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c013.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/sass.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c003-langSelector.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C005-bookflight.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-mhupgrade.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/bower.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/vendor/dataTables.responsive.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/bower.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/mab-bootstrap.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/_base.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c017.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/routes/static.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/members/molecules/_form.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c004.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c017.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c009.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform-backend.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/members/profile/travel-coordinator--form.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/add-travel-coordinator.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/members/components/_travel-coordinator.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c005-login.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-check--in.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c002.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-mobileBookingform.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/travel-coordinator.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C009.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C020.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_contact-form.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform-submission.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c002-basic.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/app/c017.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/package.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/default.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C005-checkin.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C066.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c005-redemption.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-stay.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/copy.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/watch.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-login-success.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c009.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c035.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-mobile--login-success.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/proxy.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c056.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_C035.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/templates/reservation-form.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/systemjs.config.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c001.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/modernizr.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-bookingform-common.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/browser-sync.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/templates/index.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-book--flight.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-viewbooking.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-flightstatus.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c005-login.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c092.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c024.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/members-claim-miles-others.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-view--booking.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-flight--status.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/print-card.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-login-success-cug.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/cug-login.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c040.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/components/c005.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c035.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp/tasks/ts.coffee",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c090.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c089.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c086.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/c087.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/index.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/members/claim-missing-miles.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/node_modules/.bin/modernizr",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-flightstatus--searchform.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/html/molecules/c005-mobile--login.pug",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/sass/module/_c069.scss",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/dummy-data/getServiceOnD.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/gulp.config.json",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/bundle/ibe.bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/transform.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/bundle/dependencies.bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/assets/ts/main.ts",
+		"/Users/dgan/workspace/MAB/2017-RMD/.gitignore",
+		"/Users/dgan/workspace/MAB/2017-RMD/dist/js/bundle/app.bundle.js",
+		"/Users/dgan/workspace/MAB/2017-RMD/dts/declaration.d.ts"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 215.0,
+		"where_history":
+		[
+			"<project>, *.js",
+			"<project>, *.html, *.jsp",
+			"<project>, *.js",
+			"<project>, *.html, *.jsp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search-history",
+			"history__list",
+			"history",
+			"members-redeem-flights-btn",
+			"\n<!-- MHUpgrade Hotfix: Temporary inclusion before package to ensure script is invoked before document.ready() -->\n<!-- script does not work if triggered after event -->\n<!-- for 28 Feb deployment only, to remove after plusgrade provides updated prod script on 29 Feb -->\n<script src=\"https://upgrade.plusgrade.com/offer/X0h51BMH/eligibility/lookup.js\" type=\"text/javascript\"></script>\n<!-- MHUpgrade Hotfix: end -->\n",
+			"lookup.js",
+			"iframe",
+			"mab_newsletter_submit_btn",
+			"mab_newsletter_submit",
+			"search-button",
+			"search-btn",
+			"searchpagebar",
+			"outdated-browser",
+			"<!-- outdatedbrowser -->\n<link rel=\"stylesheet\" href=\"/etc/designs/mas/clientlib-site/js/vendor/outdatedbrowser.min.css\">",
+			"languagePath: curSite ? '/js/plugins/outdated-browser/lang/'+getLanguage+'.html' : '/js/plugins/outdated-browser/lang/en.html'",
+			"\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>",
+			"app.bundle.js",
+			"<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n\n<!-- Bundles -->\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<!-- Member portal -->\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>",
+			"<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n\n<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<!-- Member portal script -->\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>",
+			"<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n\n<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<!-- Member portal script -->\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\n\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">",
+			"<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\n\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">",
+			"<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>",
+			"<script>\n\tif (!Modernizr.picture) {\n\t\tvar pictureSrc = document.createElement('script');\n\t\tpictureSrc.setAttribute('src','/etc/designs/mas/clientlib-site/js/plugins/picturefill.min.js');\n\t\tdocument.head.appendChild(pictureSrc);\n\t}\n</script>",
+			"\n<script>\n\tif (!Modernizr.picture) {\n\t\tvar pictureSrc = document.createElement('script');\n\t\tpictureSrc.setAttribute('src', baseUrl + '/etc/designs/mas/clientlib-site/js/plugins/picturefill.min.js');\n\t\tdocument.head.appendChild(pictureSrc);\n\t}\n</script>",
+			"<input type=\"hidden\" id=\"recaptcha-sitekey\"\n\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">",
+			"<script>\nSystem.import('members').catch(function(err){ console.error(err); });\n</script>",
+			"<script\n\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\"\n\ttype=\"text/javascript\" defer></script>\n<script>",
+			"<script>\nSystem.import('app').catch(function(err){ console.error(err); });\n</script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\"\n\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\n\ttype=\"text/javascript\" defer></script>\n<script\n\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\n\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\"\n\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\"\n\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\"\n\ttype=\"text/javascript\" defer></script>",
+			"<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" defer></script>\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>",
+			"<script>\n\tif (!Modernizr.picture) {\n\t\tvar pictureSrc = document.createElement('script');\n\t\tpictureSrc.setAttribute('src','/etc/designs/mas/clientlib-site/js/plugins/picturefill.min.js');\n\t\tdocument.head.appendChild(pictureSrc);\n\t}\n</script>\n\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>",
+			"<script>\n\tif (!Modernizr.picture) {\n\t\tvar pictureSrc = document.createElement('script');\n\t\tpictureSrc.setAttribute('src','/etc/designs/mas/clientlib-site/js/plugins/picturefill.min.js');\n\t\tdocument.head.appendChild(pictureSrc);\n\t}\n</script>\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>",
+			"<script\n\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\"\n\ttype=\"text/javascript\"></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\"\n\ttype=\"text/javascript\"></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\"\n\ttype=\"text/javascript\"></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\"\n\ttype=\"text/javascript\"></script>",
+			"<script\n\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\n\ttype=\"text/javascript\"></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\n\ttype=\"text/javascript\"></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\"\n\ttype=\"text/javascript\"></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\"></script>",
+			"/etc/designs/mas/clientlib-site/js/configs/modernizr.js",
+			"outdatedbrowser",
+			"app.bundle",
+			"rentalcars",
+			"detail",
+			"visible-xs",
+			"deals-banner-item__image",
+			"<img class=\"img-responsive\" src=",
+			"<img class=\"img-responsive\"",
+			"<img class=\"img-responsive\" src=\"\" alt=\"\" data-display-image>",
+			"data-display-image",
+			"<img class=\"img-responsive\" src=\"\" alt=\"\" data-display-image>",
+			"px.png",
+			"page is loading",
+			"<body",
+			"mbox",
+			"fa-times-circle",
+			"fa fa-times-circle",
+			"signpost",
+			" data-display-image",
+			"img",
+			"<picture",
+			"./images/deals-tiles--small-01.jpg",
+			"data-display-image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\n<!-- outdatedbrowser -->\n<link rel=\"stylesheet\" href=\"/etc/designs/mas/clientlib-site/js/vendor/outdatedbrowser.min.css\">",
+			"languagePath: curSite ? '/etc/designs/mas/clientlib-site/js/plugins/outdated-browser/lang/'+getLanguage+'.html' : '/js/plugins/outdated-browser/lang/en.html'",
+			"<!-- outdatedbrowser -->\n<link rel=\"stylesheet\" href=\"/etc/designs/mas/clientlib-site/js/vendor/outdatedbrowser.min.css\">\n<script src=\"/etc/designs/mas/clientlib-site/js/vendor/outdatedbrowser.min.js\" type=\"text/javascript\"></script>\n<script>// event listener form DOM ready\nfunction addLoadEvent(func) {\n  var oldonload = window.onload;\n  if (typeof window.onload != 'function') {\n    window.onload = func;\n  } else {\n    window.onload = function() {\n      oldonload();\n      func();\n    }\n  }\n}\n\n// call function after DOM ready\naddLoadEvent(function(){\n  var curSite = window.location.href.split('/')[4];\n  if (curSite) {\n    var getLanguage = curSite.replace('.html','');\n  }\n\n  // default language to english if path not found\n  outdatedBrowser({\n    bgColor: '#14467b',\n    color: '#ffffff',\n    lowerThan: 'transform',\n    languagePath: curSite ? '/js/plugins/outdated-browser/lang/'+getLanguage+'.html' : '/js/plugins/outdated-browser/lang/en.html'\n  })\n});\n</script>\n\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>",
+			"<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n<!-- Core -->\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n\n<!-- Bundles -->\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<!-- Member portal -->\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>",
+			"<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n\n<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n\n<!-- Bundles -->\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<!-- Member portal -->\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>",
+			"<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">\n<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n\n<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>\n\n\n<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<!-- Member portal script -->\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>\n\n<input type=\"hidden\" id=\"recaptcha-sitekey\"\tvalue=\"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI\">",
+			"<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>",
+			"<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/modernizr.detect.js\" type=\"text/javascript\" defer></script>",
+			"<script\tsrc=\"/etc/designs/mas/clientlib-site/js/core/members.init.js\" type=\"text/javascript\" defer></script>\n",
+			"<script\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\" type=\"text/javascript\" defer></script>\n<script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/app.init.js\" type=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" type=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\ttype=\"text/javascript\" defer></script>\n<script\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\" type=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\" type=\"text/javascript\" defer></script>",
+			"<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n\n<!-- Modernizr -->\n<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" defer></script>",
+			"<script>var baseUrl = '/etc/designs/mas/clientlib-site/';</script>\n\n<script>\n\tif (!Modernizr.picture) {\n\t\tvar pictureSrc = document.createElement('script');\n\t\tpictureSrc.setAttribute('src','/etc/designs/mas/clientlib-site/js/plugins/picturefill.min.js');\n\t\tdocument.head.appendChild(pictureSrc);\n\t}\n</script>\n\n",
+			"<script\n\tsrc=\"/etc/designs/mas/clientlib-site/js/bundle/members.bundle.js\"\n\ttype=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/bundle/dependencies.bundle.js\"\n\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/ibe.bundle.js\"\n\ttype=\"text/javascript\" defer></script>\n<script src=\"/etc/designs/mas/clientlib-site/js/bundle/app.bundle.js\"\n\ttype=\"text/javascript\" defer></script>",
+			"<script\n\tsrc=\"/etc/designs/mas/clientlib-site/js/configs/systemjs.config.js\"\n\ttype=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/system.js\"\n\ttype=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/core/es6-shim.min.js\"\n\ttype=\"text/javascript\" defer></script>",
+			"<script src=\"/etc/designs/mas/clientlib-site/js/configs/modernizr.js\" defer></script>",
+			"fa-exclamation-triangle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/hpDeals/hpDeals.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.1399.region_keys":
+							[
+							],
+							"SL.604.region_keys":
+							[
+							],
+							"SL.667.region_keys":
+							[
+							],
+							"SL.773.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Sightly/HTML (Sightly).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22762,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										247,
+										253
+									],
+									[
+										526,
+										532
+									],
+									[
+										799,
+										805
+									],
+									[
+										1043,
+										1049
+									],
+									[
+										1191,
+										1197
+									],
+									[
+										1468,
+										1474
+									],
+									[
+										1753,
+										1759
+									],
+									[
+										1791,
+										1797
+									],
+									[
+										1889,
+										1895
+									],
+									[
+										2238,
+										2244
+									],
+									[
+										2332,
+										2338
+									],
+									[
+										2745,
+										2751
+									],
+									[
+										2770,
+										2776
+									],
+									[
+										2786,
+										2792
+									],
+									[
+										2867,
+										2873
+									],
+									[
+										3188,
+										3194
+									],
+									[
+										3431,
+										3437
+									],
+									[
+										3949,
+										3958
+									],
+									[
+										4453,
+										4462
+									],
+									[
+										4934,
+										4943
+									],
+									[
+										5417,
+										5426
+									],
+									[
+										5898,
+										5907
+									],
+									[
+										6382,
+										6391
+									],
+									[
+										6860,
+										6869
+									],
+									[
+										7341,
+										7350
+									],
+									[
+										7815,
+										7824
+									],
+									[
+										8294,
+										8303
+									],
+									[
+										8772,
+										8781
+									],
+									[
+										9255,
+										9264
+									],
+									[
+										10136,
+										10595
+									],
+									[
+										11063,
+										11522
+									],
+									[
+										11992,
+										12451
+									],
+									[
+										12919,
+										13378
+									],
+									[
+										13849,
+										14308
+									],
+									[
+										14773,
+										15232
+									],
+									[
+										15700,
+										16159
+									],
+									[
+										16620,
+										17079
+									],
+									[
+										17545,
+										18004
+									],
+									[
+										18469,
+										18928
+									],
+									[
+										19398,
+										19857
+									],
+									[
+										20427,
+										20453
+									],
+									[
+										20963,
+										20970
+									],
+									[
+										21092,
+										21099
+									],
+									[
+										21114,
+										21121
+									],
+									[
+										21189,
+										21196
+									],
+									[
+										21248,
+										21255
+									],
+									[
+										21256,
+										21263
+									],
+									[
+										21479,
+										21486
+									],
+									[
+										21610,
+										21617
+									],
+									[
+										22129,
+										22142
+									],
+									[
+										22582,
+										22596
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								22591,
+								22591
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										22600,
+										22601
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										22579,
+										22580
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "/Users/dgan/workspace/MAB/2017-TECH",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 7,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/app/c049-searchform.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1172,
+								1172
+							]
+						],
+						"settings":
+						{
+							"SL.787.region_keys":
+							[
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1510,
+										1511
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										917,
+										918
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1510,
+										1511
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										917,
+										918
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/content/search/search.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1449
+							]
+						],
+						"settings":
+						{
+							"SL.786.region_keys":
+							[
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1449,
+										1450
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1427,
+										1428
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-base/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.682.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-charter-form/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.683.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-chartered-form/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.681.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2265,
+										2271
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2160,
+										2166
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 677.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-contact-form/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.684.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-corptravel-form/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.685.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-login/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.686.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-cug-partners/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.687.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-deals/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.688.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-experience/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.689.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-mice-form/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.690.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/dgan/workspace/MAB/2017-TECH/ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-without-footer/partials/footlibs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.1411.region_keys":
+							[
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot"
+							],
+							"SL.691.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.htmltidy.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+								"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.htmltidy.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 1411,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.391951388889,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 296.0
+	},
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MAB 2017 (AEM).sublime-project",
+	"replace":
+	{
+		"height": 298.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appinit",
+				"ui.apps/src/main/content/jcr_root/etc/designs/mas/clientlib-site/js/core/app.init.js"
+			],
+			[
+				"footlib",
+				"ui.apps/src/main/content/jcr_root/apps/mas/components/structure/page-without-footer/partials/footlibs.html"
+			],
+			[
+				"carousel",
+				"ui.apps/src/main/content/jcr_root/apps/mas/components/content/carousel/carousel.html"
+			],
+			[
+				"hpdeals",
+				"ui.apps/src/main/content/jcr_root/apps/mas/components/content/hpDeals/hpDeals.html"
+			],
+			[
+				"gulp",
+				"gulp.config.json"
+			],
+			[
+				"proxy",
+				"gulp/tasks/proxy.coffee"
+			],
+			[
+				"copyc",
+				"gulp/tasks/copy.coffee"
+			],
+			[
+				"def",
+				"gulp/tasks/default.coffee"
+			],
+			[
+				"gulpproxy",
+				"gulp/tasks/proxy.coffee"
+			],
+			[
+				"c017ts",
+				"assets/ts/c017.ts"
+			],
+			[
+				"allrt",
+				"dist/css/all-rtl.css"
+			],
+			[
+				"all.css",
+				"dist/css/all.css"
+			],
+			[
+				"stylenew",
+				"dist/css/style-new.css"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"sasscoffee",
+				"gulp/tasks/sass.coffee"
+			],
+			[
+				"memberportal",
+				"assets/ts/member-portal.ts"
+			],
+			[
+				"editta",
+				"assets/ts/members/edit-travel-coordinator.ts"
+			],
+			[
+				"addtrave",
+				"assets/ts/members/add-travel-coordinator.ts"
+			],
+			[
+				"c035ts",
+				"assets/ts/c035.ts"
+			],
+			[
+				"bundler",
+				"gulp/tasks/bundler.coffee"
+			],
+			[
+				"ibebundle",
+				"node_modules/bootstrap-daterangepicker/example/browserify/bundle.js"
+			],
+			[
+				"appbundle",
+				"node_modules/bs-recipes/recipes/webpack.typescript.react/app/dist/bundle.js"
+			],
+			[
+				"recaptchats",
+				"assets/ts/recaptcha.ts"
+			],
+			[
+				"express",
+				"express-app.js"
+			],
+			[
+				"travelcoots",
+				"assets/ts/members/travel-coordinator.ts"
+			],
+			[
+				"addtravel",
+				"assets/ts/members/add-travel-coordinator.ts"
+			],
+			[
+				"edittravel",
+				"assets/ts/members/edit-travel-coordinator.ts"
+			],
+			[
+				"member",
+				"assets/ts/members/members.ts"
+			],
+			[
+				"c013pug",
+				"html/components/c013.pug"
+			],
+			[
+				"c013scss",
+				"assets/sass/module/_C013.scss"
+			],
+			[
+				"bundl",
+				"gulp/tasks/bundler.coffee"
+			],
+			[
+				"c002scss",
+				"assets/sass/module/_C002.scss"
+			],
+			[
+				"c003l",
+				"assets/ts/c003-langSelector.ts"
+			],
+			[
+				"c009ts",
+				"assets/ts/c009.ts"
+			],
+			[
+				"bookcommon",
+				"assets/ts/c005-bookingform-common.ts"
+			],
+			[
+				"c003la",
+				"assets/ts/c003-langSelector.ts"
+			],
+			[
+				"bowercoffee",
+				"gulp/tasks/bower.coffee"
+			],
+			[
+				"syst",
+				"systemjs.config.js"
+			],
+			[
+				"c005checkin",
+				"assets/ts/c005-checkin.ts"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"mhupgradets",
+				"assets/ts/c005-mhupgrade.ts"
+			],
+			[
+				"checkin",
+				"assets/ts/c005-checkin.ts"
+			],
+			[
+				"routestatic",
+				"routes/static.js"
+			],
+			[
+				"c017pug",
+				"html/molecules/c017.pug"
+			],
+			[
+				"memberportalts",
+				"assets/ts/member-portal.ts"
+			],
+			[
+				"bookback",
+				"assets/ts/c005-bookingform-backend.ts"
+			],
+			[
+				"basescss",
+				"assets/sass/_base.scss"
+			],
+			[
+				"mabbootst",
+				"assets/sass/mab-bootstrap.scss"
+			],
+			[
+				"recaptcha",
+				"assets/ts/recaptcha.ts"
+			],
+			[
+				"c017",
+				"dist/js/app/c017.js"
+			],
+			[
+				"addtra",
+				"assets/ts/members/add-travel-coordinator.ts"
+			],
+			[
+				"mixinscss",
+				"assets/sass/_mixins.scss"
+			],
+			[
+				"checkinpug",
+				"html/molecules/c005-check--in.pug"
+			],
+			[
+				"c002ts",
+				"assets/ts/c002.ts"
+			],
+			[
+				"c005mobilts",
+				"assets/ts/c005-mobileBookingform.ts"
+			],
+			[
+				"c005ts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"viewbo",
+				"assets/ts/c005-viewbooking.ts"
+			],
+			[
+				"registerform",
+				"html/components/members/register--form.pug"
+			],
+			[
+				"registerts",
+				"assets/ts/members/register.ts"
+			],
+			[
+				"c005viewbookin",
+				"assets/ts/c005-viewbooking.ts"
+			],
+			[
+				"travelcoordi",
+				"assets/ts/members/travel-coordinator.ts"
+			],
+			[
+				"addtr",
+				"assets/ts/members/add-travel-coordinator.ts"
+			],
+			[
+				"bookingform",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"bookingformsubmit",
+				"assets/ts/c005-bookingform-submission.ts"
+			],
+			[
+				"bookingformbackend",
+				"assets/ts/c005-bookingform-backend.ts"
+			],
+			[
+				"c040ts",
+				"assets/ts/c040.ts"
+			],
+			[
+				"bookingformsubmission",
+				"assets/ts/c005-bookingform-submission.ts"
+			],
+			[
+				"cug",
+				"assets/ts/cug-login.ts"
+			],
+			[
+				"c005login",
+				"assets/ts/c005-login.ts"
+			],
+			[
+				"c017js",
+				"dist/js/app/c017.js"
+			],
+			[
+				"modernco",
+				"gulp/tasks/modernizr.coffee"
+			],
+			[
+				"moderniz",
+				"node_modules/.bin/modernizr"
+			],
+			[
+				"copycoffee",
+				"gulp/tasks/copy.coffee"
+			],
+			[
+				"defaul",
+				"gulp/tasks/default.coffee"
+			],
+			[
+				"copy",
+				"gulp/tasks/copy.coffee"
+			],
+			[
+				"modercoff",
+				"gulp/tasks/modernizr.coffee"
+			],
+			[
+				"c092ts",
+				"assets/ts/c092.ts"
+			],
+			[
+				"c090",
+				"assets/ts/c090.ts"
+			],
+			[
+				"c089",
+				"assets/ts/c089.ts"
+			],
+			[
+				"c086",
+				"assets/ts/c086.ts"
+			],
+			[
+				"c087",
+				"assets/ts/c087.ts"
+			],
+			[
+				"memberclaimothers",
+				"html/molecules/members-claim-miles-others.pug"
+			],
+			[
+				"c024ts",
+				"assets/ts/c024.ts"
+			],
+			[
+				"checkints",
+				"assets/ts/c005-checkin.ts"
+			],
+			[
+				"viewbookingts",
+				"assets/ts/c005-viewbooking.ts"
+			],
+			[
+				"viewbooking",
+				"html/molecules/c005-view--booking.pug"
+			],
+			[
+				"flightstatuspug",
+				"html/molecules/c005-flight--status.pug"
+			],
+			[
+				"memerts",
+				"assets/ts/members/members.ts"
+			],
+			[
+				"printcard",
+				"assets/ts/members/print-card.ts"
+			],
+			[
+				"bookigsubmiss",
+				"assets/ts/c005-bookingform-submission.ts"
+			],
+			[
+				"bookingformts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"members",
+				"assets/ts/members/members.ts"
+			],
+			[
+				"rintcardts",
+				"assets/ts/members/print-card.ts"
+			],
+			[
+				"c005-mobile--login-success",
+				"html/molecules/c005-mobile--login-success.pug"
+			],
+			[
+				"c005logints",
+				"assets/ts/c005-login.ts"
+			],
+			[
+				"c005loginscss",
+				"assets/sass/module/_c005-login.scss"
+			],
+			[
+				"c005scss",
+				"assets/sass/module/_C005-bookflight.scss"
+			],
+			[
+				"bcommon",
+				"assets/ts/c005-bookingform-common.ts"
+			],
+			[
+				"c035scss",
+				"assets/sass/module/_C035.scss"
+			],
+			[
+				"tscoffee",
+				"gulp/tasks/ts.coffee"
+			],
+			[
+				"c035pug",
+				"html/molecules/c035.pug"
+			],
+			[
+				"reca",
+				"assets/ts/recaptcha.ts"
+			],
+			[
+				"c035",
+				"assets/ts/c035.ts"
+			],
+			[
+				"bookingformsub",
+				"assets/ts/c005-bookingform-submission.ts"
+			],
+			[
+				"c005moblogin",
+				"html/molecules/c005-mobile--login.pug"
+			],
+			[
+				"gulconfig",
+				"gulp.config.json"
+			],
+			[
+				"proxycoffee",
+				"gulp/tasks/proxy.coffee"
+			],
+			[
+				"logincss",
+				"assets/sass/module/_c005-login.scss"
+			],
+			[
+				"checkinscss",
+				"assets/sass/module/_C005-checkin.scss"
+			],
+			[
+				"prox",
+				"gulp/tasks/proxy.coffee"
+			],
+			[
+				"c005stay",
+				"assets/ts/c005-stay.ts"
+			],
+			[
+				"getserviceond",
+				"assets/dummy-data/getServiceOnD.json"
+			],
+			[
+				"c005pug",
+				"html/components/c005.pug"
+			],
+			[
+				"c005booking",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"c009pug",
+				"html/molecules/c009.pug"
+			],
+			[
+				"c005-login-success-cug",
+				"html/molecules/c005-login-success-cug.pug"
+			],
+			[
+				"proxyc",
+				"gulp/tasks/proxy.coffee"
+			],
+			[
+				"memberindex",
+				"assets/ts/members/index.ts"
+			],
+			[
+				"memberp",
+				"assets/ts/member-portal.ts"
+			],
+			[
+				"bowerjson",
+				"bower.json"
+			],
+			[
+				"loginform",
+				"node_modules/grunt-legacy-log/node_modules/grunt-legacy-log-utils/node_modules/lodash/transform.js"
+			],
+			[
+				"ibebund",
+				"dist/js/bundle/ibe.bundle.js"
+			],
+			[
+				"c002",
+				"assets/ts/c002.ts"
+			],
+			[
+				"c001ts",
+				"assets/ts/c001.ts"
+			],
+			[
+				"dependenciesbund",
+				"dist/js/bundle/dependencies.bundle.js"
+			],
+			[
+				"appbund",
+				"dist/js/bundle/app.bundle.js"
+			],
+			[
+				"app",
+				"dist/js/bundle/app.bundle.js"
+			],
+			[
+				"bundlercoffee",
+				"gulp/tasks/bundler.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 484.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

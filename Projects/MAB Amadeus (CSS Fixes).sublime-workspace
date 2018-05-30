@@ -1,0 +1,2503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"input-grou",
+				"input-group-addon"
+			],
+			[
+				"icon-",
+				"icon-service"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"bacgk",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"justif",
+				"justify-content"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"docume",
+				"document.getElementById"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"panel",
+				"panel-heading"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"backgorund-c",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgroudn-c",
+				"background-color"
+			],
+			[
+				"brea",
+				"break-all"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"folde",
+				"folder_exclude_patterns\t(Preferences.sublime-settings)"
+			],
+			[
+				"highl",
+				"highlight_line\t(Preferences.sublime-settings)"
+			],
+			[
+				"font_",
+				"font_face\t(Preferences.sublime-settings)"
+			],
+			[
+				"alwa",
+				"always_show_minimap_viewport\t(Preferences.sublime-settings)"
+			],
+			[
+				"bold",
+				"bold_folder_labels\t(Preferences.sublime-settings)"
+			],
+			[
+				"cat",
+				"caret_style\t(Preferences.sublime-settings)"
+			],
+			[
+				"fase",
+				"false"
+			],
+			[
+				"line_",
+				"line_padding_top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/merci-css/merci-booking.css",
+			"settings":
+			{
+				"buffer_size": 61959,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/merci-css/ng_custom_merci.css",
+			"settings":
+			{
+				"buffer_size": 63500,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/amadeus-booking-v3.css",
+			"settings":
+			{
+				"buffer_size": 237162,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/amadeus-booking-prod.css",
+			"settings":
+			{
+				"buffer_size": 250865,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/amadeus-booking.css",
+			"settings":
+			{
+				"buffer_size": 251240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/index.html",
+			"settings":
+			{
+				"buffer_size": 261,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/xCsstpl.css",
+			"settings":
+			{
+				"buffer_size": 79255,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/bootstrap-custom.css",
+			"settings":
+			{
+				"buffer_size": 3811,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/xCsswgt.css",
+			"settings":
+			{
+				"buffer_size": 15852,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/DXShooterScript-NoFlightsAvailable.js",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/DXShooterScript.js",
+			"settings":
+			{
+				"buffer_size": 1673,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/Desktop/MAB Amadeus/DXShooterScript-Amsterdam.js",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/**\nplnextv2.modules.CONF.desktop.styles.DCONFPrintStyle\n**/\n@media print {\n.CSS0 abbr[title]:after {\ncontent: \"\";\n}\n.CSS0 .full-width-print {\nwidth:100%;\n}\n.CSS0 .services-policy .baggage-policy-wrapper {\nwidth:80%;\n}\n.CSS0 .farereview-sections-row {\nborder-collapse: separate;\nborder-spacing: 0.1em;\noverflow: initial;\n}\n.CSS0 .farereview-sections-row.row .col-sm-24 {\nwidth: 100%;\nheight: 100%;\n}\n.CSS0 .fare-review.area {\npadding:0;\n}\n.CSS0 .farereview-sections-col {\nfloat:none;\nmargin:0;\npadding:0;\nword-wrap: normal;\n}\n.CSS0 .farereview-sections-col-border.farereview-sections-col-center, .CSS0 .farereview-sections-col-border.farereview-sections-col-right, .CSS0 .farereview-sections-col-border.farereview-sections-col-left {\nborder:0;\n}\n.CSS0 .farereview-traveller-list {\nwidth: 33%;\nfloat: left;\n}\n.CSS0 .farereview-traveller-contact {\nclear: left;\n}\n.CSS0 .farereview-row {\nwidth: 50%;\n}\n.CSS0 .farereview-price-taxes-details.hidden {\ndisplay:block !important;\nvisibility:visible !important;\n}\n.CSS0 .segment-line.timeline-segment-line {\nborder: solid 3px #dfdfdf;\n}\n.CSS0 .timeline-segment-line:after {\nright: -5px;\ntop:-10px;\n}\n.CSS0 .timeline-segment-line:before {\nleft: -5px;\ntop:-10px;\n}\n.CSS0 .section, .CSS0 .area {\nfont-size: 12px !important;\n}\n.CSS0 .timeline-container {\nfont-size: 14px;\n}\n.CSS0 .baggage-cell {\nwidth:50%;\n}\n.CSS0 .baggage-policy-section .baggage-line {\nfont-size:9px;\n}\n.CSS0 .page-template-section {\nwidth:100% !important;\npadding:30px;\n}\n.CSS0 .reservation-info .ticket-detail, .CSS0 .reservation-info .ticket-detail div {\ndisplay:block !important;\nvisibility:visible !important;\n}\n.CSS0 .farereview-container {\nword-wrap: normal;\n}\n.CSS0 .travellerdetails .traveller-list, .CSS0 .travellerdetails .col-section-traveller, .CSS0 .pricedetails .price-left, .CSS0 .pricedetails .price-middle, .CSS0 .pricedetails .price-right {\nfloat: left;\n}\n.CSS0 #plnext-skip-link-container {\ndisplay:none;\n}\n\n}\n\n\n/**\nplnextv2.components.servicesBreakdown.desktop.styles.DServicesBreakdownStyle\n**/\n\n\n.servicesbreakdown.panel h2,\n.servicesbreakdown.panel h4,\n.servicesbreakdown-panel-body h3,\n.servicesbreakdown-seat-name,\n.servicesbreakdown-bound-category-elem,\n.servicesbreakdown-segment-category-elem,\n.servicesbreakdown-itinerary-category {\nfont-family: 'Roboto Black', sans-serif;\n}\n\n.service-breakdown-item-currency,\n.servicesbreakdown-seat-value,\n.servicesbreakdown-seat-emd,\n.service-breakdown-item-price,\n.servicesbreakdown-panel-body h3 time.services-breakdown-begin-date,\n.servicesbreakdown-panel-body h4 time.services-breakdown-begin-date {\nfont-family: 'Roboto Regular', sans-serif;\n}\n\n.servicesbreakdown-service-new,\n.service-breakdown-item-price,\n.servicesbreakdown-total-price-value .service-breakdown-item-currency {\nfont-weight: 900;\n}\n\n.servicesbreakdown.panel h2 {\nfont-size: 18px;\n}\n\n.servicesbreakdown.panel h4,\n.servicesbreakdown-panel-body h3 {\nfont-size: 16px;\n}\n\n.servicesbreakdown.panel h4::first-letter,\n.servicesbreakdown-panel-body h3::first-letter {\ntext-transform: uppercase;\n}\n\n.service-breakdown-item-price,\n.servicesbreakdown-total-price-value {\nfont-size: 14px;\n}\n\n.servicesbreakdown-service-new,\n.servicesbreakdown-total-price-text {\ntext-transform: uppercase;\n}\n\n.servicesbreakdown-total-price-text,\n.servicesbreakdown-new-total-price-text,\n.servicesbreakdown-already-paid-text,\n.servicesbreakdown-balance-text {\nfloat: left;\n}\n\n.servicesbreakdown-total-price-value,\n.servicesbreakdown-new-total-price-value,\n.servicesbreakdown-balance-value,\n.servicesbreakdown-already-paid-value,\n.servicesbreakdown-cash-paid-value,\n.servicesbreakdown-miles-paid-value,\n.servicesbreakdown-miles-info-value {\nfloat: right;\n}\n\n.servicesbreakdown.panel ul {\nmargin-bottom: 0;\n}\n\n.servicesbreakdown.panel li {\nmargin-left: 0;\n}\n\n.servicesbreakdown-panel-body hr {\nmargin-top: 15px;\nmargin-bottom: 15px;\n}\n\n.servicesbreakdown-panel-body hr {\nmargin-top: 15px;\nmargin-bottom: 15px;\n}\n\n.servicesbreakdown.panel h2 {\nmargin-top: 0;\nmargin-bottom: 0;\n}\n\n.servicesbreakdown-panel-body h3 {\nmargin-top: 0;\nmargin-bottom: 15px;\n}\n\n.servicesbreakdown-panel-body h3.servicesbreakdown-total-price {\nmargin-bottom: 0;\n}\n\n.servicesbreakdown.panel h4.servicesbreakdown-segment-header {\nmargin-top: 15px;\nmargin-bottom: 10px;\ntext-transform: none;\n}\n\n.servicesbreakdown-header-icon {\ndisplay: inline;\nmargin-right: 10px;\n}\n\n.servicesbreakdown-panel-heading {\npadding: 15px 10px;\nbackground: #ececec;\n}\n\n.servicesbreakdown-footer {\nborder-top: none;\n}\n\n.servicesbreakdown-segment{\nmargin-left:  15px\n}\n\n.servicesbreakdown-category-icon,\n.servicesbreakdown-segment-category-icon {\nmargin-right: 5px;\ndisplay: inline-block;\nmin-width: 15px;\n}\n\n.servicesbreakdown-service-price {\ntext-align: right;\n}\n\n.servicesbreakdown-service-new {\nmargin-left: 15px;\nmargin-right: 15px;\n}\n\n.servicesbreakdown-total-price .previous-price {\ntext-decoration: line-through;\n}\n\n.servicesbreakdown-total-price.servicesbreakdown-header {\nmargin-top: 0;\n}\n\n.services-paid-with-miles .servicesbreakdown-already-paid-value {\ntext-decoration: line-through;\n}\n\n.row.services-paid-with-miles {\nmargin-top: 20px;\nmargin-bottom: 10px;\n}\n\n.services-paid-with-miles h3 {\nmargin-top: 10px;\nmargin-bottom: 0px;\n}\n\nsection[data-page-name=\"MDFSR\"] .servicesbreakdown-miles-info-value {\ndisplay: none;\n}\n\n.servicesbreakdown-total-price-miles p,\n.servicesbreakdown-new-total-price {\nmargin: 0;\n}\n\n.servicesbreakdown-total-cash-value,\n.servicesbreakdown-total-miles-value,\n.servicesbreakdown-total-saved-value {\ntext-align: right;\nmargin-bottom: 5px;\ndisplay: block;\n}\n\n.servicesbreakdown-total-saved-value {\nfont-size: 75%;\n}\n\n.servicesbreakdown-balance{\nmargin-top: 10px;\n}\n\n.servicesbreakdown-footer .icon-service {\nmargin-right: 0.5em;\n}\n\n.servicesbreakdown-total-price-miles {\ntext-align: right;\nfloat: right;\nbackground-color: #f0f0f0;\npadding: 10px;\n}\n\nul.servicesbreakdown-segment-list.servicesbreakdown-list,\nul.servicesbreakdown-bound-list.servicesbreakdown-list,\nul.servicesbreakdown-segment-category-list.servicesbreakdown-category-list,\nul.servicesbreakdown-bound-category-list.servicesbreakdown-category-list {\n-webkit-padding-start: 0px;\npadding-left: 0px;\nmargin-left: 0px;\n}\n\nul.servicesbreakdown-itinerary-list.servicesbreakdown-list,\nul.servicesbreakdown-segment-list.servicesbreakdown-list,\nul.servicesbreakdown-bound-list.servicesbreakdown-list {\npadding-left: 15px;\n}\n\n.service-breakdown-item-currency {\nmargin: 0 0.4em;\nfont-size: 80%;\n}\n\n\n/**\nplnextv2.styles.Common\n**/\n\n\n\n\n\n\n\n.left-divider {\npadding-left: 20px;\nborder-left: 1px solid #f0f0f0;\n}\n.right-divider {\npadding-right: 20px;\nborder-right: 1px solid #f0f0f0;\n}\n\nselect.form-control {\n-webkit-appearance: none;\n-moz-appearance: none;\nappearance: none;\ntext-indent: 0.01px;\ntext-overflow: '';\nbackground-repeat: no-repeat ;\n}\n\n\nselect.form-control::-ms-expand {\ndisplay: none;\n}\n\nlabel.control-label{\nmargin-bottom:0;\n}\nlabel.control-label.mandatory-label {\nfont-weight:700;\n}\n\n.anchor[tabindex] {\n\n}\n\n\n.main-icon {\nfont-size: 2.5em;\ndisplay: inline-block;\nmargin: 0 0.5em 0 0.3em;\ncolor: #dfdfdf;\n}\n\n.heading-icon {\nfont-size: 1.7em;\nmargin-left: 0.3em;\n}\n\n\na {\ntext-decoration:underline;\n}\n\n\nselect.form-control {\nbackground-image: url(\"https://wav.ap4.amadeus.com/plnext/default/plnext_git_17.4_prod.14_260417/static/plnextv2/resources/img/corner.png\");\nbackground-position: right bottom;\nbackground-image: none\\9;\n}\n\n\n.btn {\noverflow: hidden;\nposition: relative;\n}\n\n.uxd-ink {\ndisplay: block;\nposition: absolute;\nbackground: rgba(0,0,0,.3);\nborder-radius: 100%;\ntransform: scale(0);\nmargin: 0!important;\npadding: 0!important\n}\n\n.btn-primary .uxd-ink {\nbackground: rgba(255,255,255,.5);\n}\n\n.uxd-ink.uxd-animate {\n-webkit-animation: uxd-ripple-animation .45s linear;\n-o-animation: uxd-ripple-animation .45s linear;\nanimation: uxd-ripple-animation .45s linear\n}\n\n.uxd-ripple-animation 100% {\nopacity: 0;\ntransform: scale(2.5)\n}\n\n@-webkit-keyframes uxd-ripple-animation {\n100% {\nopacity: 0;\ntransform: scale(2.5)\n}\n}\n\n@keyframes uxd-ripple-animation {\n100% {\nopacity: 0;\ntransform: scale(2.5)\n}\n}\n\n/**\nplnextv2.modules.COMMON.timeout.desktop.styles.TimeoutStyle\n**/\n\n\n\n.timeout-warning  {\npadding: 20px;\n}\n\n.timeout-warning .timeout-warning-content h2 {\nmargin-top: 0;\n}\n\n.timeout-warning .timeout-warning-icon-watch{\nfont-size:450%;\n}\n\n.timeout-warning button {\nmargin-top: 5px;\n}\n\n\n.timeout-alert {\npadding: 20px;\n}\n\n.timeout-alert .timeout-alert-content h2 {\nmargin-top: 0;\n}\n\n.timeout-alert button {\nmargin-top: 5px;\n}\n\n\n/**\nplnextv2.components.breadCrumb.desktop.styles.DBreadCrumbStyle\n**/\n\n\n.bread-crumb-container {\n\npadding:0;\nbackground-color: #005eb8;\ncolor: #FFFFFF;\n}\n\n.bread-crumb-component {\nbackground-color: #005eb8;\ncolor: #FFFFFF;\n}\n\n.bread-crumb-component .title-container {\npadding: 20px;\n}\n\n.bread-crumb-component .title-container.has-steps {\npadding: 20px 20px 0 20px;\n}\n\n.bread-crumb-component .title-container .bread-crumb-title {\nmargin:0;\nfont-family: \"Roboto Black\";\ntext-transform: uppercase;\nfont-weight:700;\n}\n\n.bread-crumb-component h1.bread-crumb-title span.subtitle {\nfont-family: \"Roboto Light\";\n}\n\n.bread-crumb-component .steps-container {\ndisplay:table;\nwidth: 100%;\npadding: 0 0 0 20px;\nborder-spacing: 10px 0;\n}\n\n.bread-crumb-component .steps-container ol {\nmargin:0;\npadding:0;\ndisplay:table-row;\ncounter-reset: li;\n}\n\n.bread-crumb-component .steps-container ol > li {\ndisplay: table-cell;\nwhite-space: nowrap;\noverflow: hidden;\ntext-overflow: ellipsis;\ntext-transform: uppercase;\ncounter-increment: li;\ntext-align: center;\ntext-shadow: 1px 1px rgba(0,0,0,0.6);\nline-height:74px;\npadding: 0 10px 0 10px;\nfont-family: \"Roboto Light\";\n}\n\n.bread-crumb-component .steps-container ol > li > i {\nmargin-right: .5em;\n}\n\n.bread-crumb-component .steps-container ol > li:before {\ntext-shadow: none;\ncontent: counter(li) '';\nmargin-right: .5em;\nborder-radius: 1em;\nfont-family: sans-serif;\nborder: 1px solid #fff;\nwidth: 2em;\nheight: 2em;\nline-height: 2em;\ndisplay: inline-block;\nfont-weight:bold;\n}\n\n.br…",
+			"settings":
+			{
+				"buffer_size": 10001,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "* {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n}\n\n\n$green: #3E810C;\n$red: #ED1C24;\n\n\n@media (max-width: 991px) {\n}\n\n  .insurance .insurance-banner + ",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".insurance .insurance-banner + div[class*='col-'] {\n  padding-left: 20px;\n  width: calc(100% - 140px);\n  padding-right: 0;\n}\n\n.insurance .insurance-select {\n  border: solid 1px #dadcda;\n  margin-bottom: 20px;\n  margin-top: 20px;\n}\n\n#CONF-page .insurance .insurance-select {\n  margin-top: 0;\n  margin-bottom: 0;\n  border: 0;\n}\n\n.insurance .insurance-select .heading-banner {\n  margin-top: 0;\n  border: 0;\n}\n\n.insurance .insurance-select .panel {\n  padding: 20px;\n  margin: 0;\n}\n\n.DPURCView .insurance .insurance-select .heading {\n  margin-top: 0;\n}\n\n.insurance #messagediv {\n  border: solid 1px #dadcda;\n  padding: 20px;\n  margin: 20px 0;\n  background-color: #f9f9f9;\n  color: #333;\n}\n\n.insurance .insurance-foid-form-content {\n  border: solid 1px #dadcda;\n  padding: 20px;\n  border-left-width: 1px;\n  border-right-width: 1px;\n  border-bottom-width: 1px;\n}\n\n.insurance .insurance-foid-form-content > .row {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n.insurance span.bold {\n  display: inline-block;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n}\n\n.insurance .insurance-foid-form-content .traveller-card {\n  border: solid 1px #dadcda;\n  width: 100%;\n  margin-bottom: 20px;\n  margin-top: 0;\n  padding: 0;\n}\n\n.insurance .insurance-foid-form-content .traveller-card:last-child {\n  margin-bottom: 0;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .insurance-foid-heading,\n.insurance .insurance-foid-form-content .traveller-card .insurance-foid-panel {\n  box-shadow: none;\n  margin-bottom: 0;\n  display: inline-block;\n  width: 100%;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .insurance-foid-heading {\n  padding: 15px 20px;\n  background-color: #084774;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .insurance-foid-heading .traveller-heading h3 {\n  color: #fff;\n  margin-bottom: 0;\n  padding-bottom: 0;\n  height: auto;\n}\n\n.insurance .traveller-heading .traveller-formating {\n  padding-top: 0;\n  height: auto;\n}\n\n.insurance .avatar-heading {\n  overflow: hidden;\n  border-radius: 50%;\n  width: 45px;\n  height: 45px;\n  display: inline-block;\n}\n\n.insurance .insurance-foid-avatar-icon {\n  margin: 0;\n  border: 0;\n  background-color: #ffffff;\n  color: #084774;\n  font-size: 180%;\n}\n\n.insurance .traveller-heading {\n  margin-left: 0;\n  display: inline-block;\n}\n\n.insurance .traveller-heading * {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n}\n\n.insurance .traveller-heading h3 .traveller-firstname {\n  font-size: 16px;\n  display: block;\n}\n\n.insurance .traveller-heading h3 .traveller-lastname {\n  margin-top: 5px;\n  font-size: 14px;\n  display: block;\n}\n\n.insurance .traveller-heading h3 .insurance-foid-strong {\n  font-weight: normal;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .panel-body {\n  padding: 0;\n  background-color: #f9f9f9;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .panel-body > div {\n  display: inline-block;\n  float: left;\n  width: 100%;\n}\n\n/*hacky fix to delete when 1A removes empty div*/\n.insurance .insurance-foid-form-content .traveller-card .panel-body > div:first-child > p {\n  margin: 0;\n}\n/*hacky fix to delete when 1A removes empty div*/\n\n.insurance .insurance-foid-form-content .traveller-card .panel-body .insurance-foid-dob {\n  padding: 20px 20px 0 20px;\n  background-color: #EAEFF7;\n  border-bottom: solid 1px #dadcda;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .panel-body .insurance-foid-document,\n.insurance .insurance-foid-form-content .traveller-card .panel-body .insurance-foid-number {\n  width: 50%;\n  float: left;\n  padding: 20px 20px 0 20px;\n}\n\n.insurance .insurance-foid-form-content .traveller-card .panel-body .help-block {\n  padding: 0 20px;\n  margin-bottom: 0;\n}\n\n.insurance .insurance-foid-form-content .traveller-card input.form-control,\n.insurance .insurance-foid-form-content .traveller-card select.form-control {\n  padding-top: calc(7px + 5px);\n  padding-bottom: calc(5px + 5px);\n}\n\n.insurance .panel.area {\n  width: 100%;\n  clear: both;\n  margin: 0;\n  border: 1px solid #dadcda;\n  border-top: 0;\n  padding: 20px;\n  box-shadow: none;\n}\n\n#CONF-page .insurance {\n  border: solid 1px #dadcda;\n  margin-bottom: 20px;\n  margin-top: 20px;\n}\n\n#CONF-page .insurance .heading-banner {\n  border: 0;\n  padding: 14px 21px;\n  margin-top: 0;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n}\n\n#CONF-page .insurance .heading-banner .icon-aid {\n  display: none;\n}\n\n#CONF-page .insurance .heading-banner span {\n  font-weight: 100;\n}\n\n.insurance-add-button {\n  margin-bottom: 0;\n  padding-right: 0;\n}v\n\n.insurance-add-button button {\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  font-size: 15px;\n  color: #fff;\n  background: #005CB8;\n  box-shadow: none;\n  padding: 12px 20px;\n  /* position: absolute; */\n  /* right: 20px; */\n  /* bottom: -58px; */\n}\n/** End: Insurance */\n\n.payment .heading-banner .total-to-pay-label {\n  float: left;\n  display: inline-block;\n  padding-top: 3px;\n}\n\n.payment .heading-banner .total-to-pay-val {\n  float: right;\n  display: inline-block;\n}\n\n.payment .heading-banner span abbr {\n  display: inline-block;\n  font-size: 17px;\n  font-weight: 700;\n}\n\n.payment .heading-banner span .payment-price-total {\n  display: inline-block;\n  font-size: 24px;\n  font-weight: 700;\n}\n\n.payment .heading-banner a {\n  width: 100%;\n  clear: both;\n  float: right;\n  text-align: right;\n  color: #fff;\n}\n\n.payment fieldset.fop .mop-legend {\n  padding: 0 0 10px 15px;\n  margin: 0;\n  width: 100%;\n  color: #fff;\n  font-weight: 100;\n  font-size: 13px;\n}\n\n.payment fieldset.fop .mop-legend.heading-banner {\n  border-left: 0;\n  border-right: 0;\n}\n\n.e-ticket-panel {\n  width: 99%;\n  margin: 0 0 0 8px;\n}\n\n.payment .cc-options {\n  padding: 0;\n}\n\n.payment .cc-options#ccOptions {\n  max-width: none;\n  width: 100%;\n}\n\n.payment .cc-options#ccOptions fieldset {\n  width: 100%;\n}\n\n.payment .cc-options .radio {\n  position: relative;\n  padding-left: 0;\n  margin-bottom: 0;\n  margin-left: 15px;\n}\n\n.payment .cc-options .radio:nth-child(2) {\n  margin-left: 0;\n}\n\n.payment .cc-options .radio input[type=radio] {\n  margin: 0;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -ms-transform: translateY(-50%);\n  -webkit-transform: translateY(-50%);\n  transform: translateY(-50%);\n  width: 20px;\n  height: 20px;\n}\n\n.payment .cc-options :not(#foo) .radio input {\n  z-index: 102;\n}\n\n.payment .cc-options :not(#foo) .radio input + label {\n  z-index: 101;\n  position: relative;\n  display: block;\n}\n\n.payment .cc-options :not(#foo) .radio input[type=radio] + label:before {\n  display: block;\n  margin: 0;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -ms-transform: translateY(-50%);\n  -webkit-transform: translateY(-50%);\n  transform: translateY(calc(-50% - 2.5px));\n  box-shadow: none;\n  width: 20px;\n  height: 20px;\n}\n\n.payment .cc-options :not(#foo) .radio input[type=radio] + label img {\n  /* margin-left: 8px; */\n  margin-left: 30px;\n  display: block;\n}\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .payment .cc-options,\n  .payment fieldset {\n    width: 100%;\n  }\n\n  .payment .cc-options .form-group {\n    margin-bottom: 0;\n  }\n\n  .payment .cc-options .radio {\n    width: calc(100% / 3);\n    float: left;\n  }\n\n  .payment .cc-options .radio + .radio {\n    height: 2.8em;\n    margin-top: 10px;\n  }\n}\n/* @dgan: ipad media queries - End */\n\n.has-error .form-control-feedback {\n  color: #ED1C24;\n  top: 30px;\n}\n\n#widget-group-purchaseForm-paymentForm-CA-cardNumber .cardNumberSplitWrapper + span {\n  display: block;\n  position: absolute;\n  right: -2px;\n  height: 34px;\n  width: 34px;\n  top: 27px;\n}\n\n#widget-group-purchaseForm-paymentForm-CA-cardNumber .form-control-feedback {\n  position: absolute;\n  top: 50%;\n  right: 2px;\n  -ms-transform: translateY(-50%);\n  -webkit-transform: translateY(-50%);\n  transform: translateY(-50%);\n}\n\n.ticket-delivery .col-xs-24 {\n  padding: 0 0 0 2px;\n  margin: 0;\n  font-size: 14px;\n  color: #084774;\n}\n\n.payment-wrapper .col-xs-24 {\n  padding: 0;\n  margin: 0;\n  font-size: 14px;\n  color: #084774;\n}\n\n.payment-wrapper .col-xs-24 .col-xs-24.max-width-large {\n  width: 45%;\n  margin-right: 5%;\n}\n\n/*.payment-wrapper .col-xs-24 .col-xs-24.max-width-large {\n    width: 100%;\n    margin-right: 0;\n    max-width: none;\n}\n*/\n\n.payment-wrapper .form-group input.form-control,\n.payment-wrapper .form-group select.form-control {\n  padding-top: calc(7px + 5px);\n  padding-bottom: calc(5px + 5px);\n}\n\n.payment-wrapper .col-xs-24 .col-xs-24.max-width-large .form-group {\n  max-width: 22em;\n}\n\n.payment-wrapper .col-xs-24 .col-xs-24.max-width-large:last-child {\n  width: calc(50% - 7.5px);\n  margin-right: 7.5px;\n}\n\n.payment-wrapper .nameOnCard.has-error .form-control-feedback {\n  top: 30px; /* offset form label 'Name on Card'*/\n  right: 0;\n}\n\nlabel[for=\"tpl4_fopTemplate_widget-input-purchaseForm-paymentForm-ccTypesIcons-ccTypesIcons1\"],\nlabel[for=\"tpl4_fopTemplate_widget-input-purchaseForm-paymentForm-ccTypesIcons-ccTypesIcons2\"],\nlabel[for=\"tpl4_fopTemplate_widget-input-purchaseForm-paymentForm-ccTypesIcons-ccTypesIcons3\"],\nlabel[for=\"tpl4_fopTemplate_widget-input-purchaseForm-paymentForm-ccTypesIcons-ccTypesIcons4\"] {\n  display: inline-block;\n  padding: 0 15px 0 30px;\n  height: 2.8em;\n}\n\n#widget-group-purchaseForm-paymentForm-savePURCDetails input[type=radio],\n#widget-group-purchaseForm-paymentForm-savePURCDetails input[type=checkbox],\n.terms-and-conditions :not(#foo) input[type=radio],\n.terms-and-conditions :not(#foo) input[type=checkbox] {\n  width: 20px;\n  height: 20px;\n  position: relative;\n  /*top: -4px;*/\n}\n\n#widget-group-purchaseForm-paymentForm-savePURCDetails.form-group,\n.terms-and-conditions .form-group {\n  position: relative;\n}\n\n#widget-group-purchaseForm-paymentForm-savePURCDetails :not(#foo) input[type=checkbox] + label,\n.terms-and-conditions :not(#foo) input[type=checkbox] + label {\n  padding-left: 10px;\n  display: inline-block;\n  margin-bottom: 0;\n  padding-top: 5px;\n}\n\n#widget-group-purchaseForm-paymentForm-savePURCDetails input[type=checkbox] + label:before,\n.terms-and-conditions :not(#foo) input[type=checkbox] + label:before {\n  margin: 0;\n  position: absolute;\n  left: 0;\n  top: 4px;\n}\n\n.terms-and-conditions:not(#foo) input[type=checkbox] + label:before,\n:not(#foo) input[type=radio] + label:before {\n line-height: 14px;\n}\n\n:not(#foo) input[type=radio]:focus + label:before,\n:not(#foo) input[type=checkbox]:focus + label:before {\n  box-shadow: none;\n}\n\n.ticket-delivery .col-xs-24 span.heading-text,\n.payment-wrapper .col-xs-24 span.heading-text {\n  margin-left: 0;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 700;\n  font-size: 20px;\n  color: #084774;\n  text-transform: none;\n}\n\n.panel.e-ticket-panel {\n  padding-bottom: 10px;\n  width: 98.3%;\n  display: none;\n}\n\n.e-ticket-description .e-ticket-title,\n.payment h2.panel-title,\n.purchase-conditions h2.panel-title {\n  margin-top: 0;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 700;\n  font-size: 18px;\n  color: #084774;\n  text-transform: none;\n}\n\n.payment .form-group .checkbox label,\n.purchase-conditions .form-group .checkbox label {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 100;\n  font-size: 14px;\n  color: #666666;\n}\n\n.services-policy .services-policy-heading {\n  background: #084774;\n}\n\n.services-policy .services-policy-heading h2 {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 100;\n  font-size: 20px;\n  color: #ffffff;\n  text-transform: none;\n  margin: 5px 5px 8px;\n}\n\n.bounddetails .horizontal-title,\n.pricedetails .horizontal-title,\n.travellerdetails .panel-heading,\n.pnrd-view .confirm-banner,\n.servicesbreakdown-panel-heading,\n.flight-timeline-panel-header h2,\n#before-departure .heading.uppercase,\n.farereview-bounds .panel-heading,\nh2.travreview-review-banner,\narticle.panel.flight-notes-panel > .panel-heading,\narticle.panel.fare-notes-panel > .panel-heading,\n#CONF-page .insurance .heading-banner,\n.services-policy .services-policy-heading,\n.flight-timeline-panel-header,\n.insurance .heading-banner,\n.payment .heading-banner,\n.invoice-address-container .heading {\n  padding: 15px 20px;\n}\n\n.pricedetails .panel-heading,\n.farereview-bounds .panel-heading h2,\n#pricereview-container .panel-heading {\n  padding: 0;\n}\n\n.pricedetails .horizontal-title,\n.travellerdetails .horizontal-title,\n#before-departure .heading.uppercase h2,\n.services-policy .services-policy-heading h2,\n.farereview-bounds .panel-heading h2,\n.servicesbreakdown.panel h2,\n#pricereview-container .horizontal-title {\n  margin: 0;\n}\n\n\n.bounddetails .horizontal-title,\n.pricedetails .panel-heading span.title,\n.travellerdetails .panel-heading span.title,\n.pnrd-view .confirm-banner,\n.servicesbreakdown.panel h2,\n.flight-timeline-panel-header h2,\n#before-departure .heading.uppercase h2,\nh2.travreview-review-banner,\narticle.panel.flight-notes-panel > .panel-heading > .panel-title,\narticle.panel.fare-notes-panel > .panel-heading > .panel-title,\n#CONF-page .insurance .heading-banner span,\n.services-policy .services-policy-heading h2,\n.pricedetails .horizontal-title,\n.insurance .heading-banner > span.heading-text,\n.DPURCView .heading h2 {\n  font-size: 18px;\n}\n\nhtml[lang='zh'] .bounddetails .horizontal-title,\nhtml[lang='zh'] .pricedetails .panel-heading span.title,\nhtml[lang='zh'] .travellerdetails .panel-heading span.title,\nhtml[lang='zh'] .pnrd-view .confirm-banner,\nhtml[lang='zh'] .servicesbreakdown.panel h2,\nhtml[lang='zh'] .flight-timeline-panel-header h2,\nhtml[lang='zh'] #before-departure .heading.uppercase h2,\nhtml[lang='zh'] h2.travreview-review-banner,\nhtml[lang='zh'] article.panel.flight-notes-panel > .panel-heading > .panel-title,\nhtml[lang='zh'] article.panel.fare-notes-panel > .panel-heading > .panel-title,\nhtml[lang='zh'] #CONF-page .insurance .heading-banner span,\nhtml[lang='zh'] .services-policy .services-policy-heading h2 {\n  font-weight: 400;\n}\n\n\n.dangerous-goods-section {\n  padding: 1em 1.5em 0.5em 1.5em;\n}\n\n.payment-wrapper .no-bottom-padding {\n  margin: 0;\n  background: #fff;\n  padding: 1em 1.5em 0 1em;\n}\n\n.payment-wrapper .no-bottom-padding > .row {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n.creditCardWrapper {\n  position: relative;\n  left: -1px;\n  width: calc(100% + 1px);\n}\n\n.creditCardWrapper .cc-form-wrapper > .row {\n  padding-bottom: 0 !important;\n}\n\n.creditCardWrapper .area {\n  padding: 0;\n  border-top: 0;\n}\n\n.creditCardWrapper .area.area-separator div.row {\n  float: left;\n  width: 100% !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .relative.fop-wrapper {\n  border-left: 1px solid #dadcda;\n  border-right: 1px solid #dadcda;\n  border-bottom: 1px solid #dadcda;\n  width: 100%;\n  margin-left: 0;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(1),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(3),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(5),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(7),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(9) {\n  float: left;\n  width: 48.4% !important;\n  padding: 2% 0 1% 2% !important;\n  border-right: 0 !important;\n  border-bottom: 0 !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(2),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(4),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(6),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(8),\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(10) {\n  float: left;\n  width: 51% !important;\n  margin-left: 0;\n  padding: 2% 2% 1% 5% !important;\n  border-left: 0 !important;\n  border-bottom: 0 !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .area.area-separator div.row:nth-child(6) {\n  padding: 2% 2% 1.3% 5% !important;\n}\n\n.creditCardWrapper .area.area-separator div.row:nth-child(2),\n.creditCardWrapper .area.area-separator div.row:nth-child(4),\n.creditCardWrapper .area.area-separator div.row:nth-child(6),\n.creditCardWrapper .area.area-separator div.row:nth-child(8),\n.creditCardWrapper .area.area-separator div.row:nth-child(10) {\n  float: left;\n  width: 51%;\n  margin-left: 0;\n  padding: 2% 2% 1% 2% !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .cc-form-wrapper .row {\n  padding-top: 0 !important;\n  margin-left: 0;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .cc-form-wrapper .row .area .row {\n  border: 1px solid #dadcda !important;\n  border-top: 0 !important;\n  width: calc(100% - 6px);\n  margin-right: 0;\n  margin-top: 0;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .cc-form-wrapper .row .area .row .area .row {\n  border: 0 !important;\n}\n\n.payment #tpl5_fopTemplate_cc_type_selection_section.row {\n  margin-left: 0;\n  margin-right: 0;\n  padding-left: 12px;\n}\n\n.creditCardWrapper .cc-form-wrapper .row {\n  border-right: 0 !important;\n  margin-bottom: 0 !important;\n  border-bottom: 0 !important;\n  padding: 0;\n  margin-left: 0;\n  background: #fff;\n}\n\n.creditCardWrapper .area .row {\n  border: 0 !important;\n  background: #EAEFF7;\n  margin: 0;\n  padding: 0;\n  width: 100%;\n  /*margin-left: 6px;*/\n}\n\n.creditCardWrapper .ccInputs.row {\n  width: 100%;\n  float: left;\n}\n\n.creditCardWrapper .area.area-seperator .row {\n  width: 96%;\n  margin: 0 2%;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccAddressFirstLine,\n#widget-group-purchaseForm-paymentForm-CA-ccAddressFirstLine,\n#widget-group-purchaseForm-paymentForm-CA-ccAddressSecondLine,\n#widget-group-purchaseForm-paymentForm-AX-ccAddressFirstLine,\n#widget-group-purchaseForm-paymentForm-AX-ccAddressSecondLine {\n  margin: 0 2%;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccAddressSecondLine,\n#widget-group-purchaseForm-paymentForm-VI-ccCountry,\n#widget-group-purchaseForm-paymentForm-CA-ccAddressSecondLine,\n#widget-group-purchaseForm-paymentForm-CA-ccCountry,\n#widget-group-purchaseForm-paymentForm-AX-ccAddressSecondLine,\n#widget-group-purchaseForm-paymentForm-AX-ccCountry {\n  margin: 0 0 0 0.35% !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper #widget-group-purchaseForm-paymentForm-VI-ccAddressSecondLine {\n  margin: 0 !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper #widget-group-purchaseForm-paymentForm-VI-ccAddressSecondLine {\n  margin-left: 0 !important;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccAddressFirstLine input,\n#widget-group-purchaseForm-paymentForm-AX-ccAddressFirstLine input {\n  width: 100%;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccAddressSecondLine input,\n#widget-group-purchaseForm-paymentForm-CA-ccAddressSecondLine input,\n#widget-group-purchaseForm-paymentForm-VI-ccCountry {\n  width: 100%;\n}\n\n#widget-input-purchaseForm-paymentForm-AX-ccAddressSecondLine input,\n#widget-group-purchaseForm-paymentForm-AX-ccCountry select,\n#widget-group-purchaseForm-paymentForm-CA-ccCountry select,\n#widget-group-purchaseForm-paymentForm-VI-ccCountry select {\n  width: 99%;\n}\n\n#widget-group-purchaseForm-paymentForm-AX-ccCountry select,\n#widget-group-purchaseForm-paymentForm-CA-ccCountry select,\n#widget-group-purchaseForm-paymentForm-VI-ccCountry select {\n  margin-bottom: 10px;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccPostalCode,\n#widget-group-purchaseForm-paymentForm-CA-ccPostalCode,\n#widget-group-purchaseForm-paymentForm-AX-ccPostalCode {\n  width: 46% !important;\n  max-width: none;\n  margin-left: 2%;\n  padding-bottom: 13px;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccCountry,\n#widget-group-purchaseForm-paymentForm-CA-ccCountry,\n#widget-group-purchaseForm-paymentForm-AX-ccCountry,\n#widget-group-purchaseForm-paymentForm-AX-ccCountry {\n  max-width: none;\n  margin-left: 2%;\n  margin-bottom: 3%;\n  width: 100%;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-ccCity,\n#widget-group-purchaseForm-paymentForm-CA-ccCity,\n#widget-group-purchaseForm-paymentForm-AX-ccCity {\n  width: 46%;\n  float: right;\n  margin-right: 3%;\n}\n\n#widget-group-purchaseForm-paymentForm-VI-cardNumber .cardNumberSplitWrapper,\n#widget-group-purchaseForm-paymentForm-CA-cardNumber .cardNumberSplitWrapper {\n  border: 0;\n  background: none;\n  box-shadow: none;\n}\n\n#widget-group-purchaseForm-paymentForm-CA-ccAddressFirstLine {\n  width: 96%;\n}\n\n.payment-wrapper .address-max-width-full.has-feedback input {\n  width: 100%;\n}\n\n.payment-wrapper .col-xs-24.max-width-large .has-feedback {\n  width: 100%;\n}\n\n.payment-wrapper section.fop-form-wrapper fieldset .row {\n  width: 100%;\n  clear: both;\n  margin: 0;\n  padding: 0;\n  border: 1px solid #dadcda;\n  border-top: 0;\n}\n\n.payment-wrapper section.fop-form-wrapper fieldset .row.fop-menu-wrapper {\n  padding-bottom: 0;\n}\n\n.payment-wrapper section.fop-form-wrapper fieldset .row .area .row,\n.creditCardWrapper .cc-form-wrapper .row .area .row .area .row {\n  width: 100% !important;\n  border: none;\n  padding: 6px 0;\n  margin: 0 !important;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .cc-form-wrapper .row .area .row .area .row {\n  padding-top: 6px !important;\n  padding-left: 9px;\n}\n\n.payment-wrapper section.fop-form-wrapper fieldset .row .area .row .col-xs-24 .area .row {\n  background: none;\n  padding-left: 3px;\n  padding-right: 3px;\n}\n\n.payment-wrapper section.fop-form-wrapper fieldset .row.ccInputs .col-xs-24 {\n  width: 100%;\n}\n\n.payment-wrapper section.fop-form-wrapper fieldset .row.ccInputs .col-xs-24.has-feedback {\n  width: 40%;\n}\n\n.payment-wrapper section .popover .popover-content {\n  padding-right: 30px;\n}\n\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .payment-wrapper section.fop-form-wrapper fieldset .row.ccInputs .col-xs-24.has-feedback {\n    width: 100%;\n  }\n\n  .payment-wrapper section.fop-form-wrapper fieldset .row.ccInputs .col-xs-24.has-feedback input {\n    width: 40%;\n  }\n}\n\n.payment-wrapper section.fop-form-wrapper #tpl4_fopTemplate,\n#tpl4_fopTemplate_cc_type_selection_section {\n  border: 0;\n  margin-bottom: 0;\n  width: 100%;\n}\n\n.payment-wrapper section.fop-form-wrapper .fop-options-wrapper,\n.payment-wrapper section.fop-form-wrapper .relative.fop-wrapper {\n  padding-left: 0;\n}\n\n.payment .payment-wrapper .fop-options-wrapper,\n.payment .payment-wrapper .fop-option-list {\n  margin-bottom: 0;\n}\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .payment-wrapper section.fop-form-wrapper fieldset .row .area .row .col-xs-24 .area .row .col-xs-20 {\n    width: 100%;\n  }\n\n  .payment-wrapper section.fop-form-wrapper fieldset .row .area .row .col-xs-24 .area .row .col-xs-4 {\n    position: absolute;\n    right: 0;\n  }\n\n  .payment-wrapper .row.ccInputs .col-xs-24 {\n    margin-right: 0;\n  }\n\n  .payment-wrapper .row.ccInputs #widget-group-purchaseForm-paymentForm-AX-securityCode {\n    width: 100%;\n  }\n\n  .payment-wrapper .row.ccInputs #widget-group-purchaseForm-paymentForm-AX-securityCode input {\n    width: 40%;\n  }\n\n}\n/* @dgan: ipad media queries - End */\n\n.payment-wrapper section.fop-form-wrapper .fop-options-wrapper .mop-btn {\n  padding: 15px;\n}\n\n.payment-wrapper section.fop-form-wrapper .fop-options-wrapper .mop-btn.btn-tertiary {\n  box-shadow: none;\n  border-bottom: 1px solid #dadcda;\n  border-right: 1px solid #dadcda;\n  border-left: 0;\n}\n\n.payment-wrapper section.fop-form-wrapper .fop-options-wrapper .mop-btn.fop-option-selected:last-child {\n  border-bottom: 0;\n  margin-bottom: 0;\n}\n\n.payment .expiry-year {\n  padding-right: 0;\n  top: 26px;\n}\n\n.payment .fop-form-wrapper > .row {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n.payment .fop-option-list .fop-name {\n  color: #084774;\n  font-size: 16px;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n}\n\n.payment .fop-option-list {\n  position: relative;\n}\n\n.payment .fop-option-list input[type=radio] {\n  width: 20px;\n  height: 20px;\n  position: absolute;\n  /*margin-top: 4px;*/\n}\n\n.payment .fop-option-list label {\n  position: relative;\n}\n\n.payment .cc-options :not(#foo) input[type=radio] + label:before,\n.payment .fop-option-list :not(#foo) input[type=radio] + label:before {\n  display: block;\n  position: absolute;\n  margin: 0;\n  left: 0;\n  top: 0;\n  content: '';\n}\n\n.payment .fop-option-list :not(#foo) input[type=radio]:checked + label:after {\n  content: '';\n  position: absolute;\n  margin: 0;\n  top: 10px;\n  left: 10px;\n  width: 8px;\n  height: 8px;\n  background-color: #005eb8;\n  border-radius: 50%;\n  -ms-transform: translateX(-50%) translateY(-50%);\n  -webkit-transform: translateX(-50%) translateY(-50%);\n  transform: translateX(-50%) translateY(-50%);\n\n}\n\n.payment .cc-options :not(#foo) input[type=radio]:checked + label:after {\n  content: '';\n  position: absolute;\n  margin: 0;\n  top: 50%;\n  left: 10px;\n  width: 8px;\n  height: 8px;\n  background-color: #005eb8;\n  border-radius: 50%;\n  -ms-transform: translateX(-50%) translateY(-50%);\n  -webkit-transform: translateX(-50%) translateY(-50%);\n  transform: translateX(-50%) translateY(calc(-50% - 2.5px));\n}\n\n.payment .fop-name {\n  margin-left: 0;\n  padding-left: 25px;\n  display: inline-block;\n}\n\n.cardNumberSplitWrapper {\n  display: inline-block;\n  height: 50px;\n  width: 100%;\n  position: relative;\n  padding: 0;\n}\n\n.form-group .cardNumberSplitWrapper input[type=\"text\"] {\n  width: 23%;\n  -moz-border-radius: 20px;\n  -webkit-border-radius: 20px;\n  border-radius: 20px;\n  padding: 7px 10px 4px;\n  margin: 2px 6px 0 0;\n  border: 1px solid #dadcda;\n  line-height: 22px;\n  float: left;\n  position: initial;\n}\n\n.form-group .cardNumberSplitWrapper input[type=\"text\"]:nth-child(4) {\n  margin-right: 0;\n  padding-right: 15px;\n}\n\n.form-group .cardNumberSplitWrapper .separator {\n  display: none;\n}\n\n.payment .font-bold {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 100 !important;\n}\n\n.payment .security-code-input {\n  width: 100%;\n}\n\n.payment .security-code-feedback {\n  right: 0 !important;\n  left: auto !important;\n  margin-top: 0;\n}\n\n.payment .payment-wrapper .margin-left-zero .creditCardWrapper .address-title {\n  width: calc(100% - 5px) !important;\n  padding-left: 0;\n}\n\n.payment .address-title {\n  width: 100%;\n  margin-left: 0;\n  font-size: 14px;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 700;\n  color: #084774;\n  padding-bottom: 10px;\n  padding-left: 20px;\n  border-bottom: 5px solid #084774;\n  margin-bottom: 0;\n}\n\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .payment .address-title {\n    padding-left: 10px;\n  }\n}\n/* @dgan: ipad media queries - End */\n\n.payment .address-title span.textBold {\n  font-size: 18px;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 700;\n  color: #084774;\n}\n\n.payment-wrapper {\n  margin-bottom: 15px;\n}\n\n.ticket-delivery .heading-text {\n  display: none;\n}\n/* End - Payment */\n\n#seatmap-information .plnext-message .content {\n  margin-left: 0;\n}\n\n.timeout-warning button,\n.timeout-alert button {\n  margin-top: 5px;\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  box-shadow: none;\n  padding: 8px 20px;\n}\n\n.timeout-warning button i,\n.timeout-alert button {\n  position: relative;\n  top: 3px;\n}\n\n.timeout-warning .col-md-3.hidden-xs {\n  display: none;\n}\n\n.legendItem .icon {\n  line-height: 21px;\n}\n\n[class*=\"icon-seat-\"],\n[class*=\"icon-seat-\"]:before {\n  color: transparent !important;\n}\n\n.icon-seat-available,\n.icon-seat-chargeable {\n  cursor: pointer;\n  -moz-border-radius: 5px;\n  -webkit-border-radius: 5px;\n  border-radius: 5px;\n}\n\n.uicCabin .extra-leg-row .extra-leg,\n.uicCabin .extra-leg-row .extra-leg-selected {\n  left: 9px;\n  bottom: 15px;\n  height: 15px;\n  width: 22px;\n}\n\n.vertical .uicCabin tr:first-child,\n.vertical .uicCabin tr:last-child,\n.vertical .uicLeftWindow,\n.vertical .uicRightWindow,\n.vertical .uicNoWindow,\n.vertical .uicCabin .firstColumn,\n.vertical .uicCabin .lastColumn,\n.vertical .uicCabin .uicEmptySquare.uicSquare {\n  background-color: #fff;\n}\n\n.uicFacilityEmergencyExit,\n.uicFacilityEmergencyExit.uicZoneFacility {\n  background-color: #767676;\n  border: 2px solid #fff;\n  border-radius: 9px;\n}\n\n.firstColumn,\n.icon-seatmap-exit-left::before,\n.icon-seatmap-exit-right::before,\n.uicLetters.firstRow,\n.uicNumbers.lastColumn {\n  font-weight: normal;\n}\n\n.icon-seat-unavailable,\n.uicCabin .icon-seat-unavailable.uicSquare {\n  cursor: default;\n  /*background-color: #6893CD !important;*/\n  /*color: #6893CD !important;*/\n  background-color: #ccc !important;\n  color: #ccc !important;\n  -moz-border-radius: 5px;\n  -webkit-border-radius: 5px;\n  border-radius: 5px;\n}\n\n.icon-seat-available,\n.icon-seat-unavailable,\n.icon-seat-chargeable,\n.icon-seat-unavailable {\n  position: relative;\n}\n\n.icon-seat-available:focus:before,\n.icon-seat-unavailable:focus:before,\n.icon-seat-chargeable:focus:before,\n.icon-seat-unavailable:focus:before {\n  /*outline: none;*/\n  position: absolute;\n  left: 0;\n  top: 0;\n  height: 100%;\n  width: 100%;\n}\n\n.icon-seat-available.icon-seat-selected-num:after,\n.icon-seat-chargeable.icon-seat-selected-num:after,\n.vertical .icon-seat-available.icon-seat-selected-num:after,\n.vertical .icon-seat-chargeable.icon-seat-selected-num:after {\n  top: 50%;\n  left: 50%;\n  position: absolute;\n  -ms-transform: translateX(-50%) translateY(-50%);\n  -webkit-transform: translateX(-50%) translateY(-50%);\n  transform: translateX(-50%) translateY(-50%);\n}\n\n.uicCabinContainer .uicCabin,\n.uicCorridor {\n  background-color: transparent;\n}\n\n.uicCabinContainer .uicCabin td div.icon-seat-available,\n.uicCabinContainer .uicCabin td div.icon-seat-chargeable,\n.uicCabinContainer .uicCabin td div.icon-seat-unavailable {\n  width: 30px;\n  height: 30px;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  margin: 5px;\n}\n\n.uicLetters,\n.uicNumbers {\n  background-image: none;\n  text-align: center;\n  width: 20px;\n  height: 30px;\n  line-height: 30px;\n}\n\n.vertical .uicSquare {\n  margin: 0 auto;\n}\n\n.uicEmptyArea.uicSquare {\n  opacity: 0.08;\n}\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 1199px) {\n  .uicCabinContainer .uicCabin td div.icon-seat-available,\n  .uicCabinContainer .uicCabin td div.icon-seat-chargeable,\n  .uicCabinContainer .uicCabin td div.icon-seat-unavailable {\n    width: 25px;\n    height: 25px;\n    font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n    margin: 2px;\n  }\n}\n\n@media (max-width: 991px) {\n  .uicCabinContainer .uicCabin td div.icon-seat-available,\n  .uicCabinContainer .uicCabin td div.icon-seat-chargeable,\n  .uicCabinContainer .uicCabin td div.icon-seat-unavailable {\n    width: 20px;\n    height: 20px;\n  }\n}\n/* @dgan: ipad media queries - End */\n\n.vertical .uicLeftWindow,\n.vertical .uicRightWindow,\n.vertical .uicNoWindow,\n.vertical .uicWindowPlaceHolder {\n  width: 3px;\n  height: 30px;\n}\n\n.uicCabin .icon-seat-available.icon-seat-selected-num.uicSquare {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-size: 14px;\n  background-color: #25BA53 !important;\n  padding-top: 4px;\n}\n\n.seatMapContainer[paxn=\"paxN1\"] .paxN1:before,\n.seatMapContainer[paxn=\"paxN2\"] .paxN2:before,\n.seatMapContainer[paxn=\"paxN3\"] .paxN3:before,\n.seatMapContainer[paxn=\"paxN4\"] .paxN4:before,\n.seatMapContainer[paxn=\"paxN5\"] .paxN5:before,\n.seatMapContainer[paxn=\"paxN6\"] .paxN6:before,\n.seatMapContainer[paxn=\"paxN7\"] .paxN7:before,\n.seatMapContainer[paxn=\"paxN8\"] .paxN8:before,\n.seatMapContainer[paxn=\"paxN9\"] .paxN9:before {\n  color: #25BA53;\n}\n\n.icon-seat-selected-alone {\n  cursor: pointer;\n  color: #25BA53;\n  background: #25BA53;\n  -moz-border-radius: 5px;\n  -webkit-border-radius: 5px;\n  border-radius: 5px;\n}\n\n.travellerBox .seatPax:after {\n  color: #25BA53 !important;\n  content: \"\\e611\";\n  font-family: 'NewUI-icons';\n}\n\n.travellerBox .seatPax > div {\n  font-size: 15px;\n  margin-top: 7px;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n}\n\n.travellerBox > .table-container {\n  display: block;\n  float: left;\n  padding: 0 10px;\n}\n\n.travellerBox > .table-container > .table-row {\n  display: block;\n  float: left;\n  width: 100%;\n  padding: 5px 0;\n}\n\n.travellerBox > .table-container > .table-row > .table-cell:first-child {\n  display: inline-block;\n  width: 20px;\n  height: 20px;\n  float: left;\n}\n\n.travellerBox > .table-container > .table-row > .traveller-cell {\n  display: inline-block;\n  min-height: 22px;\n  width: calc(100% - 20px);\n  float: left;\n}\n\n.travellerBox > .table-container > .table-row > .traveller-cell + .table-cell {\n  display: block;\n  /*margin-left: 100px;*/\n  /*width: 27px;*/\n  /*float: left;*/\n  min-height: 27px;\n  float: left;\n  margin-left: 0;\n  width: calc(100% - 70px);\n  padding-right: 10px;\n  text-align: right;\n}\n\n.travellerBox > .table-container > .table-row > .traveller-cell + .table-cell span {\n  display: inline-block;\n}\n\n.travellerBox > .table-container > .table-row > .seat-cell {\n  display: block;\n  /*width: calc(100% - 27px - 100px);*/\n  /*float: left;*/\n  float: right;\n  width: 70px;\n  text-align: right;\n}\n\n.travellerBox > .table-container > .table-row > .seat-cell span {\n  display: block;\n}\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .travellerBox > .table-container > .table-row > .traveller-cell + .table-cell {\n    margin-left: 0;\n  }\n\n  .travellerBox > .table-container > .table-row > .seat-cell {\n    width: 70px;\n  }\n}\n/* @dgan: ipad media queries - End */\n\n.icon-seatmap-exit-right,\n.icon-seatmap-facility-galley,\n.icon-seatmap-facility-toilet,\n.icon-seatmap-facility-wheelchair,\n.uicZoneFacility {\n  -moz-border-radius: 5px;\n  -webkit-border-radius: 5px;\n  border-radius: 5px;\n}\n\n.serviceSummary-btn-delete-icon {\n  text-decoration: none;\n  color: #E31A2B;\n}\n\n\n/* Multicity */\n\n#matrix-pricing-description {\n  margin-top: 0;\n  width: 99%;\n}\n\n#matrix-pricing-description .content {\n  margin-left: 0;\n}\n\n#matrix-pricing-description .content p {\n  margin-bottom: 0;\n  font-size: 1em;\n  color: #333;\n}\n\n.availability-schedule-container-fluid {\n  margin-top: 0;\n}\n\n.availability-schedule-header {\n  margin: 0;\n  padding: 15px 20px;\n  background: #084774;\n  color: #fff;\n}\n\n.complex-availability-schedule-badge {\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  width: 40px;\n  height: 40px;\n  font-size: 1em;\n  color: #084774;\n  background: #fff;\n  margin-right: 1em;\n  float: left;\n}\n\n.bounddetails .bound-number {\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  width: 32px;\n  height: 32px;\n  font-size: 1em;\n  color: #fff;\n  background: #084774;\n  margin-right: 0.6em;\n  /* margin-top: -0.4em; */\n  float: left;\n  line-height: 1.5em;\n}\n\n.bounddetails .bounds-list {\n  padding: 20px;\n}\n\n.bounddetails .bounds-list:not(:last-child) {\n  padding-bottom: 15px;\n}\n\n.bounddetails .bounds-list:not(:first-child) {\n  padding-top: 15px;\n}\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .bounddetails .itinerary {\n    position: relative;\n    padding-left: 42px; /* offset number width + 10px */\n  }\n\n  .bounddetails .bound-number {\n    position: absolute;\n    top: 50%;\n    left: 0;\n    -ms-transform: translateY(-50%);\n    -webkit-transform: translateY(-50%);\n    transform: translateY(-50%);\n    margin-right: 0;\n  }\n}\n/* @dgan: ipad media queries - End */\n\n.complex-flow .header-from-cities {\n  padding: 0;\n}\n\n.complex-flow .availability-schedule-header-cities .header-from-cities {\n  padding: 0;\n  width: 35%;\n  float: left;\n}\n\n.complex-flow .availability-schedule-header-cities .header-to-cities {\n  padding: 0;\n  width: 50%;\n  float: left;\n}\n\n.complex-flow .fromairport,\n.complex-flow .toairport {\n  font-size: 14px;\n  text-transform: initial;\n}\n\n.complex-flow .availability-schedule-to {\n  font-size: 0.8em;\n  margin-top: 0.5em;\n  margin-right: 4.5em;\n  float: left;\n}\n\n/* Reservation Search - Start */\n.panel.panel-search {\n  box-shadow: none;\n  border: 1px solid #dadcda;\n}\n\n.panel.panel-search .panel-heading,\n.panel.panel-search .reservation-search-panel .tabs {\n  background-color: #084774;\n  color: #fff;\n}\n\n.panel.panel-search .reservation-search-panel fieldset,\n.panel.panel-search .reservation-search-panel fieldset legend {\n  height: 0;\n  line-height: 0;\n}\n\n.panel.panel-search .reservation-search-fields {\n  padding: 0;\n}\n\n.panel.panel-search .reservation-search-fields .reservation-number {\n  display: inline-block;\n  width: 100%;\n  margin-left: -7.5px;\n  margin-right: -7.5px;\n  padding-top: 20px;\n  padding-left: 20px;\n  padding-right: 20px;\n}\n\n.panel.panel-search .reservation-search-fields .reservation-number form {\n  display: inline-block;\n  width: 100%;\n}\n\n.panel.panel-search .reservation-search-fields .reservation-search-footer {\n  display: inline-block;\n  width: 100%;\n}\n\n.panel.panel-search .reservation-search-fields button[type=\"submit\"] {\n  box-shadow: none;\n  border-radius: 50px;\n  padding: 7.5px 15px;\n  min-width: 146px;\n}\n\n.panel.panel-search .reservation-search-fields button[type=\"submit\"] .icon-plane {\n  display: inline-block;\n  padding: 0;\n  width: 30px;\n  height: 30px;\n  line-height: 30px;\n  margin-right: 10px;\n  float: left;\n}\n\n.panel.panel-search .reservation-search-fields button[type=\"submit\"] span {\n  display: inline-block;\n  font-size: 14px;\n  line-height: 30px;\n  float: left;\n}\n\n/* Reservation Search - End */\n\n/* @dgan: ipad media queries - Start */\n@media (max-width: 991px) {\n  .availability-schedule-header.container-fluid.complex-flow > div:first-child {\n    width: 70%;\n    float: left;\n  }\n  .availability-schedule-header.container-fluid.complex-flow > div:last-child {\n    width: 30%;\n    float: left;\n  }\n  .complex-flow .availability-schedule-header-cities .header-from-cities {\n    width: auto;\n  }\n  .complex-flow .availability-schedule-header-cities .header-to-cities {\n    width: 50%;\n  }\n  .complex-availability-schedule-badge {\n    margin-right: 15px;\n  }\n  .complex-flow .availability-schedule-fixture {\n    margin-top: 0;\n    float: none;\n    display: inline-block;\n  }\n  .complex-flow .availability-schedule-fixture span {\n    float: none;\n    line-height: 1.2;\n  }\n  .complex-flow .availability-schedule-to {\n    margin-right: 10px;\n    margin-left: 10px;\n    width: 26px;\n    text-align: center;\n  }\n  .complex-flow .availability-schedule-outbound-city.tocity {\n    width: calc(100% - 26px - 20px);\n  }\n  .complex-flow .fromairport,\n  .complex-flow .toairport {\n    margin-left: 46px;\n  }\n  .complex-flow .availability-schedule-fixture time {\n    margin-top: 0;\n  }\n  .complex-flow .availability-schedule-fixture time span {\n    display: inline-block;\n    padding-top: 0;\n    font-size: 21px;\n  }\n}\n/* @dgan: ipad media queries - End */\n\n.availability-schedule-outbound-city.fromcity,\n.availability-schedule-inbound-city.fromcity,\n.availability-schedule-outbound-city.tocity,\n.availability-schedule-inbound-city.tocity {\n  font-size: 24px;\n  font-weight: 100;\n  text-transform: initial;\n}\n\n.availability-schedule-fixture i.icon-calendar {\n  display: none;\n}\n\n.availability-schedule-fixture span {\n  font-size: 24px;\n  text-transform: initial;\n  line-height: 0;\n  padding: 8px 0 0 0;\n  /* float: left; */\n}\n\n#availability-schedule-component-container {\n  margin: 0;\n  padding: 0;\n  width: 99%;\n}\n\n.availability-schedule-outbound-row,\n.availability-schedule-inbound-row {\n  width: 100%;\n  float: left;\n  height: auto;\n  overflow: hidden;\n  margin: 8px 0 0 0;\n  padding: 0;\n}\n\n@media (max-width: 991px) {\n  .availability-schedule-outbound-city.fromcity,\n  .availability-schedule-inbound-city.fromcity,\n  .availability-schedule-outbound-city.tocity,\n  .availability-schedule-inbound-city.tocity {\n    font-size: 22px;\n  }\n}\n\n.availability-schedule-outbound-itin,\n.availability-schedule-inbound-itin {\n  background: #F1F1F1;\n}\n\n.availability-schedule-outbound-flights,\n.availability-schedule-inbound-flights {\n  border: 1px solid #dadcda;\n  background: #fff;\n  margin: 0.7em 0 0;\n  float: left;\n  clear: both;\n  width: 100%;\n}\n\n.availability-schedule-outbound-flights.availability-schedule-active.availability-schedule-oneway {\n  background-color: #005eb8;\n}\n\n.flight-option-details-table .availability-schedule-outbound-itin input[type=\"radio\"],\n.flight-option-details-table .availability-schedule-inbound-itin input[type=\"radio\"] {\n  opacity: 0;\n}\n\n.flight-option-details-table .availability-schedule-outbound-itin,\n.flight-option-details-table .availability-schedule-inbound-itin {\n  box-shadow: none;\n  border-right: 1px solid #dadcda;\n  padding: 1em 1.2em 1em 0;\n  vertical-align: top;\n}\n\n.oneBoundDisplay .flight-option-details-table {\n  table-layout: fixed;\n}\n\n.oneBoundDisplay .availability-schedule-outbound-itin,\n.oneBoundDisplay .availability-schedule-info,\n.oneBoundDisplay .availability-schedule-info-col {\n  width: calc(100% / 3);\n}\n\n.oneBoundDisplay .availability-schedule-info {\n  padding: 0 1.2em;\n}\n\n.oneBoundDisplay .availability-schedule-info-col {\n  border-left: 1px solid #dadcda;\n  padding: 0.5em 1.2em 1em;\n}\n\n.availability-schedule-price-type {\n  width: 99%;\n  box-shadow: none;\n  border: 1px solid #dadcda;\n}\n\n.availability-schedule-pricing-option-header {\n  background: #084774;\n  color: #fff;\n  font-size: 24px;\n  padding: 20px;\n  font-weight: 100;\n}\n\n.availability-schedule-pricing-option-header i.icon-coin {\n  display: none;\n}\n\n.availability-schedule-pricing-option-content strong {\n  font-size: 1.1em;\n}\n\n.availability-schedule-pricing-option-content {\n  font-size: 1em;\n  color: #666;\n}\n\n.availability-schedule-form-group div[class=\"radio\"] input[type=\"radio\"] {\n  margin-top: 0.3em;\n}\n\n#availability-schedule-component-container .availability-schedule-time {\n  color: #084774;\n  font-size: 24px;\n  line-height: 24px;\n  font-weight: 700;\n}\n\n#availability-schedule-component-container span.availability-schedule-depart-time {\n  margin-bottom: 10px;\n  margin-top: 0.3em;\n  float: left;\n  width: 100%;\n}\n\n#availability-schedule-component-container .availability-schedule-depart-time span,\n#availability-schedule-component-container .availability-schedule-arrival-time span {\n  font-size: 12px;\n  color: #666666;\n}\n\n#availability-schedule-component-container .availability-schedule-info-row span {\n  color: #666666;\n}\n\n#availability-schedule-component-container .availability-schedule-info-col span {\n  color: #666666;\n  word-break: break-all;\n}\n\n#availability-schedule-component-container .availability-schedule-airline {\n  color: #2E66B4 !important;\n  font-size: 12px;\n}\n\n#availability-schedule-component-container .availability-schedule-cabin-heading {\n  padding-top: 10px;\n}\n\n#availability-schedule-component-container span.rbd-details {\n  padding-top: 0;\n  padding-left: 0;\n}\n\n.availability-schedule-select.availability-schedule-outbound-flights,\n.availability-schedule-select.availability-schedule-inbound-flights {\n  border-color: #2562ba;\n  background-color: #FFFFFF;\n}\n\n.availability-schedule-active .availability-schedule-outbound-itin,\n.availability-schedule-active .availability-schedule-inbound-itin,\n.availability-schedule-active .availability-schedule-info,\n.oneBoundDisplay .availability-schedule-select.availability-schedule-active .availability-schedule-info-col {\n  background-color: #2562ba;\n}\n\n.availability-schedule-active .availability-schedule-outbound-itin .availability-schedule-time,\n.availability-schedule-active .availability-schedule-inbound-itin .availability-schedule-time {\n  color: #fff !important;\n}\n\n.availability-schedule-active .availability-schedule-outbound-itin .availability-schedule-depart-time span,\n.availability-schedule-active .availability-schedule-outbound-itin .availability-schedule-arrival-time span,\n.availability-schedule-active .availability-schedule-inbound-itin .availability-schedule-depart-time span,\n.availability-schedule-active .availability-schedule-inbound-itin .availability-schedule-arrival-time span,\n.availability-schedule-active .availability-schedule-info span,\n.availability-schedule-active .availability-schedule-info strong,\n#availability-schedule-component-container .availability-schedule-airline,\n.availability-schedule-active .availability-schedule-info-col span {\n  color: #fff !important;\n}\n\n#FARE-page-content {\n  padding-left: 0;\n}\n\n#fare-review {\n  padding-left: 0;\n}\n\n#fare-review #farereview-container {\n  margin-top: 0 !important;\n}\n\n#fare-review #farereview-container .segment-details.segment-details-row {\n  margin-left: 10px;\n}\n\n#fare-review #farereview-container .segment-details.segment-details-row .timeline-segment-start-mark,\n#fare-review #farereview-container .segment-details.segment-details-row .timeline-segment-end-mark {\n  left: -0.4em;\n}\n\n.display-FLIFO-link {\n  float: left;\n  margin-left: -7.5px;\n}\n\n.flifo-title .icon-plane {\n  padding: 5px;\n  display: inline-block;\n  text-align: center;\n}\n\n.flifo-details.bounds-panel.panel {\n  box-shadow: none;\n  border: 1px solid #dadcda;\n}\n\n.flifo-details .paragraph-content {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n.flifo-details .segment-row-operationalInfo.row {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n#flightinfo-buttons {\n  margin-right: 7px;\n}\n/* @dgan: ipad media queries - Start */\n\n@media (max-width: 991px) {\n  .flifo-details .empty-space {\n    width: 40%;\n  }\n  .flifo-details .itinerary-details {\n    width: 60%;\n  }\n  .flifo-details .total-duration-col {\n    width: auto;\n    float: right;\n  }\n}\n/* @dgan: ipad media queries - Start */\n\n.document-passport-header .traveller-advanced {\n  margin-bottom: 0;\n}\n\n#VERI-page.row {\n  margin: auto;\n  /* margin-left: 0; */\n  /* margin-right: 0; */\n}\n\n.CSS0 .DVERIView .icon-inline {\n  display: none;\n}\n\n.CSS0 .DVERIView .vbv-title {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  text-transform: initial;\n  font-size: 22px;\n  color: #084774;\n}\n\n.DVERIView .row.page-template-section {\n  margin: auto;\n}\n\n.DVERIView .page-template-section .col-xs-24 {\n  width: 100%;\n  padding: 0;\n}\n\n.CSS0 .DVERIView .section-spacing {\n  padding: 0;\n}\n\n.CSS0 .DVERIView .section-border {\n  box-shadow: none;\n}\n\n#CONF-page-content {\n  padding: 0;\n}\n\n#reservation-menu {\n  width: 23%;\n  margin-left: 2%;\n}\n\n#reservation-menu button {\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  font-size: 15px;\n  color: #fff;\n  background: #005CB8;\n  box-shadow: none;\n  width: 100%;\n  padding: 12px 20px;\n  margin-top: 10px;\n}\n\n#reservation-menu .plnext-dropdown.dropdown-container {\n  margin: 15px 0 0;\n}\n\n#reservation-menu button .icon-caret-down {\n  right: 1em !important;\n  top: 1em;\n}\n\n#reservation-menu button .icon,\n#reservation-menu button .icon-envelope,\n#reservation-menu button .icon-print,\n#reservation-menu button .icon-search,\n#reservation-menu button .icon-home {\n  display: none;\n}\n\n#reservation-menu .plnext-dropdown.dropdown-container ul.dropdown-menu {\n  box-shadow: none;\n  min-width: 87%;\n  margin-left: 7%;\n  border: 1px solid #dadcda;\n  border-top: 0;\n  margin-top: -2px;\n}\n\n#reservation-menu .plnext-dropdown.dropdown-container ul.dropdown-menu li {\n  border-bottom: 1px solid #dadcda;\n}\n\n#reservation-menu .plnext-dropdown.dropdown-container ul.dropdown-menu li:last-child {\n  border-bottom: 0;\n}\n\n#reservation-menu .plnext-dropdown.dropdown-container ul.dropdown-menu li a .icon {\n  display: none;\n}\n\n.pnrd-view .bold {\n  font-weight: 700;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  padding: 0;\n}\n\n.pnrd-view .confirm-banner {\n  background-color: #084774;\n  color: #FFFFFF;\n  margin: 0;\n  text-transform: initial;\n}\n\n.pnrd-view .confirm-banner .recloc {\n  display: none;\n  /*color: #fff;*/\n}\n\n.pnrd-view .heading-icon,\n.pnrd-view .main-icon,\n.travellerdetails .panel-footer button .icon-adult,\n.servicesbreakdown-footer .icon-service {\n  display: none;\n}\n\n.pnrd-view .panel {\n  box-shadow: none;\n}\n\n.travellerdetails .traveller-section {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n.travellerdetails .panel-body {\n  padding-left: 20px;\n  padding-right: 20px;\n  padding-bottom: 10px;\n}\n\n.travellerdetails .panel-footer {\n  padding: 20px 15px;\n}\n\n.travellerdetails .panel-footer button,\n.servicesbreakdown-footer button,\n.email-popup-close-popup-button {\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  font-size: 15px;\n  color: #fff;\n  background: #005CB8;\n  box-shadow: none;\n  padding: 12px 20px;\n}\n\n.flight-timeline-panel-header {\n  background: #084774;\n}\n\n.flight-timeline-panel-header h2,\n#before-departure .heading.uppercase h2,\nh2.travreview-review-banner {\n  color: #fff;\n  font-size: 22px;\n  font-weight: 100;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  margin: 0;\n  text-transform: initial;\n  line-height: 22px;\n}\n\n.area-content.dynamic-printTimeline-width {\n  border: 1px solid #dadcda;\n  padding: 20px;\n}\n\n.area-content.dynamic-printTimeline-width .status-message-list {\n  padding-left: 3px;\n}\n\n.area-content.dynamic-printTimeline-width .timeline-container {\n  padding-left: 0;\n  padding-right: 0;\n}\n\n.area-content.dynamic-printTimeline-width .icon-plane,\n.area-content.dynamic-printTimeline-width .icon-plane-return {\n  padding-left: 0;\n}\n\n.timeline-container:before,\n.timeline-container:after {\n  display: none;\n}\n\n.flight-notes-panel ul {\n  padding-left: 0;\n  margin-bottom: 0;\n}\n\n.pnrd-view .reservation-info .area {\n  padding: 0.8em 0;\n}\n\n.reservation-info .ticket-container {\n  margin-top: 10px;\n}\n\n.reservation-info .ticket-detail {\n  padding: 20px;\n}\n\n.reservation-info .additional-info {\n  margin-bottom: 20px;\n}\n\n.reservation-info .anchor-links-container {\n  padding-top: 0;\n}\n\n.reservation-info .anchor-links-container h3.bold:first-child {\n  margin-top: 0;\n}\n\n#CONF-page-content .servicesbreakdown-container {\n  width: 100%;\n}\n\n#CONF-page-content .servicesbreakdown-panel-body.panel-body {\n}\n\n#CONF-page-content .servicesbreakdown-title-no-services.servicesbreakdown-no-services {\n  padding: 10px;\n}\n\n.servicesbreakdown.panel h2,\n.servicesbreakdown.panel h4,\n.servicesbreakdown-panel-body h3,\n.servicesbreakdown-seat-name,\n.servicesbreakdown-bound-category-elem,\n.servicesbreakdown-segment-category-elem,\n.servicesbreakdown-itinerary-category {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: bold;\n}\n\n.service-breakdown-item-currency,\n.servicesbreakdown-seat-value,\n.servicesbreakdown-seat-emd,\n.service-breakdown-item-price,\n.servicesbreakdown-panel-body h3 time.services-breakdown-begin-date,\n.servicesbreakdown-panel-body h4 time.services-breakdown-begin-date {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: normal;\n}\n\n.servicesbreakdown-panel-body h3 time.services-breakdown-begin-date {\n  font-size: 16px;\n  margin-top: 3px;\n}\n\n.servicesbreakdown-footer {\n  padding: 20px 15px;\n  width: 100%;\n}\n\n.reservation-info ul.reservation-table li {\n  color: #333;\n  font-size: 16px;\n  float: left;\n  clear: both;\n  padding: 2px 0;\n}\n\n.reservation-info ul.reservation-table li:first-child {\n  display: none;\n}\n\n.pnrd-view .recloc {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  color: #333333;\n  font-size: 36px;\n}\n\n.reservation-info .reservation-table li span:first-child {\n  width: 200px;\n  vertical-align: middle;\n}\n\n.anchor-links-container h3.bold {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  color: #084774;\n  font-size: 18px;\n  font-weight: 700;\n}\n\nspan.bold.no-wrap-text.reservation-amount-value {\n  color: #084774;\n}\n\n.anchor-links-container li {\n  padding: 2px 0;\n}\n\n.reservation-info .reservation-actions {\n  background: #fff;\n  border: 1px solid #dadcda;\n  padding: 15px 15px 10px;\n}\n\n#before-departure {\n  margin-top: 26px;\n}\n\n#before-departure .heading.uppercase {\n  background: #084774;\n}\n\n#before-departure .legal-notice .area {\n  padding: 20px;\n}\n\nsection.panel.legal-notice {\n  margin: 0;\n  padding: 0;\n  border: 1px solid #dadcda;\n}\n\nsection.panel.legal-notice .heading-text.uppercase {\n  text-transform: initial;\n  color: #084774;\n  font-size: 16px;\n  font-weight: 700;\n  margin-top: 10px;\n}\n\n#dialog-email-popup {\n  border: 0;\n  box-shadow: none;\n}\n\n.email-popup-image-alignment .email-popup-icon-sign {\n  display: none;\n}\n\n.email-popup-text-alignment {\n  margin-left: 20px;\n  margin-top: -6px;\n}\n\n.email-popup-text-alignment p .bold {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  color: #084774;\n  font-weight: 700;\n}\n\n.reservation-info .ticket-link {\n  text-decoration: none;\n}\n\n.reservation-info .ticket-link span.bold {\n  text-decoration: none;\n}\n\n#RTPL-page .servicesbreakdown-container {\n  width: 100%;\n}\n\n#RTPL-page .servicesbreakdown-panel-body {\n  border: 1px solid #dadcda;\n  width: 100%;\n}\n\ni.icon-external-link {\n  display: none;\n}\n\n.popover-content > img {\n  display: none;\n}\n\n#tpl16_widget-input-travellerList-contactInformation-EMailNotif {\n  clear: both;\n  display: block;\n}\n\n#mab-footer {\n  border-top: 1px solid #dadcda;\n  border-bottom: 1px solid #dadcda;\n  margin-top: 40px;\n  margin-bottom: 10px;\n}\n\n.footer_logo {\n  width: auto;\n  margin: 0;\n  text-align: center;\n}\n\n.footer_logo a {\n  display: inline-block;\n  margin-right: 30px;\n  color: #fff;\n  max-width: 100px;\n}\n\n#travreview-container {\n  border: 1px solid #dadcda;\n}\n\n#travreview-container h3 {\n  margin-top: 0;\n}\n\n.travreview-sections-col {\n  border: 1px solid #dadcda;\n  box-shadow: none;\n}\n\n.travreview-sections-col .travreview-title {\n  background: #084774;\n  color: #fff;\n}\n\n.travreview-title .travreview-traveller-icon {\n  border: 0;\n  background-color: #fff;\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  width: 30px;\n  height: 30px;\n  margin: 10px 0 0 10px;\n}\n\n.travreview-modify button {\n  -moz-border-radius: 50px;\n  -webkit-border-radius: 50px;\n  border-radius: 50px;\n  font-size: 15px;\n  color: #fff;\n  background: #005CB8;\n  box-shadow: none;\n  width: 75%;\n  padding: 12px 20px;\n  margin-top: 10px;\n}\n\n.traveller-review .heading {\n  margin-bottom: 0;\n  background: #084774;\n  padding: 20px;\n  width: 100%;\n}\n\n.travreview-review-banner {\n  padding: 0;\n  background-color: transparent;\n  margin-top: 0;\n  box-shadow: none;\n}\n\n.travreview-title .travreview-traveller-icon i {\n  font-size: 100%;\n  color: #084774;\n}\n\n.travreview-title .travreview-traveller-icon i:before {\n  position: relative;\n  top: -5px;\n  left: -3px;\n}\n\n.travreview-title .name .first-name.bold {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 300;\n  font-size: 14px;\n}\n\n.travreview-title .name .last-name {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: 700;\n  font-size: 16px;\n}\n\n#widget-group-travellerList-contactInformation-EMailNotif span {\n  float: left;\n  clear: both;\n  -ms-transform: translateY(-10px);\n  -webkit-transform: translateY(-10px);\n  transform: translateY(-10px);\n}\n\n@media (max-width: 882px) {\n  html[lang='ja'] #widget-group-travellerList-contactInformation-Email label {\n    min-height: 45px;\n  }\n}\n\n@media (min-width: 992px) {\n  html[lang='ja'] #widget-group-travellerList-contactInformation-Email label {\n    /*min-height: 45px;*/\n  }\n}\n\nhtml[lang='ja'] #widget-group-travellerList-contactInformation-EMailNotif {\n  float: left;\n  width: 100%;\n}\n\nhtml[lang='ja'] #widget-group-travellerList-contactInformation-EMailNotif span {\n  float: none;\n}\n\n.reservation-info .heading-background {\n  display: none !important;\n}\n\n.icon-fuel {\n  display: none;\n}\n\n@-moz-document url-prefix() {\n  .payment .cc-logo-3ds {\n    margin-top: 47px;\n  }\n}\n\n@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {\n  .footer_logo {\n    width: 50%;\n    margin: 0 25%;\n    clear: both;\n  }\n}\n/**\n * Changes @dgan 14/03/17\n */\n\n @media (max-width: 1199px) {\n  #FPOW-page.row.page-template-section {\n    margin-left: 0;\n    margin-right: 0;\n  }\n}\n\n.availability-show-timeline-link {\n  font-size: 11px;\n  margin-left: 0;\n}\n\n@media (max-width: 991px) {\n  .availability-show-timeline-link {\n    float: right;\n  }\n}\n\n.btn.btn-ctrl-horizontal-prev,\n.btn.btn-ctrl-horizontal-next {\n  height: 49px;\n  top: 9px;\n}\n\n.availability-show-timeline-link span {\n  text-decoration: none;\n  margin-right: 0;\n}\n\n.availability-show-timeline-link > .icon-caret,\n.availability-show-timeline-link > .icon-caret-up {\n  float: right;\n}\n\n.availability-show-timeline-link > .icon-caret {\n  width: 12px;\n  text-align: center;\n}\n\n.invoice-address-container .heading {\n  background-color: #084774;\n  width: 100%;\n  height: auto;\n  overflow: hidden;\n  margin-top: 15px;\n}\n\n.invoice-address-container .heading > .col-xs-24 {\n  padding-left: 0;\n  padding-right: 0;\n}\n\n.invoice-address-container .heading .heading-text,\n.invoice-address-container .heading .heading-icon {\n  font-size: 18px;\n  color: #fff;\n}\n\n.invoice-address-container .heading .heading-text {\n  font-weight: 700;\n  text-transform: initial;\n}\n\n.invoice-address-container .panel {\n  margin-top: 0;\n  width: 100%;\n  box-shadow: none;\n  border-left: 1px solid #dadcda;\n  border-right: 1px solid #dadcda;\n  border-bottom: 1px solid #dadcda;\n}\n\n.invoice-address-container .invoice-address {\n  padding: 1.5em 0 1em;\n}\n\n.invoice-address-container .invoice-address #invoice-address-form,\n.invoice-address-container .invoice-address #invoice-multi-address-form {\n  margin-left: -20px;\n  margin-right: -21px;\n  margin-bottom: -28px;\n  width: calc(100% + 41px);\n  padding-left: 20px;\n  padding-right: 20px;\n  padding-top: 20px;\n  background: #EAEFF7;\n}\n\n.invoice-address-container .invoice-address #invoice-address-form > hr:first-child,\n.invoice-address-container .invoice-address #invoice-multi-address-form > hr:first-child {\n  display: none;\n}\n\n.invoice-address-container .invoice-address hr {\n  border-color: #dadcda;\n}\n\n.status-message-list {\n  padding-left: 3px;\n}\n\n.status-name {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  font-weight: 900;\n}\n\n.timeline-header .icon-plane {\n  padding-left: 3px;\n  padding-top: 0;\n}\n\n.area-content.dynamic-printTimeline-width .timeline-container {\n  padding-left: 3px;\n  margin-bottom: 30px;\n}\n\narticle.panel.flight-notes-panel > .panel-body > ul > li {\n  margin-left: 0;\n}\n\n/* Start - Fare Calendar */\n.calendarmatrix-search-container .calendarmatrix-search-panel {\n  box-shadow: none;\n  background-color: #EAEFF7;\n}\n\n.body-ax-calendar-matrix #matrix-pricing-description {\n  width: 100%;\n}\n\n.calendarmatrix-modifydates-panel {\n  margin-left: -7.5px;\n  margin-right: -7.5px;\n}\n\n.calendarmatrix-modifydates-panel h2 {\n  color: #084774;\n  font-weight: 400;\n  padding-bottom: 10px;\n  border-bottom: solid 5px #084774;\n}\n\n.calendarmatrix-result-header {\n  font-weight: 400;\n  color: #084774;\n  margin-bottom: 0;\n}\n\n.calendarmatrix-search-container {\n  width: 100%;\n  margin-top: 0;\n  padding-left: 0;\n  padding-right: 0;\n  border: solid 1px #dadcda;\n  border-top-width: 0;\n}\n\n.calendarmatrix-location-container {\n  background-color: transparent;\n  width: 80%;\n  float: left;\n  padding: 20px;\n  display: inline-block;\n  height: auto;\n}\n\n.calendarmatrix-location-container .calendarmatrix-city {\n  color: #084774;\n}\n\n.calendarmatrix-search-container .icon-plane,\n.calendarmatrix-search-container .icon-plane-return {\n  margin-right: 14px;\n}\n\n.calendarmatrix-modifydates-container {\n  width: 20%;\n  float: left;\n}\n\n.calendarmatrix-modifydates-container.day-container {\n  padding-right: 20px;\n  text-align: right;\n}\n\n.calendarmatrix-boundday-container {\n  color: #084774;\n}\n\n.calendarmatrix-legend {\n  top: 0;\n  max-width: 800px;\n}\n\n#calendarmatrix-container {\n padding-top: 10px;\n}\n\n.calendar-matrix-table td {\n  padding: 0;\n}\n\n.calendarmatrix-inner-cell {\n  box-shadow: none;\n}\n\n#calendarmatrix-container .info-corner-container {\n  z-index: 100;\n  /* width: 100px; */\n  /* white-space: initial; */\n}\n\n#calendarmatrix-container .info-corner-vertical .arrow-line {\n  border-left: 0;\n}\n\n#calendarmatrix-container .calendar-info-corner {\n  display: none;\n}\n\n#calendarmatrix-container .top-row {\n  top: 0;\n}\n\n#calendarmatrix-container .selected-date-badge {\n  box-shadow: none;\n  background-color: #084774;\n}\n\n#calendarmatrix-container .selected-date-badge .badge-arrow {\n  color: #084774;\n}\n\n#calendarmatrix-container .header-date-cell-container .header-date-cell .header-date-weekday,\n#calendarmatrix-container .header-date-cell-container .header-date-cell .header-date-monthday {\n  color: #084774;\n  text-align: left;\n  display: inline-block;\n  width: 100%;\n}\n\n#calendarmatrix-container .dates-header-container .cell-shape.highlighted:before,\n#calendarmatrix-container .dates-header-container .cell-shape.hover:before {\n  background-color: #084774;\n}\n\n.formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape .header-date-weekday,\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape .header-date-weekday {\n  font-size: 12px;\n  color: #084774;\n  text-align: left;\n}\n\n#calendarmatrix-container .calendarmatrix-inner-cell.cell-shape:not(.selected):not(:hover) .fare-label .calendarmatrix-price .price-amount {\n  color: #084774;\n}\n\n.calendarmatrix-inner-cell.focused abbr,\n.calendarmatrix-inner-cell.focused span,\n.calendarmatrix-inner-cell:hover abbr,\n.calendarmatrix-inner-cell:hover span {\n  color: #fff;\n  cursor: pointer;\n}\n\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-inner-cell.cell-shape:not(.selected):not(:hover) {\n  background-image: linear-gradient(180deg, #FBFBFB, #EFF1F4);\n}\n\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-inner-cell.cell-shape.focused,\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-inner-cell.cell-shape:hover,\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-inner-cell.cell-shape.selected {\n  background-image: none;\n  background-color: #6DC5EF;\n}\n\n.calendarmatrix-inner-cell.focused:before,\n.calendarmatrix-inner-cell:hover:before,\n.calendarmatrix-inner-cell.selected:before {\n  border-color: #6DC5EF;\n  background-color: #6DC5EF;\n}\n\n.calendarmatrix-inner-cell.selected {\n  color: #fff;\n  background-color: #6DC5EF;\n}\n\n#calendarmatrix-container .dates-header-container .cell-shape {\n  background-color: #fff;\n}\n\n.calendarmatrix-inner-cell.selected .price-amount {\n  color: #fff;\n}\n\n.calendarmatrix-inner-cell.selected .icon-ok-sign {\n  color: #E31A2B;\n}\n\n#calendarmatrix-container .selected-date-badge.badge-left {\n  left: -40px;\n  width: 100px;\n  top: 40px;\n}\n\n#calendarmatrix-container #matrix-first-row {\n  width: 836px;\n  height: auto;\n}\n\n#calendarmatrix-container .info-corner-vertical .info-bound-container {\n  width: 100px;\n  white-space: initial;\n}\n\n#calendarmatrix-container .dates-header-container .cell-shape {\n  margin: 0;\n}\n\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape:first-child,\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape {\n  margin: 0;\n  width: 100px;\n  height: 100px;\n  padding: 10px;\n}\n\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape.active {\n  padding-left: 30px;\n}\n\n#calendarmatrix-container .horizontal-dates-container .header-date-cell {\n    padding-left: 15px;\n    padding-right: 15px;\n}\n\n.calendarmatrix .legend-icon-container {\n  font-size: 12px;\n}\n\n.calendarmatrix .legend-icon-container:first-child {\n  margin-right: 0;\n}\n\n.formatted-price-sm #calendarmatrix-container.matrix-xdimension-7 .horizontal-dates-container .dates-header-container-inner,\n.formatted-price-sm #calendarmatrix-container.matrix-xdimension-7 #calendar-matrix-inner {\n  margin-left: 0;\n  margin-right: 0;\n}\n\n.formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape,\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-row .calendarmatrix-fare .calendarmatrix-inner-cell.cell-shape {\n  width: 100px;\n  height: 100px;\n}\n\n#calendarmatrix-container .header-date-cell-container.active .header-date-cell .header-date-monthday {\n  width: auto;\n  float: left;\n}\n\n.formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape.header-date-cell-container {\n  padding: 10px;\n}\n\n.calendarmatrix .calendarmatrix-inner-cell .icon-lowest,\n.calendarmatrix-inner-cell.selected .calendarmatrix-price > span {\n  text-shadow: none;\n}\n\n#calendarmatrix-container .fare-label .disabled-message {\n  font-size: 13px;\n  padding: 10px;\n}\n\n.calendarmatrix-inner-cell .fare-checkbox-label-content {\n  padding: 10px;\n}\n\n#matrix-horizontal-dates .btn.matrix-btn-control {\n  top: 0;\n  bottom: 0;\n  box-shadow: none;\n  background-color: #084774;\n}\n\n#calendarmatrix-container .header-date-cell-container.active .header-date-cell .header-date-monthday {\n  border-bottom: solid 1px #084774;\n}\n\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-inner-cell.cell-shape {\n  border-top: solid 1px #dadcda;\n  border-left: solid 1px #dadcda;\n}\n\n.formatted-price-sm #calendarmatrix-container  .calendarmatrix-row td:last-child .calendarmatrix-inner-cell.cell-shape {\n  border-right: solid 1px #dadcda;\n}\n\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape:first-child,\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape {\n  border-right: solid 1px #dadcda;\n}\n\n#calendarmatrix-container .dates-header-container .cell-shape {\n  border-top: solid 1px #dadcda;\n  border-left: solid 1px #dadcda;\n}\n\n#calendarmatrix-container .calendar-side-column.top-row,\n.formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape.header-date-cell-container:last-child {\n  border-right: solid 1px #dadcda;\n}\n\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape:last-child {\n  border-left: solid 1px #dadcda;\n}\n\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-row .calendarmatrix-fare:nth-child(2) .calendarmatrix-inner-cell.cell-shape {\n  border-left: 0;\n}\n\n.formatted-price-sm #calendarmatrix-container .calendarmatrix-row:last-child .calendarmatrix-fare .calendarmatrix-inner-cell.cell-shape,\n#calendarmatrix-container .vertical-dates-container.dates-header-container .cell-shape.header-date-cell-container:last-child {\n  border-bottom: solid 1px #dadcda;\n}\n\n.formatted-price-sm #calendarmatrix-container.matrix-xdimension-7 .horizontal-dates-container .dates-header-container-inner .header-date-cell-container.cell-shape:first-child {\n  border-left: 0;\n}\n\n.formatted-price-md #calendarmatrix-container .horizontal-dates-container .cell-shape,\n.formatted-price-md #calendarmatrix-container .calendarmatrix-inner-cell.cell-shape {width: 100px;}\n\n.formatted-price-md #calendarmatrix-container.matrix-xdimension-7 .horizontal-dates-container .dates-header-container-inner,\n.formatted-price-md #calendarmatrix-container.matrix-xdimension-7 #calendar-matrix-inner,\n.formatted-price-md #calendarmatrix-container.matrix-xdimension-7 .calendar-matrix-table {\n    width: 700px;\n    display: inline-block;\n}\n\n#calendarmatrix-container .horizontal-dates-container.dates-header-container .cell-shape,\n#calendarmatrix-container .cell-shape {\n    width: 100px;\n    height: 100px;\n}\n\n#calendarmatrix-container .dates-header-container-inner,\n#calendarmatrix-container[data-dates-no=\"7\"] .calendar-matrix-table,\n#calendarmatrix-container[data-dates-no=\"7\"] #calendar-matrix-inner {\n    margin: 0;\n}\n\n\n/** Start: Miles Styling */\n.DPURCView .panel.miles-panel {\n  box-shadow: none;\n  border: solid 1px #dadcda;\n}\n\n.DPURCView .heading-text {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n}\n\n#tpl3_miles-panel h2 {\n  font-weight: 400;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  text-transform: initial;\n  font-size: 18px;\n  margin: 0;\n}\n\n#tpl3_miles-panel > .miles-panel {\n  /*padding: 20px;*/\n  /*border-color: #E31A2B;*/\n  border: solid 1px #dadcda;\n\n}\n\n.miles-panel > .panel-heading {\n  background-color: #084774;\n}\n\n.miles-panel > .panel-heading h2 {\n  color: #fff;\n  margin-top: 0;\n  margin-bottom: 0;\n  font-size: 18px;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n  font-weight: bold;\n}\n\n.slider-discrete-selection {\n  background-color: #084774;\n}\n\n.slider-discrete-highlight-before {\n  background-color: #056ccf;\n}\n/** End: Miles Styling */\n\nhtml[lang='zh'] .formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape.header-date-cell-container.active {\n  padding-top: 25px;\n  padding-bottom: 8px;\n}\n\nhtml[lang='vi'] .formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape.header-date-cell-container.active,\nhtml[lang='ko'] .formatted-price-sm #calendarmatrix-container .horizontal-dates-container .cell-shape.header-date-cell-container.active {\n  padding-top: 20px;\n  padding-bottom: 10px;\n}\n\nhtml[lang='vi'] #calendarmatrix-container .header-date-cell-container .header-date-cell .header-date-daynumber,\nhtml[lang='vi'] #calendarmatrix-container .header-date-cell-container .header-date-cell .header-date-month {\n  display: inline-block;\n}\n\nhtml[lang='vi'] #calendarmatrix-container .header-date-cell-container .header-date-cell .header-date-month {\n  font-size: 13px;\n}\n\nhtml[lang='ko'] #calendarmatrix-container .header-date-cell-container .header-date-cell .header-date-month {\n  display: none; /* hide month value since korean date includes both in a single line already*/\n}\n\n[id*=\"tpl6_fligth\"] {\n  margin-top: 5px;\n}\n\n\n/* End - Fare Calendar */\n\n.AMOP .AMOP-logo {\n    max-width: 125px;\n}\n\n\n/* Dialog styling */\n#dialog-header-modalMessage {\n  background-color: #084774;\n  color: #fff;\n  padding: 12px 20px;\n}\n\n#dialog-header-modalMessage h2 {\n  font-size: 20px;\n}\n\n#dialog-content-modalMessage {\n  padding: 20px;\n  margin-bottom: 0;\n  min-height: 400px;\n}\n\n#dialog-content-modalMessage #modalMessageContent,\n#dialog-content-modalMessage #modalMessageContent > span,\n#dialog-content-modalMessage #modalMessageContent > span > div,\n#dialog-content-modalMessage #modalMessageContent .modal-message-body,\n#dialog-content-modalMessage #modalMessageContent .modal-footer-buttons {\n  display: block;\n  float: left;\n  width: 100%;\n  background-color: #f8f8f8;\n}\n\n#dialog-content-modalMessage .modal-seats-information {\n  margin-top: 0;\n  padding: 20px;\n  border: solid 1px #dadcda;\n}\n\n#dialog-content-modalMessage .modal-seats-information .question-message-singular {\n  font-weight: bold;\n}\n\n#dialog-content-modalMessage #modalMessageContent .modal-footer-buttons {\n  border-top: 0;\n  margin-top: 10px;\n  margin-bottom: 10px;\n}\n\n#dialog-content-modalMessage #modalMessageContent .modal-footer-buttons .btn {\n  box-shadow: none;\n  border-radius: 25px;\n  padding: 12px 15px;\n  margin-left: 10px;\n}\n\n#dialog-content-modalMessage #modalMessageContent .modal-footer-buttons .btn-primary {\n}\n\n#dialog-content-modalMessage #modalMessageContent .modal-footer-buttons .btn-secondary {\n  color: #084774;\n  border: solid 1px #084774;\n}\n\n/* Confirmation page print styling */\n\n\n.loading.loading-component{\n  height: 100%;\n  width: 100%;\n  position: fixed;\n}\n\n.loading-content.loading-content-component {\n  position: fixed;\n}\n\n.loading-content {\n  position: fixed;\n  z-index: 9010;\n  top: 50%;\n  left:50%;\n  margin:auto;\n  text-align: center;\n}\n\n/* timetable search */\n.timetable-search-result-panel {\n  box-shadow: none;\n  border: solid 1px #dadcda;\n  margin-left: 10px;\n  margin-right: 10px;\n  width: calc(100% - 30px);\n}\n\n.timetable-search-title {\n  padding-left: 0;\n  margin-left: 10px;\n  margin-right: 10px;\n  width: calc(100% - 30px);\n  color: #084774;\n  text-transform: capitalize;\n}\n\n.timetable-goto-result-link {\n  margin-top: 10px;\n}\n\n.timetable-message-icon .icon-remove-text,\n.timetable-message-icon .icon-ok-text {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  display: inline-block;\n}\n\n.timetable-message-icon i {\n  float: none;\n  margin-right: 5px;\n}\n\n.timetable-carousel-control {\n  box-shadow: none;\n  border-style: solid;\n  border-width: 1px;\n}\n\n.timetable-search-from-location-name,\n.timetable-search-to-location-name {\n    display: table-cell;\n    text-transform: uppercase;\n    padding-right: 1em;\n}\n\n.timetable-search-from-location-terminal,\n.timetable-search-to-location-terminal {\n    display: table-cell;\n    padding-right: 1em;\n}\n\n.timetable-search-from-location-code,\n.timetable-search-to-location-code {\n    color: #616161;\n    display: table-cell;\n}\n\n.timetable-date-section-region {\n  margin-top: 37px;\n}\n\n.timetable-bound-label-text {\n    margin-top: 0;\n    margin-bottom: 10px;\n    font-weight: 600;\n    color: #084774;\n}\n\n.timeTable-previous-carousel-button {\n    float: left;\n    margin-bottom: -82px;\n    margin-left: -31px;\n}\n\n.timeTable-next-carousel-button {\n    float: right;\n    margin-right: -2.1em;\n    margin-top: -43px;\n}\n\n.timetable-carousel-control {\n  height: 82px;\n  background-color: #084774;\n  border: solid 1px #084774;\n  color: #fff;\n}\n\n.timetable-carousel-control:hover,\n.timetable-carousel-control:active,\n.timetable-carousel-control:focus {\n  background-color: #0b63a2;\n  color: #fff;\n}\n\n.timetable-flight-details {\n  padding: 15px 7.5px;\n  border-top: 0;\n  border-left: solid 1px #dadcda;\n}\n\n.timetable-operational-grid,\n.timetable-operational-grid-req {\n  display: table-cell;\n  text-align: center;\n  vertical-align: middle;\n  border: 1px solid #dadcda;\n  border-top: 0;\n  border-bottom: 0;\n}\n\n.timetable-operational-grid {\n  background-color: #FBFBFB;\n  background-image: linear-gradient(180deg, #FBFBFB 0%, #EFF1F4 100%);\n}\n\n.timetable-next-prev-date-changebar {\n  padding-left: 0px;\n  padding-right: 0px;\n  margin-left: -0.5em;\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;\n}\n\n.timetable-bound-monthrange,\n.timetable-outbound-daterange {\n  margin-left: -1.5px;\n  margin-right: 0;\n  padding-left: 0;\n  padding-right: 0;\n  right: -8.5px;\n  width: calc(100% + 7.5px);\n}\n\n.timetable-bound-monthrange {\n  background-color: #fff;\n  border-top: solid 1px #dadcda;\n  color: #333;\n  font-weight: 600;\n}\n\n.timetable-outboundcell-day-notselected {\n    display: table-cell;\n    background-color: #FFFFFF;\n    text-align: center;\n    border: 1px solid #dadcda;\n    border-bottom: 0;\n    border-right: 0;\n    padding-bottom: 0.6em;\n    padding-top: 0.6em;\n}\n\n.timetable-outboundcell-day-selected {\n    display: table-cell;\n    text-align: center;\n    background-color: #EAEFF7;\n    border-left: 1px solid #dadcda;\n    border-top: 1px solid #dadcda;\n    padding-bottom: 0.7em;\n    padding-top: 0.6em;\n}\n\n.timetable-operational-grid-req {\n    background-color: #EAEFF7;\n}\n\n.timetable-bound-currentmonth {\n  display: table-cell;\n  border-left: 1px solid #dadcda;\n  border-right: 0;\n  vertical-align: middle;\n  text-align: center;\n  height: 3em;\n  padding-top: 13px;\n  padding-bottom: 13px;\n  line-height: 1;\n}\n\n.timetable-bound-nextmonth {\n    display: table-cell;\n    border-left: 0;\n    border-right: 1px solid #dadcda;\n    vertical-align: middle;\n    text-align: center;\n    padding-top: 13px;\n    height: 3em;\n    border-left: 1px solid #dadcda;\n    padding-bottom: 13px;\n    line-height: 1;\n}\n\n.timetable-ok-icon,\n.timetable-remove-icon {\n  font-size: 1.3em;\n}\n\n.timetable-ok-icon {\n  color: #3E810C;\n}\n\n.timetable-remove-icon {\n  color: #ED1C24;\n}\n\n.timetable-table-structure .bound-table-flightline-header {\n  padding-left: 0;\n}\n\n.timetable-table-structure .bound-table-flightline-header:last-child {\n  border-bottom: solid 1px #dadcda;\n}\n\n.timetable-flight-details-location time {\n  font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif !important;\n  font-weight: 900;\n}\n\n.timetable-flight-details-name {\n  margin-left: 0;\n}\n\n.timetable-flight-details-location {}\n.timetable-flight-details-name .airportname.airportname-from,\n.timetable-flight-details-name .citycode-from.locationCityCode {\n  float: none;\n  display: table-cell;\n}\n\n/* timetable search */\n\n@media print {\n  body {\n    font-size: 11px;\n  }\n  body[data-template-name=\"CONF\"] #main-layout-header tr td:nth-child(3) {\n    display: none;\n  }\n  #CONF-page {\n    padding-top: 15px;\n    margin-top: 0;\n  }\n\n  .CSS0 .page-template-section {\n    margin-right: 0;\n    margin-left: 0;\n  }\n\n  .pnrd-view .confirm-banner {\n    padding-left: 0;\n    padding-right: 0;\n    font-size: 18px;\n  }\n\n  .pricedetails .price-right {\n    padding-right: 10px;\n  }\n\n  .pricedetails .price-taxes {\n    display: inline-block;\n    width: 100%;\n  }\n\n  .pricedetails .price-taxes-text,\n  .pricedetails .price-amount {\n    display: inline-block;\n  }\n\n  .pricedetails .price-amount {\n    float: right;\n  }\n\n  .pricedetails .price-left .price-summary .total .text {\n    font-size: 12px;\n  }\n\n  .price-taxes-details-row.price-taxes-total-traveller span {\n    vertical-align: middle;\n    display: inline-block;\n  }\n\n  .pricedetails .price-left .price-summary {\n    padding: 7.5px 7.5px 5px;\n  }\n\n  .pricedetails .price-mini-breakdown {\n    margin-top: 5px;\n    border-bottom: solid 1px #dadcda;\n    border-top: none;\n    padding: 5px 7.5px 15px;\n  }\n\n  .pnrd-view section.reservation-info-wrapper,\n  .pnrd-view .fare-review {\n    margin-top: 0;\n  }\n\n  .reservation-info .additional-info,\n  .reservation-info .mod-info dl {\n    margin-bottom: 0;\n  }\n\n  article.panel.flight-notes-panel > .panel-heading,\n  article.panel.fare-notes-panel > .panel-heading,\n  .servicesbreakdown.panel > .panel-heading,\n  #before-departure .heading.uppercase {\n    padding-left: 7.5px;\n    padding-right: 7.5px;\n    padding-top: 7px;\n    padding-bottom: 7px;\n  }\n\n  #before-departure .heading.uppercase h2.bold {\n    padding: 0;\n  }\n\n  .pnrd-view .confirm-banner .recloc {\n    font-weight: bold;\n  }\n\n  /* Printing page break */\n  #flights-timeline,\n  #services-breakdown,\n  #flight-notes,\n  #before-departure,\n  .bounddetails .bounds-list:not(:first-child) {\n    display: block;\n    position: relative;\n    page-break-after: always;\n    page-break-inside: avoid;\n  }\n\n  .servicesbreakdown .panel-heading {\n    border-color: transparent;\n  }\n\n  .pricedetails .panel-heading,\n  .farereview-bounds .panel-heading,\n  .travellerdetails .panel-heading,\n  .flight-timeline-panel-header {\n    border-color: transparent;\n  }\n\n  .pnrd-view .flight-timeline-status-panel .panel {\n    border: solid 1px #dadcda;\n  }\n\n  .pricedetails .panel-body,\n  .bounddetails .bounds-list,\n  .travellerdetails .panel-body {\n    border-top-color: #dadcda;\n  }\n\n  .servicesbreakdown-panel-body h3,\n  .timeline-locationcode abbr,\n  .servicesbreakdown-seat-value {\n    font-size: 16px;\n  }\n\n  .timeline-time,\n  .bounddetails .time,\n  .bounddetails .segment-details-city,\n  .farereview-bounds .bounddetails .itinerary,\n  .farereview-bounds .bounddetails time.date {\n    font-size: 12px;\n  }\n\n  .segment-details.segment-details-row > .segment-details-left > .segment-details-departure > .row > .col-xs-24:first-child,\n  .segment-details.segment-details-row > .segment-details-left > .segment-details-arrival > .row > .col-xs-24:first-child {\n    padding-left: 15px;\n    width: auto;\n    display: inline-block;\n  }\n\n  .segment-details.row .segment-details-left > [class*='segment-details-'] .col-xs-24:not(:first-child) {\n    padding-left: 15px;\n  }\n\n  .bounddetails .segment-details-location, .bounddetails .segment-details-location-code,\n  .bounddetails .segment-details-terminal  {\n    padding-left: 0;\n    display: inline-block;\n    width: auto;\n  }\n\n  .bound-row-info > .itinerary-details {\n    margin-left: 0;\n    margin-right: 0;\n  }\n\n  #fare-review #farereview-container .segment-details.segment-details-row {\n    margin-left: 0;\n    margin-right: 0;\n  }\n\n  .bounddetails .flight-info-left,\n  .bounddetails .flight-info-right,\n  .bounddetails .total-duration-value,\n  .bounddetails .stop-number,\n  .bound-fare-text .ff-label,\n  .bound-fare-text .ff-name {\n    font-size: 11px;\n  }\n\n  .segment-details.row .segment-details-left {\n    width: calc(45% - 5px);\n    margin-left: 5px;\n  }\n\n  .segment-details.row .segment-details-right {\n    width: 55%;\n    padding-left: 15px;\n    padding-right: 0;\n  }\n\n  .segment-details.row .segment-details-right > .row {\n    margin-left: 0;\n    margin-right: 0;\n  }\n\n  #fare-review #farereview-container .segment-details.segment-details-row .timeline-segment-end-mark {\n    left: -4px;\n  }\n\n  #fare-review #farereview-container .segment-details.segment-details-row .segment-details-left .timeline-segment-end-mark {\n    display: block !important;\n  }\n\n  #fare-review #farereview-container .segment-details.segment-details-row .segment-details-right .timeline-segment-end-mark {\n    display: none !important;\n  }\n\n  .segment-details.row .segment-details-right {\n    border-left: 0;\n  }\n\n  .bounddetails .bounds-list > .row {\n    margin-left: 0;\n    margin-right: 0;\n  }\n\n  .bounddetails .bounds-list {\n    padding: 10px 7.5px;\n  }\n\n  .bounddetails .bounds-list .bound-row-title > .col-xs-24 {\n    padding-left: 0;\n    padding-right: 0;\n  }\n\n  .bounddetails .bound-row-info {\n    margin-top: 5px;\n    padding-top: 5px;\n    padding-bottom: 0;\n    padding-left: 4px;\n    padding-right: 4px;\n    margin-bottom: 0;\n  }\n\n  .bound-row-info .itinerary-details > div {\n    padding-left: 0;\n    padding-right: 0;\n  }\n\n  .bounddetails .total-duration-text, .bound-fare-text .ff-label {\n    font-size: 11px;\n    margin-right: 3px;\n  }\n\n\n  #farereview-container .panel h3 {\n    margin-bottom: 0;\n    line-height: 1;\n    font-size: 14px;\n  }\n\n  #farereview-container h3 .subtitle,\n  #farereview-container h3.subtitle.price-taxes,\n  #farereview-container h3.subtitle.price-total {\n    font-size: 12px;\n    line-height: 1;\n    margin-bottom: 7px;\n  }\n\n\n  .farereview-bounds .bounddetails .itinerary, .farereview-bounds .bounddetails time.date {\n    line-height: 24px;\n  }\n\n  .farereview-bounds .segment-details.row {\n    margin-top: 5px;\n  }\n\n  .ff-short-desc-unvisible {\n    display: none;\n  }\n\n  .travellerdetails .traveller-type {\n    font-size: 11px;\n  }\n\n  .travellerdetails .traveller-name {\n    font-size: 14px;\n  }\n\n  .servicesbreakdown-header-icon {\n    margin-right: 5px;\n  }\n\n  .flight-timeline-panel-header h2,\n  #before-departure .heading.uppercase h2,\n  h2.travreview-review-banner {\n    padding: 0;\n  }\n\n  .flight-timeline-panel-header {\n    padding: 5px 7.5px !important;\n  }\n\n  h2.travreview-review-banner,\n  .bounddetails .horizontal-title,\n  .pricedetails .horizontal-title,\n  .travellerdetails .horizontal-title,\n  .travellerdetails .panel-heading,\n  .flight-timeline-panel-header h2,\n  #before-departure .heading.uppercase h2,\n  .servicesbreakdown.panel h2,\n  .minirules-header h2,\n  .purchase-conditions-popup h2,\n  article.panel.flight-notes-panel > .panel-heading > .panel-title,\n  article.panel.fare-notes-panel > .panel-heading > .panel-title,\n  .servicesbreakdown-segment-category-elem,\n  #CONF-page .insurance .heading-banner,\n  .insurance .heading-banner > span.heading-text,\n  .services-policy .services-policy-heading h2 {\n    font-size: 13px;\n    font-weight: 600;\n    line-height: 1.42857143;\n  }\n\n  article.panel.flight-notes-panel > .panel-heading,\n  article.panel.fare-notes-panel > .panel-heading {\n    border-bottom: solid 1px #dadcda;\n  }\n\n  article.panel.fare-notes-panel .fare-note-section h4 {\n    font-size: 12px;\n  }\n\n  article.panel.fare-notes-panel .fare-note-section h4 + div {\n    font-size: 10px;\n  }\n\n\n  .area-content.dynamic-printTimeline-width,\n  #CONF-page-content .servicesbreakdown-panel-body.panel-body {\n    border-right-width: 0;\n    border-bottom-width: 0;\n    border-left-width: 0;\n  }\n\n  #CONF-page-content .servicesbreakdown-title-no-services.servicesbreakdown-no-services {\n    padding: 0;\n  }\n\n  #before-departure .heading.uppercase {\n    border: solid 1px #dadcda;\n    border-bottom-width: 0;\n    padding: 7px 7.5px !important;\n  }\n\n  .farereview-bounds .bounddetails .itinerary {\n    padding-left: 0;\n  }\n\n  .farereview-bounds .bounddetails .itinerary + br {\n    display: none;\n  }\n\n  .farereview-bounds .bounddetails .itinerary + br + .date {\n    float: none;\n  }\n\n  .farereview-bounds .bounddetails .itinerary .icon-plane,\n  .farereview-bounds .bounddetails .itinerary .icon-plane-return {\n    padding: 0;\n    font-size: 14px !important;\n    width: 21px;\n    display: inline-block;\n    height: 21px;\n    line-height: 21px;\n    text-align: center;\n  }\n\n  .farereview-bounds .bounddetails .itinerary .icon-plane:before {\n    float: none !important;\n    margin: 0;\n  }\n\n  .reservation-info .reservation-table li span {\n    font-size: 12px;\n  }\n\n  .pnrd-view .reservation-info .area {\n    display: inline-block;\n    padding-bottom: 0;\n  }\n\n  .pnrd-view .reservation-info .area [class*='col-'] {\n    padding: 0;\n  }\n\n  .services-policy .panel {\n    border-top: solid 1px #dadcda;\n  }\n\n  .services-policy .services-policy-heading {\n    padding: 7px 7.5px;\n  }\n\n  .services-policy .services-policy-heading h2 {\n    margin: 0;\n  }\n\n  .services-policy .dangerous-goods-section {\n    padding: 10px 7.5px;\n  }\n\n  .services-policy .dangerous-goods-section h3 {\n    font-size: 12px;\n    margin-top: 0;\n  }\n\n  .services-policy .dangerous-goods-section p {\n    font-size: 11px;\n  }\n\n  .services-policy .dg-pic-div {\n    width: 5em;\n    height: 8em;\n    font-size: 9px;\n  }\n\n  section.panel.legal-notice .heading-text.uppercase {\n    font-size: 12px;\n    margin-top: 0;\n    margin-bottom: 5px;\n  }\n\n  section.panel.legal-notice .area-content {\n    font-size: 11px;\n  }\n\n\n  .segment-details-left .timeline-segment-start-mark,\n  .segment-details-left .timeline-segment-end-mark {\n    border-color: #bcbcbc;\n    background-color: #bcbcbc !important;\n  }\n\n  .timeline-header > .timeline-header-destinations,\n  .timeline-header > .timeline-header-destinations + span {\n    font-size: 14px;\n  }\n\n  .timeline-header {\n    margin-top: 10px;\n  }\n\n  .timeline-header .icon-plane {\n    font-size: 14px !important;\n  }\n\n  .timeline-flight-duration .timeline-flight-duration-textdate {\n    background-color: #fff !important;\n  }\n\n  .area-content.dynamic-printTimeline-width .timeline-container {\n    margin-bottom: 0;\n  }\n\n  .insurance .insurance-banner {\n    display: none;\n  }\n\n  #CONF-page .insurance .heading-banner span,\n  .insurance .heading-banner > span.heading-text {\n    font-weight: 600;\n  }\n\n  .insurance .insurance-select .panel {\n    margin: 0;\n  }\n\n  .pricedetails .price-right-separator {\n    display: none;\n  }\n\n  .travellerdetails .panel-body {\n    padding: 0;\n  }\n\n  .travellerdetails .panel-body > .traveller-section {\n    margin-left: 0;\n    margin-right: 0;\n  }\n\n  .travellerdetails .panel-footer {\n    display: none;\n  }\n\n  .travellerdetails .traveller-list {\n    padding: 10px 7.5px 0;\n  }\n\n  .travellerdetails .traveller-list .traveller-list-item {\n    padding-bottom: 10px;\n  }\n\n  .fare-note-section:last-child {\n    margin-bottom: 0;\n  }\n\n  .panel-body {\n    padding: 10px 7.5px;\n  }\n\n  #flight-timeline-panel .panel-body {\n    padding: 10px 7.5px;\n  }\n\n  .pricedetails .price-right,\n  .pricedetails .panel-heading,\n  .farereview-bounds .panel-heading,\n  .travellerdetails .panel-heading,\n  .servicesbreakdown .panel-heading,\n  .minirules-header,\n  .purchase-conditions-popup .conditions-header {\n    padding-left: 7.5px !important;\n    padding-right: 7.5px !important;\n    padding-top: 5px !important;\n    padding-bottom: 5px !important;\n  }\n\n  .price-amount.price-taxes-amount .price-currency,\n  .price-mini-breakdown-amount .price-currency,\n  .pricedetails .price-currency,\n  .price-taxes-details-row.price-taxes-subtotal .price-taxes-details-amount abbr,\n  .price-taxes-details-row.price-taxes-total-traveller .price-taxes-details-amount abbr,\n  .price-amount.price-taxes-details-amount abbr {\n    font-size: 7px;\n  }\n\n  .pricedetails .price-right .price-taxes .price-taxes-text,\n  .price-taxes-details-row.price-taxes-subtotal span,\n  .price-taxes-details-row.price-taxes-total-traveller span,\n  .pricedetails .price-mini-breakdown-text,\n  .pricedetails .pricebreakdown-total-text,\n  .pricedetails .price-taxes-details-text,\n  .pricedetails .price-taxes-details-amount,\n  .pricedetails .price-value,\n  .pricedetails .price-amount,\n  .price-amount.price-taxes-amount .price-details-taxes-amount-value {\n    font-size: 11px;\n  }\n\n  #CONF-page-content .servicesbreakdown-title-no-services.servicesbreakdown-no-services {\n    /*font-size: 14px;*/\n  }\n\n  .servicesbreakdown-panel-body.panel-body {\n    padding: 10px 7.5px;\n  }\n\n  #CONF-page .insurance .heading-banner {\n    border-bottom: solid 1px #dadcda;\n    padding: 7px 7.5px;\n  }\n\n  .insurance .insurance-banner + div[class*='col-'] {\n    width: 100%;\n    padding-left: 7.5px;\n    padding-right: 7.5px;\n    padding-top: 10px;\n    padding-bottom: 10px;\n  }\n\n  .insurance .insurance-banner + div[class*='col-'] p:last-child {\n    margin-bottom: 0;\n  }\n}\n/* END OF FILE",
+			"settings":
+			{
+				"buffer_size": 88697,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 208.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"autpo",
+				"Autoprefix CSS"
+			],
+			[
+				"autp",
+				"Autoprefix CSS"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"autorp",
+				"Autoprefix CSS"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"shw",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"show",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"all e",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"all error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"all err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linterall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"togglelinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacak",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/Desktop/MAB Amadeus",
+		"/Users/dgan/Desktop/MAB Amadeus/dx-css",
+		"/Users/dgan/Desktop/MAB Amadeus/merci-css"
+	],
+	"file_history":
+	[
+		"/Users/dgan/Desktop/MAB Amadeus/DXShooterScript.js",
+		"/Users/dgan/Desktop/ng_custom_merci.css",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/dgan/Desktop/MAB Amadeus/merci-css/.csslintrc",
+		"/Users/dgan/Desktop/MAB Amadeus/dx-css/.csslintrc",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/dgan/Desktop/MAB Amadeus/.csslintrc",
+		"/Users/dgan/Desktop/MAB Amadeus/merci-css/merci-booking.css",
+		"/Users/dgan/Desktop/MAB Amadeus/amadeus-booking.css",
+		"/Users/dgan/Desktop/MAB Amadeus/merci-booking.css",
+		"/Users/dgan/Desktop/MAB Amadeus/amadeus-booking-dx.css",
+		"/Users/dgan/Desktop/MAB Amadeus/amadeus-booking-v2.css",
+		"/Users/dgan/Desktop/MAB Amadeus/amadeus-booking-backup-200417.css",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			"<project>, amadeus-booking.css",
+			"<project>, *.pug"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20px",
+			"rsdai-page",
+			"font-family",
+			"input-group-addon",
+			"justify-content",
+			"flex",
+			"strong",
+			"more-action",
+			"itinreview-highlight",
+			"overflow",
+			"center",
+			"itinreview-bound",
+			",",
+			"bounddeta",
+			"ticket-deliv",
+			"ticket-d",
+			".ticket-delivery",
+			".servicesbreakdown",
+			".servicesbreakdown-bound-header-from-to",
+			".seatInfoPopup",
+			">span",
+			"availability-bound-title",
+			"availability-bound-titlwe",
+			"availability-bound-title bound-title-0",
+			".cell-reco-details",
+			".availability-bound-title.bound-title-0",
+			"uppercase",
+			".availability-bound-title",
+			".availability-bound-title.bound-title",
+			".seatInfoPopup",
+			"itin",
+			"initreview",
+			"traveller-details",
+			"traveller-contact",
+			"traveller-contact-email",
+			"@media (min-width: 7",
+			"@media (min-width: ",
+			"@media (min-width: 76",
+			"(min-width: 768",
+			"\n}",
+			"button.btn",
+			"plnext-",
+			"button.btn.plnext-widget-btn.btn-primary.small-primary",
+			".confirmation .card.trip-summary .summary-body .reservation-number",
+			"pnrd",
+			"bounddetails",
+			"flifo-title",
+			"tertiary",
+			"\n}",
+			"005",
+			";\n",
+			"atc-",
+			"atc",
+			"40px",
+			"pricedetails",
+			"bounds-panel",
+			"insurance",
+			"timeline-header",
+			"font-weight: 600",
+			"bounddetails",
+			"font-family",
+			"itinreview-",
+			"italic",
+			"400",
+			";\n",
+			"travreview",
+			".itinreview-banner span",
+			"background-color: #08477",
+			".heading",
+			"banner",
+			".servicesbreakdown-footer",
+			".travreview-modify ",
+			".icon",
+			"i.icon",
+			"farereview-bounds",
+			"icon-plane",
+			"icon",
+			".document-type",
+			"travrev",
+			"not-allowed",
+			"fare-not",
+			"fare-",
+			"fa-usd",
+			"fare--top-up",
+			"loading-image",
+			"margin-top: -7px",
+			"uicCharacteristicOW",
+			"separator",
+			".insurance .insurance-banner + ",
+			".timetable-next-prev-date-changebar",
+			"14",
+			"-page",
+			"css0",
+			"next",
+			"ticL",
+			"credit",
+			"15",
+			"insurance-select",
+			"background-position-x: 50%;",
+			" 0px",
+			".booking-flow .container h5",
+			".dropdownseatmap.seatTeaser h5 ",
+			".dropdownseatmap.seatTeaser h5",
+			".loading",
+			".formatted-price-md #calendarmatrix-container.matrix-xdimension-7 .horizontal-dates-container .dates-header-container-inner, .formatted-price-md #calendarmatrix-container.matrix-xdimension-7 #calendar-matrix-inner, .formatted-price-md #calendarmatrix-container.matrix-xdimension-7 .calendar-matrix-table",
+			"width: 700px",
+			"width: 90px;",
+			".DPURCView .heading-text",
+			"pricedetails .horizontal-title",
+			".bounddetails",
+			".bounddetails .bounds-list",
+			"insurance",
+			".travellerdetails",
+			".flight-timeline-panel-header h2",
+			".farereview-bounds",
+			".travellerdetails",
+			".travellerdetails .travellers",
+			"services-policy",
+			"services-polict",
+			"fare-notes",
+			".insurance .insurance-banner + div[class*='col-']",
+			".timeline",
+			"10px 7.5px",
+			"servicesbrea",
+			".pricedetails ",
+			"segment",
+			"tripsummary-btn",
+			".DPURCVie"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"background-position: center;",
+			" 0",
+			" 0 ",
+			" 0;",
+			"#dadcda",
+			"#",
+			"#fare-review",
+			"#CONF",
+			"#reservation-menu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/merci-css/merci-booking.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										278,
+										279
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										260,
+										261
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/merci-css/ng_custom_merci.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 45080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/amadeus-booking-v3.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 237162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235491,
+								235491
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										237151,
+										237152
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/amadeus-booking-prod.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249581,
+								249581
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										250283,
+										250284
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 209668.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/amadeus-booking.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249260,
+								249260
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										250497,
+										250498
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 209572.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/dx-css/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/xCsstpl.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37469,
+								37469
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										37502,
+										37503
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										37468,
+										37469
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 41629.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/bootstrap-custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3379,
+								3379
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3378,
+										3379
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3055,
+										3056
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3042.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/xCsswgt.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2701,
+								2712
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2770,
+										2771
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2662,
+										2663
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/DXShooterScript-NoFlightsAvailable.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"git_gutter_is_enabled": false,
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/DXShooterScript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1673
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 91.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/dgan/Desktop/MAB Amadeus/DXShooterScript-Amsterdam.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1010,
+								1010
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8565,
+								8565
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"default_dir": "/Users/dgan/Desktop/MAB Amadeus",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9277.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										78,
+										79
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2,
+										3
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"default_dir": "/Users/dgan/Desktop/MAB Amadeus",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88589,
+								88697
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"default_dir": "/Users/dgan/Desktop/MAB Amadeus",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 72965.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.63660478582,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.637655417407,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 128.0
+	},
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MAB Amadeus (CSS Fixes).sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dxshooter",
+				"DXShooterScript.js"
+			],
+			[
+				"inde",
+				"dx-css/index.html"
+			],
+			[
+				"ama",
+				"dx-css/amadeus-booking.css"
+			],
+			[
+				"merci",
+				"merci-css/merci-booking.css"
+			],
+			[
+				"ng_",
+				"merci-css/ng_custom_merci.css"
+			],
+			[
+				"",
+				"merci-booking.css"
+			],
+			[
+				"am",
+				"amadeus-booking.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,2751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"late-login",
+				"late-login-footer\t(login.html)"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"error",
+				"error_msg"
+			],
+			[
+				"label",
+				"label__img"
+			],
+			[
+				"enCard",
+				"enCardAccordion"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"Chec",
+				"Check-in"
+			],
+			[
+				"initia",
+				"initialize\t(multiple-booking.js)"
+			],
+			[
+				"jquery",
+				"jqueryheadroom"
+			],
+			[
+				"jQuery",
+				"jQuery.headroom.min.js\t(copy.coffee)"
+			],
+			[
+				"haedroom",
+				"headroom--top\t(c002.ts)"
+			],
+			[
+				"get",
+				"getofficecode"
+			],
+			[
+				"$mcityTo",
+				"$mcityToSelectize"
+			],
+			[
+				"bookingform",
+				"bookingformcontent"
+			],
+			[
+				"only",
+				"on-the-fly\t(multiple-booking.js)"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"$boo",
+				"$bookingIbeHeight"
+			],
+			[
+				"scrollTo",
+				"scrollTop"
+			],
+			[
+				"$bookingNav",
+				"$bookingNavLinks"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"country-select",
+				"country-selector--container--mobile"
+			],
+			[
+				"input-f",
+				"input-focused\t(c005-groupbookingform.ts)"
+			],
+			[
+				"GOth",
+				"Gotham-Book"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"defaut",
+				"defaultCountry"
+			],
+			[
+				"languge",
+				"languages"
+			],
+			[
+				"currC",
+				"currCountryFlag"
+			],
+			[
+				"default",
+				"defaultCountry"
+			],
+			[
+				"deaf",
+				"defaultCountry"
+			],
+			[
+				"langauges",
+				"languages"
+			],
+			[
+				"fouc",
+				"focus\t(bookingform.ts)"
+			],
+			[
+				"count",
+				"countriesIndex"
+			],
+			[
+				"initCoun",
+				"initCountrySelectorMobile"
+			],
+			[
+				"forma",
+				"formaData"
+			],
+			[
+				"activeC",
+				"activeCellPosition"
+			],
+			[
+				"aria-l",
+				"aria-label"
+			],
+			[
+				"addFlgih",
+				"addFlightRemoveLabel"
+			],
+			[
+				"addFli",
+				"addFlightFlightLabel"
+			],
+			[
+				"arial",
+				"aria-labelledby"
+			],
+			[
+				"Mulit",
+				"Multicity"
+			],
+			[
+				"Multi",
+				"Multicity"
+			],
+			[
+				"aria-labl",
+				"aria-labelledby\t(mobile-book--flight.pug)"
+			],
+			[
+				"aria-label",
+				"aria-labelledby"
+			],
+			[
+				"aria-lab",
+				"aria-labelledby"
+			],
+			[
+				"brea",
+				"break-all"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"folde",
+				"folder_exclude_patterns\t(Preferences.sublime-settings)"
+			],
+			[
+				"highl",
+				"highlight_line\t(Preferences.sublime-settings)"
+			],
+			[
+				"font_",
+				"font_face\t(Preferences.sublime-settings)"
+			],
+			[
+				"alwa",
+				"always_show_minimap_viewport\t(Preferences.sublime-settings)"
+			],
+			[
+				"bold",
+				"bold_folder_labels\t(Preferences.sublime-settings)"
+			],
+			[
+				"cat",
+				"caret_style\t(Preferences.sublime-settings)"
+			],
+			[
+				"fase",
+				"false"
+			],
+			[
+				"line",
+				"line_padding_bottom\t(Preferences.sublime-settings)"
+			],
+			[
+				"line_",
+				"line_padding_top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/html/templates/login.pug",
+			"settings":
+			{
+				"buffer_size": 539,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/gulp/tasks/default.coffee",
+			"settings":
+			{
+				"buffer_size": 567,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/mab-bootstrap.scss",
+			"settings":
+			{
+				"buffer_size": 3309,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/html/components/late-login.pug",
+			"settings":
+			{
+				"buffer_size": 1673,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/html/layouts/default.pug",
+			"settings":
+			{
+				"buffer_size": 1554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/ts/lateLogin.ts",
+			"settings":
+			{
+				"buffer_size": 4189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/module/_18_latelogin.scss",
+			"settings":
+			{
+				"buffer_size": 4961,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/module/_05_bookingform.scss",
+			"settings":
+			{
+				"buffer_size": 12940,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 3003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/dist/js/lateLogin.js",
+			"settings":
+			{
+				"buffer_size": 4495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/dist/login.html",
+			"settings":
+			{
+				"buffer_size": 10110,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 2146,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"togglelint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacak",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/workspace/MAB/USA-MAB-Update",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/assets",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/assets/ts",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/dist",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/dist/css",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/dist/js",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/html",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/html/components",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/html/layouts",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/html/templates"
+	],
+	"file_history":
+	[
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/module/_17_latelogin.scss",
+		"/Users/dgan/workspace/MAB/USA-MAB-Update/html/components/login.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/pug.coffee",
+		"/Users/dgan/workspace/MAB/Malaysia-Airlines-Berhad-RMD/html/etc/designs/mas/js/multiple-booking.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/layouts/home.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/layouts/default.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c002.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/main.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c056-tab-card.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c056--card-content.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/mab-bootstrap.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dts/declaration.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/index.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/typings/index.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/typings/globals/jquery-headroom/index.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/typings/globals/headroom/index.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dts/jq-headroom.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C002.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/ts.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-bookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C005.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c002.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c005.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/header.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c005-mobile.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/sass.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c002-mobile--menu.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/accessibility.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/copy.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-mobileBookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-checkin.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-viewbooking.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-flightstatus.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-multitrip--container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c001.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/slideout/dist/slideoutV2.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C001.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/bower.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/package.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c003.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c003.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/partials/_forms.scss",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/contact-us.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/customer-service-plan.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/deals.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/destinations.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/experience.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C009.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/group-booking.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/legal.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/privacy-policy.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/terms-conditions.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/travel-information.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_15_footerContainer.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_mixins.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C017.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/browser-sync.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_variables.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_z-index.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/default.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/watch.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C015.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C003.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C004.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_base.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c015.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c004.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-groupbookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c004.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/HTML_CodeSniffer/Standards/WCAG2AAA/Sniffs/Principle1/Guideline1_2/1_2_1.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-search--container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-book--flight.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-recentsearch--container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/partials/_typography.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/tsconfig.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/slideout.js/dist/slideout.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c015.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/menu.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/font-awesome/scss/font-awesome.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/typings/modules/slideout/index.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/pug/examples/layout.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/js/vendor/slideout.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/spec/unit/product.spec.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/js/vendor/selectize.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/bower.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/bs-recipes/recipes/webpack.typescript.react/typings.json",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/book-flight.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/dummy-data/langSelector.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/bookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_01_header.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_09_responsive.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/header.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/mobileBookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/main-nav.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/validate-container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/mobile-validate-container.pug",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/mobile-book--nav.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_04_selectize.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_10_viewbooking.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_08_multicitybookingform.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/newsletter.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/mobile-book--flight.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/bootstrap-daterangepicker/daterangepicker.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/bootstrap-daterangepicker/daterangepicker.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/js/vendor/daterangepicker.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_05_bookingform.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/css/maps/all.css.map",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/all.css",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/selectizeAccessibility.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/selectize-accessibility/selectize-accessibility.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/selectize-accessibility.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/viewbooking.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/booking-nav--newsletter.pug",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.coffee",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.scss",
+			"<project>, *.ts",
+			"<project>, *.scss",
+			"<project>, *.ts",
+			"<project>, *.sts",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.coffee",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.coffee",
+			"<project>, *.scss",
+			"<project>",
+			"<project>, *.pug",
+			"<project>, *.js",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icon",
+			"deals-list--items",
+			"1200px",
+			"passenger",
+			"mhm_number",
+			"eee",
+			"$heading-height",
+			"guest",
+			"mhm_terms_acceptance",
+			"#mhm_guest_login_fields",
+			"member_login .member_login_form",
+			"login_details",
+			"019AAF",
+			"0088cc",
+			"acceptance",
+			"terms",
+			"checkbox",
+			"inline",
+			".span6",
+			".span9",
+			".control-group",
+			"label__img",
+			"card__details",
+			"medium",
+			"@include respond-to(620",
+			"1090",
+			"card__overview",
+			"card__moreinfo",
+			"35",
+			"&",
+			"$lightgray",
+			"20px",
+			"cardIndex+'_'+tabIndex+'_'+index",
+			"title",
+			"_title",
+			"item.index",
+			"c005-mobile-book--nav",
+			"init",
+			"Headroom",
+			"notbottom",
+			"scroller",
+			"element",
+			"error__list",
+			".error__list",
+			"ul.error__list",
+			"$passengerDetailsActive",
+			"passenger-details-selected--container",
+			"has_error",
+			"alert-",
+			"container--",
+			"2s",
+			"\n\t\t",
+			"#mob-flightstatus--container",
+			"- 20px",
+			"start: header component",
+			"min-width",
+			"&.desktop",
+			"headroom",
+			"mab-header",
+			"style",
+			"@include respond-to",
+			"@respond-to (",
+			"@respond-to(",
+			"slick",
+			"headroom",
+			"mobile-flight-status",
+			"mobile-view-booking",
+			"mobile-check-in",
+			"console.",
+			"else{",
+			"$bannerHeight",
+			"$mabHeader",
+			"$stickyNavHeight",
+			"$alertContainer",
+			"$bannerHeight",
+			"mobile-book-flight",
+			"mobile-bookflight",
+			"click",
+			"ready(",
+			"moment",
+			"import 'moment",
+			"moment",
+			"head",
+			"headroom",
+			"data-language",
+			"language",
+			"getDefaultCountry",
+			"setDefaultCountry",
+			"countryObj",
+			"currCountryLang",
+			"selected-country--lang",
+			"changeval",
+			"each",
+			"$bannerHeight",
+			"slideout",
+			"mobile-view-booking",
+			"resize",
+			"$adultSel",
+			";\n",
+			"selectize",
+			"top: 6px",
+			"')\n",
+			"multicitytolocation",
+			"multiCitytoLocation",
+			"e_location",
+			"removebt",
+			"remove",
+			"clearerro",
+			"multibookingform",
+			"validation",
+			"formsubmit",
+			"$errorValidation\n",
+			"submitform",
+			"multicitysubmitform",
+			"remove",
+			"clearError",
+			"errorMsg",
+			"function errorMsg",
+			"errorMsg",
+			"$infantSelectedEle",
+			"has_infant",
+			"console.log",
+			"multiBookingFormSubmit",
+			"formsubmit",
+			"alert",
+			"multiCleanDestData",
+			"multiBookingFormS",
+			"multiBookingForm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			".form-group",
+			"@include respond-to(767",
+			"$border-color",
+			"$content-padding",
+			"index",
+			"c056-card-content",
+			"has-error",
+			"else {",
+			"multiCityDepartureDate",
+			"multicityDepartureDate",
+			"multicity-to--location.depLocationEnd",
+			"multicity-from--location.depLocationBegin",
+			"#form-booking--trip",
+			"initMultiCityAddRemoveBtns",
+			"} else",
+			"$errorValidation",
+			") {",
+			":any ",
+			"() {",
+			"if (",
+			"else {",
+			"_self",
+			"multi-city--hide.multi-city--destination-group",
+			"multicityAddFlights",
+			"// not in style-guide",
+			"yrs",
+			"$('.search-container').show();\n$('.search-container').parent().addClass('expanded');",
+			"images/oneworld-logo.svg",
+			"language",
+			".svg",
+			"/images/flags",
+			"required='required')",
+			"aria-required='true'",
+			".onewaytrip #returnTripDepartMobileOneWay",
+			".oneWayTrip #returnTripDepartOneWay",
+			"passDetailsContSelected",
+			"passDetailsCont",
+			", aria-required=\"true\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/html/templates/login.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/gulp/tasks/default.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										324,
+										325
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										274,
+										275
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/mab-bootstrap.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2877,
+								2877
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/html/components/late-login.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/html/layouts/default.pug",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								881,
+								883
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										885,
+										886
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										877,
+										878
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/ts/lateLogin.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4059,
+										4060
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										77,
+										78
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/module/_18_latelogin.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4736,
+								4736
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4951,
+										4952
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4735,
+										4736
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 4555.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/module/_05_bookingform.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11208,
+								11208
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										11268,
+										11269
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										11134,
+										11135
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8705.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										531,
+										532
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										116,
+										117
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/dist/js/lateLogin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1689,
+								1689
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1695,
+										1696
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1677,
+										1678
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 841.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/dist/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6466,
+								6466
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"file": "/Users/dgan/workspace/MAB/USA-MAB-Update/assets/sass/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/One Dark (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.487751656256,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MAB 2016 RMD (USA Site).sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bookingscss",
+				"assets/sass/module/_05_bookingform.scss"
+			],
+			[
+				"_base",
+				"assets/sass/_base.scss"
+			],
+			[
+				"loginhtml",
+				"dist/login.html"
+			],
+			[
+				"lateloginscss",
+				"assets/sass/module/_17_latelogin.scss"
+			],
+			[
+				"variabscs",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"defaultcofee",
+				"gulp/tasks/default.coffee"
+			],
+			[
+				"pugcoff",
+				"gulp/tasks/pug.coffee"
+			],
+			[
+				"varia",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"pugcoffee",
+				"gulp/tasks/pug.coffee"
+			],
+			[
+				"vendorbootstrapsassmixins",
+				"assets/vendor/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss"
+			],
+			[
+				"bootstrapscss",
+				"assets/sass/mab-bootstrap.scss"
+			],
+			[
+				"c002ts",
+				"assets/ts/c002.ts"
+			],
+			[
+				"indexpug",
+				"html/templates/index.pug"
+			],
+			[
+				"defaultpug",
+				"html/layouts/default.pug"
+			],
+			[
+				"maints",
+				"assets/ts/main.ts"
+			],
+			[
+				"headroomjs",
+				"dist/js/vendor/headroom.js"
+			],
+			[
+				"jqueryheadr",
+				"dist/js/vendor/jQuery.headroom.js"
+			],
+			[
+				"declara",
+				"dts/declaration.d.ts"
+			],
+			[
+				"pug",
+				"gulp/tasks/pug.coffee"
+			],
+			[
+				"homep",
+				"html/layouts/home.pug"
+			],
+			[
+				"tscoffee",
+				"gulp/tasks/ts.coffee"
+			],
+			[
+				"c002scss",
+				"assets/sass/module/_C002.scss"
+			],
+			[
+				"ts.coffee",
+				"gulp/tasks/ts.coffee"
+			],
+			[
+				"c005",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"sass.c",
+				"gulp/tasks/sass.coffee"
+			],
+			[
+				"c005scss",
+				"assets/sass/module/_C005.scss"
+			],
+			[
+				"c005pug",
+				"html/components/c005.pug"
+			],
+			[
+				"c002",
+				"html/molecules/c002-mobile--menu.pug"
+			],
+			[
+				"c002pug",
+				"html/components/c002.pug"
+			],
+			[
+				"zindex",
+				"assets/sass/_z-index.scss"
+			],
+			[
+				"variabes",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"c001pug",
+				"html/components/c001.pug"
+			],
+			[
+				"headerpug",
+				"html/components/header.pug"
+			],
+			[
+				"templateindex",
+				"html/templates/index.pug"
+			],
+			[
+				"layouthome",
+				"html/layouts/home.pug"
+			],
+			[
+				"pug.coff",
+				"gulp/tasks/pug.coffee"
+			],
+			[
+				"mixinscss",
+				"assets/sass/_mixins.scss"
+			],
+			[
+				"c005mobile",
+				"assets/ts/c005-mobileBookingform.ts"
+			],
+			[
+				"layoutdefau",
+				"html/layouts/default.pug"
+			],
+			[
+				"copy",
+				"gulp/tasks/copy.coffee"
+			],
+			[
+				"main.ts",
+				"assets/ts/main.ts"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"langselec",
+				"assets/dummy-data/langSelector.json"
+			],
+			[
+				"c005booki",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"formscs",
+				"assets/sass/partials/_forms.scss"
+			],
+			[
+				"c009",
+				"assets/sass/module/_C009.scss"
+			],
+			[
+				"c017scss",
+				"assets/sass/module/_C017.scss"
+			],
+			[
+				"c009scss",
+				"assets/sass/module/_C009.scss"
+			],
+			[
+				"15footer",
+				"assets/sass/module/_15_footerContainer.scss"
+			],
+			[
+				"c015scss",
+				"assets/sass/module/_C015.scss"
+			],
+			[
+				"c015",
+				"assets/ts/c015.ts"
+			],
+			[
+				"variab",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"mobilepug",
+				"html/molecules/c002-mobile--menu.pug"
+			],
+			[
+				"sass",
+				"gulp/tasks/sass.coffee"
+			],
+			[
+				"c005ts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"c004pug",
+				"html/components/c004.pug"
+			],
+			[
+				"12",
+				"node_modules/HTML_CodeSniffer/Standards/WCAG2AAA/Sniffs/Principle1/Guideline1_2/1_2_1.js"
+			],
+			[
+				"formsscss",
+				"assets/sass/partials/_forms.scss"
+			],
+			[
+				"recentsearch",
+				"html/molecules/c005-recentsearch--container.pug"
+			],
+			[
+				"c004",
+				"assets/sass/module/_C004.scss"
+			],
+			[
+				"c003",
+				"assets/sass/module/_C003.scss"
+			],
+			[
+				"bootstrapformscss",
+				"assets/vendor/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss"
+			],
+			[
+				"c001",
+				"assets/sass/module/_C001.scss"
+			],
+			[
+				"typograp",
+				"assets/sass/partials/_typography.scss"
+			],
+			[
+				"vari",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"fontscss",
+				"node_modules/font-awesome/scss/font-awesome.scss"
+			],
+			[
+				"slodeoutjs",
+				"assets/vendor/slideout.js/dist/slideout.js"
+			],
+			[
+				"layout",
+				"node_modules/pug/examples/layout.pug"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"bowerjs",
+				"bower.json"
+			],
+			[
+				"selectizejs",
+				"dist/js/vendor/selectize.js"
+			],
+			[
+				"slideout",
+				"dist/js/vendor/slideout.js"
+			],
+			[
+				"variablescss",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"",
+				"assets/ts/c002.ts"
+			],
+			[
+				"slideout.js",
+				"dist/js/vendor/slideout.js"
+			],
+			[
+				"typings",
+				"node_modules/bs-recipes/recipes/webpack.typescript.react/typings.json"
+			],
+			[
+				"c001scss",
+				"assets/sass/module/_C001.scss"
+			],
+			[
+				"c002pu",
+				"html/components/c002.pug"
+			],
+			[
+				"c004scss",
+				"assets/sass/module/_C004.scss"
+			],
+			[
+				"c003scss",
+				"assets/sass/module/_C003.scss"
+			],
+			[
+				"responsive",
+				"assets/sass/module/_09_responsive.scss"
+			],
+			[
+				"responsivescss",
+				"assets/sass/module/_09_responsive.scss"
+			],
+			[
+				"selectize",
+				"dist/js/vendor/selectize.js"
+			],
+			[
+				"headerscss",
+				"assets/sass/module/_01_header.scss"
+			],
+			[
+				"bookingform",
+				"assets/ts/bookingform.ts"
+			],
+			[
+				"bookingfor",
+				"assets/ts/bookingform.ts"
+			],
+			[
+				"hea",
+				"assets/ts/header.ts"
+			],
+			[
+				"mobilebook",
+				"assets/ts/mobileBookingform.ts"
+			],
+			[
+				"daterangepicker.js",
+				"node_modules/bootstrap-daterangepicker/daterangepicker.js"
+			],
+			[
+				"bookingts",
+				"assets/ts/bookingform.ts"
+			],
+			[
+				"css.map",
+				"dist/css/maps/all.css.map"
+			],
+			[
+				"all.css",
+				"all.css"
+			],
+			[
+				"09res",
+				"assets/sass/module/_09_responsive.scss"
+			],
+			[
+				"04",
+				"assets/sass/module/_04_selectize.scss"
+			],
+			[
+				"selectizescss",
+				"assets/sass/module/_04_selectize.scss"
+			],
+			[
+				"selectize.js",
+				"dist/js/vendor/selectize.js"
+			],
+			[
+				"viewbooking",
+				"assets/sass/module/_10_viewbooking.scss"
+			],
+			[
+				"viewbookin",
+				"assets/ts/viewbooking.ts"
+			],
+			[
+				"bookflight",
+				"html/molecules/mobile-book--flight.pug"
+			],
+			[
+				"newsletter",
+				"html/molecules/newsletter.pug"
+			],
+			[
+				"booking",
+				"html/components/booking-nav--newsletter.pug"
+			],
+			[
+				"am",
+				"amadeus-booking.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

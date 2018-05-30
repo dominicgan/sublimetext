@@ -1,27 +1,9 @@
 {
 	"always_show_minimap_viewport": true,
-	"binary_file_patterns":
-	[
-		"*.tar.gz",
-		"*.scssc",
-		"*.jpg",
-		"*.jpeg",
-		"*.png",
-		"*.gif",
-		"*.ttf",
-		"*.tga",
-		"*.dds",
-		"*.ico",
-		"*.eot",
-		"*.pdf",
-		"*.swf",
-		"*.jar",
-		"*.zip"
-	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai-Soft (SL).tmTheme",
 	"drag_text": false,
 	"enable_tab_scrolling": true,
 	"fade_fold_buttons": false,
@@ -33,7 +15,6 @@
 		"*.pyo",
 		"*.exe",
 		"*.dll",
-		"*.obj",
 		"*.o",
 		"*.a",
 		"*.lib",
@@ -44,41 +25,52 @@
 		"*.suo",
 		"*.pdb",
 		"*.idb",
-		".DS_Store",
+		"*.DS_Store",
 		"*.class",
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
 		"*.sublime-project",
-		"*.*~"
+		"*~"
 	],
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
 		".hg",
-		"CVS",
-		"scss/neat/*"
+		"*/bourbon/*",
+		"*/neat/*",
+		"*/target/*"
 	],
-	"font_face": "Consolas",
+	"font_face": "Hack",
 	"font_options":
 	[
-		"directwrite"
+		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Color Highlighter",
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 3,
 	"material_theme_accent_yellow": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
 	"material_theme_compact_panel": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_disable_folder_animation": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tree_headings": false,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material Spacegray.sublime-theme"
+	"theme": "Material-Theme.sublime-theme"
 }

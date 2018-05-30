@@ -1,0 +1,998 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getofficecode"
+			],
+			[
+				"$mcityTo",
+				"$mcityToSelectize"
+			],
+			[
+				"bookingform",
+				"bookingformcontent"
+			],
+			[
+				"only",
+				"on-the-fly\t(multiple-booking.js)"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"$boo",
+				"$bookingIbeHeight"
+			],
+			[
+				"scrollTo",
+				"scrollTop"
+			],
+			[
+				"$bookingNav",
+				"$bookingNavLinks"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"country-select",
+				"country-selector--container--mobile"
+			],
+			[
+				"input-f",
+				"input-focused\t(c005-groupbookingform.ts)"
+			],
+			[
+				"GOth",
+				"Gotham-Book"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"defaut",
+				"defaultCountry"
+			],
+			[
+				"languge",
+				"languages"
+			],
+			[
+				"currC",
+				"currCountryFlag"
+			],
+			[
+				"default",
+				"defaultCountry"
+			],
+			[
+				"deaf",
+				"defaultCountry"
+			],
+			[
+				"langauges",
+				"languages"
+			],
+			[
+				"fouc",
+				"focus\t(bookingform.ts)"
+			],
+			[
+				"count",
+				"countriesIndex"
+			],
+			[
+				"initCoun",
+				"initCountrySelectorMobile"
+			],
+			[
+				"forma",
+				"formaData"
+			],
+			[
+				"activeC",
+				"activeCellPosition"
+			],
+			[
+				"aria-l",
+				"aria-label"
+			],
+			[
+				"addFlgih",
+				"addFlightRemoveLabel"
+			],
+			[
+				"addFli",
+				"addFlightFlightLabel"
+			],
+			[
+				"arial",
+				"aria-labelledby"
+			],
+			[
+				"Mulit",
+				"Multicity"
+			],
+			[
+				"Multi",
+				"Multicity"
+			],
+			[
+				"aria-labl",
+				"aria-labelledby\t(mobile-book--flight.pug)"
+			],
+			[
+				"aria-label",
+				"aria-labelledby"
+			],
+			[
+				"aria-lab",
+				"aria-labelledby"
+			],
+			[
+				"brea",
+				"break-all"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"folde",
+				"folder_exclude_patterns\t(Preferences.sublime-settings)"
+			],
+			[
+				"highl",
+				"highlight_line\t(Preferences.sublime-settings)"
+			],
+			[
+				"font_",
+				"font_face\t(Preferences.sublime-settings)"
+			],
+			[
+				"alwa",
+				"always_show_minimap_viewport\t(Preferences.sublime-settings)"
+			],
+			[
+				"bold",
+				"bold_folder_labels\t(Preferences.sublime-settings)"
+			],
+			[
+				"cat",
+				"caret_style\t(Preferences.sublime-settings)"
+			],
+			[
+				"fase",
+				"false"
+			],
+			[
+				"line",
+				"line_padding_bottom\t(Preferences.sublime-settings)"
+			],
+			[
+				"line_",
+				"line_padding_top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 166.0,
+		"last_filter": "add pr",
+		"selected_items":
+		[
+			[
+				"add pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"togglelint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacak",
+				"Package Control: Install Package"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dgan/workspace/MAB/ramadan"
+	],
+	"file_history":
+	[
+		"/Users/dgan/workspace/MAB/ramadan/assets/ts/campaign.ts",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/contact-us.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/customer-service-plan.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/deals.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/destinations.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/experience.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C009.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/group-booking.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/legal.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/privacy-policy.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/terms-conditions.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/travel-information.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_15_footerContainer.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_mixins.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C017.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c002-mobile--menu.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/browser-sync.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_variables.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_z-index.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/default.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/ts.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/watch.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C005.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C015.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/main.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C003.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C004.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C002.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c002.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dts/declaration.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c003.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_C001.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-bookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/partials/_forms.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/_base.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/templates/index.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c015.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/sass.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/header.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c004.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/c005-groupbookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c004.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/HTML_CodeSniffer/Standards/WCAG2AAA/Sniffs/Principle1/Guideline1_2/1_2_1.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-search--container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-book--flight.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c005-recentsearch--container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/partials/_typography.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/tsconfig.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/bower.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/package.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/slideout.js/dist/slideout.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/c002.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/c015.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/menu.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/font-awesome/scss/font-awesome.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/typings/modules/slideout/index.d.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/layouts/home.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/layouts/default.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/pug/examples/layout.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/js/vendor/slideout.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/spec/unit/product.spec.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/js/vendor/selectize.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/bower.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/bs-recipes/recipes/webpack.typescript.react/typings.json",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/book-flight.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/dummy-data/langSelector.json",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/bookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_01_header.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_09_responsive.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/header.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/mobileBookingform.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/main-nav.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/validate-container.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/mobile-validate-container.pug",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/mobile-book--nav.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_04_selectize.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_10_viewbooking.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_08_multicitybookingform.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/newsletter.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/molecules/mobile-book--flight.pug",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/bootstrap-daterangepicker/daterangepicker.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/node_modules/bootstrap-daterangepicker/daterangepicker.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/js/vendor/daterangepicker.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/sass/module/_05_bookingform.scss",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/gulp/tasks/copy.coffee",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/dist/css/maps/all.css.map",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/all.css",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/selectizeAccessibility.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/vendor/selectize-accessibility/selectize-accessibility.js",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/selectize-accessibility.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/assets/ts/viewbooking.ts",
+		"/Users/dgan/workspace/MAB/MAB-RMD-WCAG/html/components/booking-nav--newsletter.pug",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dgan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			"<project>, *.scss",
+			"<project>, *.ts",
+			"<project>, *.scss",
+			"<project>, *.ts",
+			"<project>, *.sts",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.scss",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.coffee",
+			"<project>, *.ts",
+			"<project>, *.pug",
+			"<project>, *.ts",
+			"<project>, *.coffee",
+			"<project>, *.scss",
+			"<project>",
+			"<project>, *.pug",
+			"<project>, *.js",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"removebt",
+			"remove",
+			"clearerro",
+			"multibookingform",
+			"validation",
+			"formsubmit",
+			"$errorValidation\n",
+			"submitform",
+			"multicitysubmitform",
+			"remove",
+			"clearError",
+			"errorMsg",
+			"function errorMsg",
+			"errorMsg",
+			"$infantSelectedEle",
+			"has_infant",
+			"console.log",
+			"multiBookingFormSubmit",
+			"formsubmit",
+			"alert",
+			"multiCleanDestData",
+			"multiBookingFormS",
+			"multiBookingForm",
+			"        console.log($cabinClass);\n$cabinClass",
+			"$cabinClass",
+			"cabin",
+			"start",
+			"multiBookingFormSubmit",
+			"formsubmit",
+			"submit",
+			"cabin",
+			"MulticityDepartureDate",
+			"MulticityTrip",
+			"multiCleanDestData",
+			"formObj",
+			"multicity-to--location",
+			"multicity-from--location",
+			"passengersAdult",
+			"adult",
+			"#multi_booking_form",
+			"multi_booking_form",
+			"multiCleanDestData",
+			"formObj",
+			"multiBookingFormSubmit",
+			"multicitysubmitform",
+			"multiCityInitAddRemoveBtns",
+			"initSelectize",
+			"listItems",
+			"$searchContainer",
+			"multiBookingFormSubmit",
+			"multiBookingFormValidation",
+			"submit(",
+			"multiBookingFormSubmit",
+			"multicitysubmitform",
+			"getofficecode",
+			"multiBookingGetOfficeCode",
+			"multiBookingFormSubmit",
+			"getofficecode",
+			"onChange",
+			"country",
+			"getofficecode",
+			"submithand",
+			"submit",
+			"Malaysia",
+			"multiBookingGetOfficeCode",
+			"multiBookingFormValidation",
+			"et.",
+			"et",
+			".validation-content",
+			"}else",
+			"$passengerDetailsContainer",
+			"$passengerDetails",
+			"$errorValidation",
+			"$('.error-validation')",
+			"$('select.ibe-to--location')",
+			"$multiCityDateFormat",
+			"getMultiCityDate",
+			"firstDestHidden",
+			"calendarComponent",
+			"$multiCityTripInputThree",
+			"$calStartDate",
+			"datepicker",
+			"book-date--selector",
+			"date",
+			".book-date--selector",
+			"){",
+			"$multicityFromLocation",
+			": any ",
+			": any",
+			" :any",
+			"$multicityFromLocation",
+			"$multicityFromLocation ",
+			"$multicityFromLocation",
+			"(){",
+			"if(",
+			"else{",
+			"fromLocation .booking-form--title",
+			"$('.search-container')",
+			"$('.trip-type--container li.oneWayTrip')",
+			"multiBookingFormSubmit",
+			"_this",
+			"multicitysubmitform",
+			"submit",
+			"more-city--added",
+			"multi-city--hide",
+			"multi-city-",
+			"hidden",
+			"multi-cityTrip--Container",
+			"fourth-city-added",
+			"multicityAddFLights",
+			"font-family: 'MalaysiaAirlines-",
+			"mobile-footer",
+			"mobile-",
+			"footer",
+			"$ibeNavList",
+			"$bookingNav.",
+			"bookingNav",
+			"$ibeNavList",
+			"$scroll",
+			"$ibeNavList",
+			" '",
+			"slideout",
+			".mab-nav--overlay",
+			"$mabNavOverlay",
+			"$countryselectorMobile",
+			"#country-selector--mobile",
+			"$countryselectorMobile",
+			"country-selector--mobile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"multiCityDepartureDate",
+			"multicityDepartureDate",
+			"multicity-to--location.depLocationEnd",
+			"multicity-from--location.depLocationBegin",
+			"#form-booking--trip",
+			"initMultiCityAddRemoveBtns",
+			"} else",
+			"$errorValidation",
+			") {",
+			":any ",
+			"() {",
+			"if (",
+			"else {",
+			"_self",
+			"multi-city--hide.multi-city--destination-group",
+			"multicityAddFlights",
+			"// not in style-guide",
+			"yrs",
+			"$('.search-container').show();\n$('.search-container').parent().addClass('expanded');",
+			"images/oneworld-logo.svg",
+			"language",
+			".svg",
+			"/images/flags",
+			"required='required')",
+			"aria-required='true'",
+			".onewaytrip #returnTripDepartMobileOneWay",
+			".oneWayTrip #returnTripDepartOneWay",
+			"passDetailsContSelected",
+			"passDetailsCont",
+			", aria-required=\"true\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MAB 2016 RMD (Ramadan Promo).sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"camp",
+				"assets/ts/campaign.ts"
+			],
+			[
+				"c005",
+				"html/molecules/c005.pug"
+			],
+			[
+				"c009",
+				"assets/sass/module/_C009.scss"
+			],
+			[
+				"mixinscss",
+				"assets/sass/_mixins.scss"
+			],
+			[
+				"c017scss",
+				"assets/sass/module/_C017.scss"
+			],
+			[
+				"c009scss",
+				"assets/sass/module/_C009.scss"
+			],
+			[
+				"15footer",
+				"assets/sass/module/_15_footerContainer.scss"
+			],
+			[
+				"c015scss",
+				"assets/sass/module/_C015.scss"
+			],
+			[
+				"c015",
+				"assets/ts/c015.ts"
+			],
+			[
+				"c005scss",
+				"assets/sass/module/_C005.scss"
+			],
+			[
+				"c002scss",
+				"assets/sass/module/_C002.scss"
+			],
+			[
+				"variab",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"maints",
+				"assets/ts/main.ts"
+			],
+			[
+				"templateindex",
+				"html/templates/index.pug"
+			],
+			[
+				"mobilepug",
+				"html/molecules/c002-mobile--menu.pug"
+			],
+			[
+				"sass",
+				"gulp/tasks/sass.coffee"
+			],
+			[
+				"c002",
+				"assets/ts/c002.ts"
+			],
+			[
+				"c005ts",
+				"assets/ts/c005-bookingform.ts"
+			],
+			[
+				"c004pug",
+				"html/components/c004.pug"
+			],
+			[
+				"12",
+				"node_modules/HTML_CodeSniffer/Standards/WCAG2AAA/Sniffs/Principle1/Guideline1_2/1_2_1.js"
+			],
+			[
+				"formsscss",
+				"assets/sass/partials/_forms.scss"
+			],
+			[
+				"recentsearch",
+				"html/molecules/c005-recentsearch--container.pug"
+			],
+			[
+				"c004",
+				"assets/sass/module/_C004.scss"
+			],
+			[
+				"zindex",
+				"assets/sass/_z-index.scss"
+			],
+			[
+				"c003",
+				"assets/sass/module/_C003.scss"
+			],
+			[
+				"bootstrapformscss",
+				"assets/vendor/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss"
+			],
+			[
+				"formscs",
+				"assets/sass/partials/_forms.scss"
+			],
+			[
+				"c001",
+				"assets/sass/module/_C001.scss"
+			],
+			[
+				"typograp",
+				"assets/sass/partials/_typography.scss"
+			],
+			[
+				"c002ts",
+				"assets/ts/c002.ts"
+			],
+			[
+				"vari",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"fontscss",
+				"node_modules/font-awesome/scss/font-awesome.scss"
+			],
+			[
+				"slodeoutjs",
+				"assets/vendor/slideout.js/dist/slideout.js"
+			],
+			[
+				"layout",
+				"node_modules/pug/examples/layout.pug"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"bowerjs",
+				"bower.json"
+			],
+			[
+				"selectizejs",
+				"dist/js/vendor/selectize.js"
+			],
+			[
+				"slideout",
+				"dist/js/vendor/slideout.js"
+			],
+			[
+				"variablescss",
+				"assets/sass/_variables.scss"
+			],
+			[
+				"",
+				"assets/ts/c002.ts"
+			],
+			[
+				"slideout.js",
+				"dist/js/vendor/slideout.js"
+			],
+			[
+				"typings",
+				"node_modules/bs-recipes/recipes/webpack.typescript.react/typings.json"
+			],
+			[
+				"c001scss",
+				"assets/sass/module/_C001.scss"
+			],
+			[
+				"c002pu",
+				"html/components/c002.pug"
+			],
+			[
+				"c004scss",
+				"assets/sass/module/_C004.scss"
+			],
+			[
+				"c003scss",
+				"assets/sass/module/_C003.scss"
+			],
+			[
+				"responsive",
+				"assets/sass/module/_09_responsive.scss"
+			],
+			[
+				"responsivescss",
+				"assets/sass/module/_09_responsive.scss"
+			],
+			[
+				"selectize",
+				"dist/js/vendor/selectize.js"
+			],
+			[
+				"headerscss",
+				"assets/sass/module/_01_header.scss"
+			],
+			[
+				"langselec",
+				"assets/dummy-data/langSelector.json"
+			],
+			[
+				"bookingform",
+				"assets/ts/bookingform.ts"
+			],
+			[
+				"bookingfor",
+				"assets/ts/bookingform.ts"
+			],
+			[
+				"hea",
+				"assets/ts/header.ts"
+			],
+			[
+				"mobilebook",
+				"assets/ts/mobileBookingform.ts"
+			],
+			[
+				"daterangepicker.js",
+				"node_modules/bootstrap-daterangepicker/daterangepicker.js"
+			],
+			[
+				"bookingts",
+				"assets/ts/bookingform.ts"
+			],
+			[
+				"css.map",
+				"dist/css/maps/all.css.map"
+			],
+			[
+				"all.css",
+				"all.css"
+			],
+			[
+				"09res",
+				"assets/sass/module/_09_responsive.scss"
+			],
+			[
+				"bookingscss",
+				"assets/sass/module/_05_bookingform.scss"
+			],
+			[
+				"04",
+				"assets/sass/module/_04_selectize.scss"
+			],
+			[
+				"selectizescss",
+				"assets/sass/module/_04_selectize.scss"
+			],
+			[
+				"selectize.js",
+				"dist/js/vendor/selectize.js"
+			],
+			[
+				"viewbooking",
+				"assets/sass/module/_10_viewbooking.scss"
+			],
+			[
+				"viewbookin",
+				"assets/ts/viewbooking.ts"
+			],
+			[
+				"bookflight",
+				"html/molecules/mobile-book--flight.pug"
+			],
+			[
+				"newsletter",
+				"html/molecules/newsletter.pug"
+			],
+			[
+				"booking",
+				"html/components/booking-nav--newsletter.pug"
+			],
+			[
+				"am",
+				"amadeus-booking.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
